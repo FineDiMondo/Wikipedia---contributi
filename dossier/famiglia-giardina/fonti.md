@@ -16,12 +16,16 @@
 
 | Fonte | Tipo | Stato | Indipendente | Utilità per la voce | Note |
 | --- | --- | --- | --- | --- | --- |
-| Mango di Casalgerardo, *Nobiliario di Sicilia* (1912–1915) | Repertorio nobiliare | Identificata | Sì | Alta | Voce "Giardina" — fonte principale per genealogia |
+| Mango di Casalgerardo, *Nobiliario di Sicilia* (1912–1915) | Repertorio nobiliare | Identificata | Sì | Alta | Voci "Giardina", "Castiglia/Del Castillo" |
 | San Martino De Spucches, *La storia dei feudi e dei titoli nobiliari di Sicilia* (1924–1941) | Repertorio feudale | Identificata | Sì | Alta | Titoli e investiture |
 | Mugnos, *Teatro genologico delle famiglie nobili del Regno di Sicilia* (1647–1670) | Repertorio coevo | Identificata | Sì | Media | Coevo al periodo di Luigi Arias; usare con attenzione critica |
-| Villabianca, *Della Sicilia nobile* (1754–1775) | Repertorio nobiliare | Identificata | Sì | Media | |
-| Vito Amico, *Lexicon Topographicum Siculum* (1757–1760) | Dizionario geografico-storico | Identificata | Sì | Media | Voci "Ficarazzi" e "Santa Ninfa" |
+| Villabianca, *Della Sicilia nobile / Dizionario Storico Blasonico* (1754–1775) | Repertorio nobiliare | Identificata | Sì | Media | |
+| Amico, *Lexicon Topographicum Siculum* (1757–1760) | Dizionario geografico-storico | Identificata | Sì | Media | Voci "Ficarazzi", "Santa Ninfa", "Mazzarrà Sant'Andrea" |
 | Ferrara & Ferrara, *Riveli, platee e documenti feudali del Marchesato di Santa Ninfa* (1990) | Studio moderno | Identificata | Sì | Alta | Dedicato direttamente al marchesato |
+| Catalioto, studi sulla Sicilia normanna, Univ. Messina (2007) | Studio moderno | **Da verificare** | Sì | Media | **Titolo esatto e dati editoriali mancanti — priorità** |
+| Filangieri di Candida & Mazzoleni, *Registri della Cancelleria Angioina* (1950–1986) | Edizione fonti primarie | Identificata | Sì | Media | Utile per verificare assenza dei Giardina negli officiales regi |
+| *Calendar of Patent Rolls* (british-history.ac.uk) | Edizione fonti primarie | Identificata | Sì | Bassa | Paralleli onomastici inglesi (de Gardinis) |
+| Collinson, *History of Somerset* (1791) | Storia locale | Identificata | Sì | Bassa | Paralleli onomastici (Emeric de Gardino) |
 
 ## Genealogie digitali (indici, non fonti primarie)
 
