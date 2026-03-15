@@ -31,6 +31,17 @@ Questo file mappa la cronologia verificabile del casato secondo le fonti seconda
 | 19 feb. 1811 | Morte di Giulio Antonio Giardina Grimaldi; sepolto in Cattedrale di Palermo | — | Da confermare |
 | 30 gen. 1831 | Nascita di Antonino Giardina-Iaci a Palermo | FamilySearch GQVT-2KK | Da confermare |
 
+## Linea palermitana (XVI–XVII sec.) — da verificare [VALIDARE]
+
+| Data | Evento | Fonte-obiettivo | Stato |
+| --- | --- | --- | --- |
+| c. 1525–1530 | Pietro Giardina sposa Giulia Del Castillo | ASPa, Notai Defunti, prot. 1525–1545 | Da verificare |
+| c. 1555 | Luigi Giardina sposa Elisabetta Corvino | ASPa, Notai Defunti | Da verificare |
+| c. 1560 | Luigi Giardina sposa Maria de Guevara | ASPa, Notai Defunti | Da verificare |
+| c. 1580 | Diego Giardina sposa Maria Morso | ASPa, Notai Defunti | Da verificare |
+| c. 1630–1650 | Luigi Giardina sposa Vincenza Marquet | ASPa, Notai Defunti, prot. 1630–1650 | Da verificare |
+| c. 1650–1670 | Diego Giardina sposa Maria Rosalia Lucchesi | ASPa, Notai Defunti | Da verificare |
+
 ## Traccia medievale (XV sec.) — ipotetica, gap documentale 1447–1605
 
 | Data | Nome | Affermazione | Stato |

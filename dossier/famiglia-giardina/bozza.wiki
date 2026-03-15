@@ -34,6 +34,50 @@ Tradizioni genealogiche familiari, non ancora documentalmente verificate, colleg
 {{Da verificare}}
 Alcune ricerche genealogiche private propongono una possibile ascendenza [[Normanni in Sicilia|normanna]], identificando parallelismi araldici tra lo stemma dei Giardina (albero sradicato su campo argenteo) e quello della contea aragonese di [[Sobrarbe]] (albero sradicato su campo d'oro). Analoghe somiglianze si riscontrano con il [[Clan Jardine]] scozzese, il cui cognome deriverebbe dal normanno ''du Jardin''. Tali ipotesi rimangono a livello speculativo in assenza di documentazione genealogica diretta.
 
+== I Giardina palermitani (XVI–XVII secolo) ==
+<!--
+[VALIDARE] Tutta questa sezione si basa su genealogie di progetto non ancora confermate da fonti archivistiche primarie (ASPa, Notai Defunti). La sequenza generazionale è coerente con le fonti secondarie disponibili ma i capitoli matrimoniali singoli devono essere verificati. L'interpretazione del "pendolo strategico" è un'analisi di progetto, non un fatto storiografico pubblicato: mantenere come nota di lavoro, non come affermazione enciclopedica.
+-->
+
+=== Pietro Giardina e il matrimonio fondante (c. 1525–1530) ===
+
+Il capostipite documentato della casata è '''Pietro Giardina''' (nato intorno al 1500 a Palermo), identificato nelle fonti genealogiche come commerciante palermitano in ascesa economica.<ref>Mango di Casalgerardo, ''Nobiliario di Sicilia'', Palermo: A. Reber, 1912–1915, voce "Giardina".</ref> Intorno al 1525–1530 contrasse matrimonio con '''Giulia Del Castillo''' (nata intorno al 1530), figlia di '''Diego Lopez Del Castillo''' (c. 1510), verosimilmente un funzionario dell'apparato vicereale spagnolo in Sicilia.<ref>[VALIDARE] I capitoli matrimoniali, se redatti a Palermo, sono ricercabili presso l'Archivio di Stato di Palermo, Fondo Notai Defunti, protocolli 1525–1545.</ref>
+
+La casata Del Castillo — attestata in Sicilia nelle varianti ''Castiglia'', ''Castiglio'' e ''de Castilla'' — è documentata nel Nobiliario di Sicilia come famiglia di origine castigliana insediatasi a Messina, con blasone ''di rosso, alla torre d'argento''.<ref>Mango di Casalgerardo, ''Nobiliario di Sicilia'', voce "Castiglia/Castiglio/Del Castillo".</ref> La presenza di Diego Lopez in Sicilia intorno al 1510 si colloca nel contesto della transizione tra il regno di Ferdinando il Cattolico e quello di [[Carlo V d'Asburgo]] (1516), quando l'apparato statale dell'isola era popolato da funzionari e militari di origine iberica.
+
+=== La sequenza generazionale palermitana (XVI–XVII secolo) ===
+
+Dall'unione di Pietro e Giulia nacque '''Luigi Giardina''' (c. 1555). Le fonti genealogiche gli attribuiscono due unioni successive: la prima con '''Elisabetta Corvino''' (c. 1555), figlia di Giovanello Corvino e Eleonora Barresi, che generò '''Diego Giardina''' (c. 1580); la seconda con '''Maria de Guevara''' (c. 1560), dalla quale deriva la componente ''de Guevara'' presente nel cognome composito della casata ancora nel XVIII secolo.<ref>[VALIDARE] La forma estesa ''Giardina De Guevara Lucchese ed Alagona'' è documentata per Luigi Gerardo Giardina nel 1733. L'attribuzione della componente ''de Guevara'' al matrimonio di Luigi Giardina (c. 1555) è una ricostruzione genealogica che richiede verifica archivistica.</ref>
+
+Diego Giardina (c. 1580) sposò '''Maria Morso''' (c. 1580), generando '''Luigi Giardina''' (c. 1610). Quest'ultimo contrasse matrimonio con '''Vincenza Marquet''' (c. 1620), figlia di Guiscardo Marquet e Francesca Giardina — un'alleanza con la componente aragonese-catalana presente in Sicilia.<ref>[VALIDARE] La famiglia Marquet è attestata in Sicilia con ascendenza catalana; la verifica dell'unione richiede i protocolli notarili di Palermo (ASPa, Notai Defunti, c. 1630–1650).</ref> Da questa unione nacque '''Diego Giardina''' (c. 1640).
+
+=== Il matrimonio Giardina-Lucchesi: la svolta patrimoniale ===
+
+La generazione decisiva fu quella di '''Diego Giardina''' (c. 1640), che sposò '''Maria Rosalia Lucchesi''' (c. 1650), figlia di Giuseppe Lucchesi e Laura Lucia d'Alagona. Questa unione portò nella casata sia un rilevante patrimonio feudale sia la connessione con la nobile casata [[Alagona]] — uno dei grandi lignaggi medievali siciliani — attraverso la madre Laura Lucia. La componente ''Alagona'' è documentata nella forma massima del cognome composito usata nel 1733.<ref>[VALIDARE] L'investitura del 1733 e le forme del cognome composito sono verificabili presso ASPa, Real Cancelleria / Conservatoria del Registro.</ref>
+
+Dal matrimonio Diego Giardina–Maria Rosalia Lucchesi nacque '''Luigi Gerardo Giardina''' (c. 1680), che avrebbe ottenuto nel 1733 il Principato di Ficarazzi.
+
+=== Schema delle alleanze matrimoniali (1530–1650) ===
+<!--
+[NOTA DI LAVORO] La lettura delle alleanze come "pendolo strategico" è un'interpretazione analitica di progetto, coerente con la storiografia sulla nobiltà siciliana (Ligresti, Trasselli) ma non attestata come affermazione diretta in nessuna fonte secondaria pubblicata. La tabella è utile come strumento interno; prima della pubblicazione nello spazio principale occorre una fonte secondaria che supporti esplicitamente questa lettura, oppure la tabella va presentata senza il commento interpretativo.
+-->
+
+{| class="wikitable"
+! Generazione !! Sposo Giardina !! Sposa !! Origine casata !! Nota
+|-
+| IV || Pietro Giardina (c. 1500) || Giulia Del Castillo (c. 1530) || Castigliana (vicereale) || Prima alleanza ispanica [VALIDARE]
+|-
+| V-a || Luigi Giardina (c. 1555) || Elisabetta Corvino (c. 1555) || Palermitana (Corvino/Barresi) || Radicamento nobiltà locale [VALIDARE]
+|-
+| V-b || Luigi Giardina (c. 1555) || Maria de Guevara (c. 1560) || Ispanica (Guevara) || Origine componente ''de Guevara'' [VALIDARE]
+|-
+| VI || Diego Giardina (c. 1580) || Maria Morso (c. 1580) || Messinese/palermitana || [VALIDARE]
+|-
+| VII || Luigi Giardina (c. 1610) || Vincenza Marquet (c. 1620) || Aragonese-catalana (Marquet) || [VALIDARE]
+|-
+| VIII || Diego Giardina (c. 1640) || Maria Rosalia Lucchesi (c. 1650) || Palermitana (Lucchesi/Alagona) || Svolta patrimoniale; apre alla fase feudale
+|}
+
 == Fondazione della nobiltà (1605–1627) ==
 
 Il capostipite della linea nobiliare è '''Luigi Arias Giardina''' (c. 1580–1627), mercante palermitano di successo che trasformò la propria ricchezza commerciale in nobiltà territoriale.

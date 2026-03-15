@@ -28,6 +28,9 @@ Ultimo titolare: Antonino Giardina-Iaci (n. 1831), che cumula i titoli con quell
 
 ## Sezioni che richiedono validazione archivistica prima della pubblicazione [VALIDARE]
 
+- **Linea palermitana XVI–XVII sec.**: tutti i capitoli matrimoniali (Pietro/Del Castillo, Luigi/Corvino, Luigi/de Guevara, Diego/Morso, Luigi/Marquet, Diego/Lucchesi) — ASPa, Notai Defunti
+- **Componenti onomastiche composte** (de Guevara, Alagona): attribuzione generazionale da confermare
+- **Schema alleanze matrimoniali**: interpretazione analitica di progetto — non pubblicare come affermazione enciclopedica senza fonte secondaria dedicata
 - Origini medievali: gap documentale 1447–1605 tra Enrico Giardina e Luigi Arias
 - Ipotesi origini normanne: solo speculativa, nessun documento diretto
 - Ramo Val Demone (ASMe): da verificare presso Archivio di Stato di Messina
