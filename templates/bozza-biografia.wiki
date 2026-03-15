@@ -1,0 +1,28 @@
+<!--
+Bozza locale per biografia Wikipedia.
+Compilare solo con dati coperti da fonti indipendenti e affidabili.
+Per persone viventi evitare dettagli privati, controversi o non perfettamente verificati.
+-->
+
+'''{{NOME_SOGGETTO}}''' (...) e' stato/a {{RUOLO_O_MOTIVO_DI_NOTORIETA}}.
+
+== Biografia ==
+
+Scrivere in ordine cronologico, usando solo fatti supportati da note.
+
+== Attivita ==
+
+Descrivere il motivo per cui il soggetto e' trattato da fonti indipendenti.
+
+== Riconoscimenti ==
+
+Se pertinenti e fontati.
+
+== Note ==
+<references />
+
+== Bibliografia ==
+* 
+
+== Collegamenti esterni ==
+* 

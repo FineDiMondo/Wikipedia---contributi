@@ -1,0 +1,25 @@
+<!--
+Bozza locale per famiglia/casato.
+Non usare questo modello per creare un semplice albero genealogico.
+La famiglia deve avere rilevanza storica autonoma documentata da fonti secondarie.
+-->
+
+La '''{{NOME_SOGGETTO}}''' e' una famiglia {{CONTESTO_STORICO_O_GEOGRAFICO}}.
+
+== Storia ==
+
+Riassumere solo gli elementi trattati da fonti autorevoli e indipendenti.
+
+== Membri rilevanti ==
+
+Inserire solo persone gia' enciclopediche o chiaramente trattate dalle fonti.
+
+== Fonti storiche ==
+
+Indicazione sintetica delle opere o dei repertori usati.
+
+== Note ==
+<references />
+
+== Bibliografia ==
+* 
