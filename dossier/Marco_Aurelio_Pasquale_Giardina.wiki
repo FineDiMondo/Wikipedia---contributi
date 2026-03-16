@@ -1,0 +1,164 @@
+{{Avvisounicode}}
+{{Bio
+|Nome = Marco Aurelio Pasquale
+|Cognome = Giardina
+|Sesso = M
+|LuogoNascita = 
+|GiornoMeseNascita = 
+|AnnoNascita = 
+|LuogoMorte = 
+|GiornoMeseMorte = 
+|AnnoMorte = 
+|Attività = sindacalista
+|Attività2 = dirigente politico
+|Nazionalità = italiano
+}}
+
+'''Marco Aurelio Pasquale Giardina''' (comunemente noto come '''Marco Giardina''') è stato un [[sindacalista]] e [[dirigente politico]] italiano del [[secondo dopoguerra]]. Fu tra i principali esponenti del [[Partito Comunista Italiano]] (PCI) e della [[Confederazione Generale Italiana del Lavoro]] (CGIL), con ruoli di vertice prima nella provincia di [[Pisa]] e poi nel [[bacino carbonifero del Sulcis]], in [[Sardegna]].
+
+La sua figura incarna il profilo dell'[[intellettuale organico]] gramsciano: formatosi alla [[Scuola Normale Superiore di Pisa]], seppe tradurre la raffinatezza teorica in una straordinaria capacità di organizzazione e mobilitazione di massa, guidando decine di migliaia di minatori contro uno dei complessi industriali di Stato più monolitici dell'epoca, la [[Carbosarda]].
+
+{{Avviso|testo='''Nota metodologica''': I dati anagrafici esatti (luogo e data di nascita e di morte) non risultano dalle fonti archivistiche attualmente digitalizzate. Le coordinate cronologiche della sua attività direttiva lo collocano generazionalmente come intellettuale formatosi nel ventennio fascista, maturato durante la [[seconda guerra mondiale]] e asceso ai vertici sindacali provinciali nella seconda metà degli [[anni 1940]].}}
+
+==Formazione e attività in Toscana (1930–1946)==
+
+===La Scuola Normale Superiore di Pisa===
+
+L'ancoraggio biografico fondamentale per comprendere la postura intellettuale di Marco Giardina è il suo prolungato passaggio alla [[Scuola Normale Superiore di Pisa]] durante gli anni del [[fascismo]] e le prime fasi della [[seconda guerra mondiale]]. Negli [[anni 1930|anni Trenta]] e [[anni 1940|Quaranta]], la Normale rappresentava il principale crocevia in cui le élite culturali e scientifiche del Paese venivano selezionate dal regime, ma diveniva parallelamente un formidabile vivaio dell'[[antifascismo]] militante.
+
+L'ambiente normalista, permeato da un rigore metodologico inflessibile, permise a Giardina di acquisire quegli strumenti di analisi dialettica e materiale che avrebbero successivamente innervato la sua eccezionale capacità di leadership sindacale. L'approccio scientifico all'organizzazione del lavoro e la sofisticata dialettica negoziale mostrata anni dopo di fronte agli ingegneri della Carbosarda testimoniano una mente forgiata ai più alti livelli dell'Accademia italiana.
+
+In questo contesto, l'incontro con le teorie [[marxismo|marxiste]] e la conseguente adesione al [[Partito Comunista d'Italia]] trasformarono il giovane studente in un perfetto «[[intellettuale organico]]», secondo la nota accezione coniata da [[Antonio Gramsci]].<ref>Antonio Gramsci, ''Quaderni del carcere'', Quaderno 12: gli intellettuali e l'organizzazione della cultura.</ref>
+
+===La Camera del Lavoro di Pisa (1945–1946)===
+
+Il crollo del regime fascista, la [[Resistenza italiana|Resistenza]] e i primissimi mesi dell'immediato dopoguerra segnarono il passaggio di Giardina dall'elaborazione teorica alla militanza attiva. Le fonti lo documentano nel suo primo ruolo di grande responsabilità pubblica: '''Segretario generale della [[Camera del Lavoro]] di [[Pisa]]''' e membro autorevole della segreteria della Federazione provinciale del PCI di Pisa.
+
+Guidare la Camera del Lavoro pisana nel biennio [[1945]]–[[1946]] significava governare un territorio caratterizzato da profonde lacerazioni sociali e da un tessuto produttivo da riconvertire dall'economia di guerra. In questa veste, Giardina affinò le tecniche di penetrazione nelle fabbriche, l'organizzazione delle [[Commissioni Interne]] e la conduzione della contrattazione collettiva.
+
+I quadri nazionali della neonata [[CGIL]] unitaria, guidata da [[Giuseppe Di Vittorio]], e la direzione del PCI di [[Palmiro Togliatti]] decisero di impiegarlo in uno scacchiere ancora più arduo: il bacino minerario del Sulcis.
+
+==La missione in Sardegna==
+
+===Carbonia e il Sulcis: eccezionalità di un contesto===
+
+[[File:Carbonia-Stemma.svg|thumb|right|100px|Stemma del comune di [[Carbonia]], fondata nel 1938 come città mineraria di fondazione fascista]]
+
+Tra la fine del [[1946]] e i primissimi mesi del [[1947]], Marco Giardina fu inviato in Sardegna per assumere la carica di '''Segretario della [[Camera del Lavoro]] di [[Carbonia]]'''.
+
+[[File:Grande miniera di Serbariu.jpg|thumb|right|280px|La [[Grande Miniera di Serbariu]], principale sito estrattivo del [[bacino carbonifero del Sulcis]] e fulcro attorno cui gravitava l'intera vita sociale ed economica di Carbonia]]
+
+[[Carbonia]] non era una città di origine spontanea, bensì una ''città di fondazione'', inaugurata da [[Benito Mussolini]] nel dicembre [[1938]] per supportare le politiche di [[autarchia]] energetica del regime fascista. La sua stratificazione sociale era intrinsecamente legata all'estrazione del carbone e al monopolio assoluto esercitato dall'azienda statale [[Carbosarda]] (ramo operativo dell'[[Azienda Carboni Italiani|A.Ca.I.]]). Demograficamente, la città costituiva un crogiolo esplosivo: vi convergevano pastori sardi sradicati dalle campagne, operai continentali (spesso ex confinati politici), tecnici ed ingegneri fedeli allo Stato-padrone.
+
+[[File:Lampada carbone e casco.JPG|thumb|right|200px|Lampada da miniera e casco da lavoro, tipica dotazione dei minatori del Sulcis. [[Museo del Carbone]], [[Carbonia]]]]
+
+L'azienda esercitava un controllo quasi totale sulla forza lavoro: gestiva non solo i pozzi, ma anche l'assegnazione degli alloggi, gli spacci aziendali per i generi di prima necessità, le strutture ricreative e le cure mediche, dettando i ritmi di vita dell'intera comunità.
+
+{| class="wikitable" style="font-size:90%; width:100%"
+|+ Il sistema di controllo della Carbosarda e le risposte sindacali di Giardina
+! Dimensione aziendale !! Impatto sociologico ed economico !! Strategia sindacale di Giardina
+|-
+| '''Monopolio Abitativo''' || Le case dei minatori appartenevano all'azienda. Lo sciopero comportava il rischio di sfratto immediato. || Costruzione di una solidarietà di quartiere; il sindacato come fornitore alternativo di assistenza e mutuo soccorso.
+|-
+| '''Monopolio Commerciale''' || I salari venivano spesi negli «spacci aziendali». Il controllo sui prezzi determinava il costo della vita. || Rivendicazione di aumenti salariali sganciati dal circuito chiuso aziendale; lotta al carovita.
+|-
+| '''Monopolio Disciplinare''' || Capisquadra e sorveglianti esercitavano un potere assoluto e spesso violento nei pozzi. || Istituzionalizzazione delle Commissioni Interne per limitare l'arbitrio padronale e garantire i diritti civili in miniera.
+|}
+
+===La Camera del Lavoro come contropotere istituzionale===
+
+[[File:Museo Miniera Serbariu.jpg|thumb|right|220px|Interno del [[Museo del Carbone]] di Serbariu, che conserva la memoria delle lotte operaie e degli strumenti di lavoro utilizzati nei pozzi durante gli anni delle grandi vertenze]]
+
+In questo contesto, la Camera del Lavoro non si limitava ad operare come semplice sindacato rivendicativo, ma assumeva i contorni di un vero e proprio contropotere, rappresentando l'unica istituzione laica e democratica capace di contrastare il totalitarismo aziendale. Sotto la guida di Giardina, la Camera del Lavoro di Carbonia conobbe una stagione di fioritura senza precedenti, arrivando a contare '''18.000 iscritti''' attivi e militanti.
+
+Questo numero impressionante trasformò l'istituzione in un bastione del movimento operaio, tanto da far guadagnare alla città mineraria l'appellativo storico di «[[Stalingrado della Sardegna]]». Giardina divenne il braccio operativo e intellettuale di una dirigenza formidabile che annoverava personalità del calibro di [[Velio Spano]] (deputato e leader nazionale), Renato Mistroni, Antonio Sellitti, Pietro Cocco e Licio Atzeni (padre dello scrittore [[Sergio Atzeni]]).<ref>Antonello Mattone, ''Velio Spano. Vita di un rivoluzionario di professione''.</ref>
+
+==La crisi del 1947==
+
+L'anno [[1947]] segnò uno spartiacque drammatico per l'Italia e, di riflesso, per il Sulcis. Nel mese di maggio i partiti della sinistra marxista vennero bruscamente estromessi dal governo presieduto da [[Alcide De Gasperi]], segnando la fine del governo di unità nazionale antifascista. Contestualmente, la cosiddetta «[[Linea Einaudi|linea Einaudi]]» – la dura politica macroeconomica inaugurata dal Ministro del Bilancio [[Luigi Einaudi]] – impose una rigida deflazione e una stretta creditizia. Come ricorda lo storico [[Ernesto Ragionieri]], se questa politica stabilizzò la Lira, essa produsse un «complessivo declino degli investimenti» industriali e una gigantesca ondata di licenziamenti in tutta la penisola.<ref>Ernesto Ragionieri, ''Storia d'Italia''.</ref>
+
+La direzione della Carbosarda iniziò a ritardare deliberatamente il pagamento di stipendi e salari mensili, provocando la fame tra le famiglie dei minatori, nonostante il carbone sardo continuasse ad essere estratto e collocato sui mercati energetici del continente.
+
+==La «Marcia del Pane» e l'arresto (1947)==
+
+===Le dinamiche della protesta===
+
+[[File:VelioSpano.jpg|thumb|left|170px|[[Velio Spano]] (1905–1964), senatore del PCI e principale figura nazionale che guidò la mobilitazione per la liberazione di Giardina nel novembre 1947]]
+
+Il clima di esasperazione nel bacino carbonifero esplose già all'inizio del [[1947]]. Di fronte all'insostenibile aumento del costo della vita e alla scarsità di beni di prima necessità (farina, pane, olio), i minatori, guidati dalla Camera del Lavoro, misero in atto numerosi scioperi e manifestazioni di piazza. La storiografia sindacale definì queste sollevazioni come la «'''Marcia del Pane'''».
+
+Le istituzioni statali fornirono tuttavia una lettura diametralmente opposta, etichettando ufficialmente le manifestazioni come una «manifestazione politica contro il governo», orchestrata su direttive di Mosca e della CGIL. Come evidenzia la studiosa Giannarita Mele, i rappresentanti istituzionali sul territorio «ostentano la più decisa diffidenza nei confronti della CGIL», fornendo di fatto una copertura politica e poliziesca all'intransigenza della Carbosarda.<ref>Giannarita Mele, ''Storia della Camera del lavoro di Cagliari''.</ref>
+
+===L'arresto del 3 novembre 1947 e la mobilitazione operaia===
+
+Il '''3 novembre [[1947]]''' Marco Giardina venne improvvisamente arrestato dalle forze dell'ordine. Il capo di imputazione richiamava presunti «disordini» avvenuti in città quasi un anno prima, nel gennaio del 1947. Tuttavia, la tempistica dell'arresto rivelava un evidente movente puramente politico: neutralizzare il Segretario provinciale nel momento di massima recrudescenza del conflitto autunnale.
+
+Come annota lo storico [[Antonello Mattone]], questa mossa repressiva produsse un effetto esattamente contrario a quello sperato.<ref>Antonello Mattone, ''Velio Spano. Vita di un rivoluzionario di professione''.</ref> L'arresto trasformò istantaneamente Giardina in un martire politico e nel simbolo della resistenza proletaria contro la restaurazione conservatrice.
+
+{| class="wikitable" style="font-size:90%; width:100%"
+|+ Cronologia della mobilitazione successiva all'arresto di Giardina (novembre 1947)
+! Data !! Azione sindacale !! Attori coinvolti e impatto territoriale
+|-
+| '''3 novembre 1947''' || Esecuzione del mandato di arresto contro Marco Giardina per i fatti del gennaio precedente. || Autorità giudiziarie e Forze dell'ordine contro il Segretario CdL.
+|-
+| '''Prima decade di novembre 1947''' || Proclamazione immediata dello sciopero generale a Carbonia, nonostante la forte opposizione delle correnti del [[Partito Sardo d'Azione]]. || Lavoratori CGIL, Commissioni Interne. Paralisi totale della città e di tutti i pozzi minerari.
+|-
+| '''18 novembre 1947''' || Sciopero generale di 24 ore in tutta l'isola sarda per esigere la liberazione incondizionata del sindacalista arrestato. || CGIL regionale. [[Velio Spano]] arringa folle immense in Piazza Yenne a [[Cagliari]] e in tutto il bacino.
+|}
+
+Lo sciopero generale regionale non solo paralizzò la Sardegna, ma bloccò la cruciale fornitura energetica in un momento delicatissimo per l'industria della nazione, rendendo la liberazione di Giardina una priorità politica del Partito Comunista.
+
+==Il 1948: l'attentato a Togliatti e la seconda ondata repressiva==
+
+[[File:Velio Spano I legislatura.jpg|thumb|right|180px|[[Velio Spano]] nella I legislatura repubblicana. Eletto senatore nel collegio minerario del Sulcis il 18 aprile 1948, subentrò a Giardina come principale dirigente sindacale a Carbonia dopo le ondate repressive]]
+
+Il [[1948]] si aprì in un clima di vera e propria «guerra fredda interna». La storica sconfitta del [[Fronte Democratico Popolare (1948)|Fronte Democratico Popolare]] alle [[elezioni politiche italiane del 1948|elezioni politiche del 18 aprile]] sancì il trionfo assoluto della [[Democrazia Cristiana]], la quale accelerò immediatamente i piani di normalizzazione contro il movimento comunista. Già nel mese di aprile la direzione della miniera di Serbariu arrivò a licenziare '''50 operai nel cantiere di Bacu Abis''', scatenando la dura reazione della CGIL.
+
+L'evento che sconvolse l'anno fu tuttavia l'[[attentato a Palmiro Togliatti|attentato]] perpetrato ai danni di [[Palmiro Togliatti]] il '''14 luglio [[1948]]'''. Alla notizia dei colpi di pistola esplosi a Roma contro il Segretario del PCI, un moto insurrezionale spontaneo attraversò tutta Italia. Anche a Carbonia la classe operaia insorse, occupando snodi strategici. Sebbene l'ordine di smobilitazione giungesse rapidamente dai vertici romani del Partito, lo Stato colse l'occasione per rispondere con un'imponente operazione di polizia volta a scardinare definitivamente la vasta rete organizzativa costruita da Giardina negli anni precedenti.
+
+==Eredità storica==
+
+La figura di Marco Giardina incarna in modo esemplare il profilo dell'[[intellettuale organico]] gramsciano nell'Italia del secondo dopoguerra: capace di coniugare la raffinatezza teorica acquisita in ambienti accademici d'élite con una duttilità pragmatica e una capacità di mobilitazione di massa straordinarie. La sua presenza nel Sulcis non fu semplicemente quella di un agitatore di professione, ma di un organizzatore capace di costruire istituzioni durature – le Commissioni Interne, la Camera del Lavoro come contropotere, le reti di solidarietà di quartiere – che sopravvissero alle repressioni.
+
+Il fatto che il suo arresto nel novembre 1947 abbia prodotto l'effetto paradossale di mobilitare un intero popolo e di paralizzare un'isola testimonia il livello di egemonia culturale e organizzativa che egli aveva saputo costruire in un lasso di tempo straordinariamente breve. L'appellativo di «[[Stalingrado della Sardegna]]», guadagnato da Carbonia sotto la sua direzione, rappresenta la misura più eloquente di questa eredità.
+
+==Note==
+<references />
+
+==Bibliografia==
+* Giannarita Mele, ''Storia della Camera del lavoro di Cagliari'', Cagliari.
+* Antonello Mattone, ''Velio Spano. Vita di un rivoluzionario di professione''.
+* Ernesto Ragionieri, ''Storia d'Italia''.
+* Antonio Gramsci, ''Quaderni del carcere'', Torino, Einaudi.
+
+==Voci correlate==
+* [[Carbonia]]
+* [[Bacino carbonifero del Sulcis]]
+* [[Carbosarda]]
+* [[Azienda Carboni Italiani]]
+* [[Velio Spano]]
+* [[Camera del Lavoro]]
+* [[CGIL]]
+* [[Partito Comunista Italiano]]
+* [[Scuola Normale Superiore di Pisa]]
+* [[Sergio Atzeni]]
+* [[Attentato a Palmiro Togliatti]]
+* [[Intellettuale organico]]
+* [[Fronte Democratico Popolare (1948)]]
+
+==Collegamenti esterni==
+* [https://www.fondazionegramsci.org Fondazione Gramsci] – Archivio del PCI
+* [https://www.cgil.it/la-cgil/storia CGIL – Archivio storico]
+* [https://www.museodelcarbone.it Museo del Carbone – Grande Miniera di Serbariu, Carbonia]
+
+{{Portale|biografie|sindacalismo|Sardegna|storia contemporanea}}
+
+[[Categoria:Sindacalisti italiani del XX secolo]]
+[[Categoria:Politici del Partito Comunista Italiano]]
+[[Categoria:Dirigenti della CGIL]]
+[[Categoria:Storia della Sardegna]]
+[[Categoria:Miniere del Sulcis]]
+[[Categoria:Carbonia]]
+[[Categoria:Movimento operaio italiano]]
+[[Categoria:Studenti della Scuola Normale Superiore di Pisa]]
+[[Categoria:Antifascisti italiani]]
