@@ -590,7 +590,7 @@ in Sicilia'', 1871–1875).
 | '''Vincenza Marquet'''<br><small>c. 1620</small>
 | [[Marquett (famiglia)|Marquett (Marquet)]]
 | style="text-align:center;" | [[File:Stemma_Giardina_fam_ITA.svg|60px|Stemma Giardina]]
-| style="text-align:center;" | [[File:DA_CARICARE_Marquett_stemma.svg|60px|Stemma Marquett: partito, 1° d'oro a 4 pali di rosso, 2° di rosso a 3 martelli d'oro]]<br><small>''(da caricare)''</small>
+| style="text-align:center;" | [[File:Marchet.jpg|60px|Stemma Marquett: partito, 1° d'oro a 4 pali di rosso, 2° di rosso a 3 martelli d'oro]]
 | ''Partito: nel 1° d'oro, a quattro pali di rosso; nel 2° di rosso, a tre martelli d'oro, i due del capo affrontati e posti in fascia.''<ref>[PG] V. Palizzolo Gravina, ''Il blasone in Sicilia'', Palermo, 1875, p. 248. Il primo partito è la ''Senyera'' aragonese, concessa al capostipite Raimondo Marquett per i servizi resi alle flotte di Pietro III e Giacomo II d'Aragona (fine XIII sec.).</ref>
 | Baronato di Gibellini (Trapani). Alleanza con la componente aragonese-catalana presente in Sicilia dalla fine del XIII sec.
 |-
@@ -599,7 +599,7 @@ in Sicilia'', 1871–1875).
 | '''Maria Rosalia Lucchesi'''<br><small>c. 1650</small>
 | Lucchesi
 | style="text-align:center;" | [[File:Stemma_Giardina_fam_ITA.svg|60px|Stemma Giardina]]
-| style="text-align:center;" | [[File:DA_CARICARE_Lucchesi_stemma.svg|60px|Stemma Lucchesi]]<br><small>''(da caricare)''</small>
+| style="text-align:center;" | [[File:Stemma_della_famiglia_Lucchese_Palli.svg|60px|Stemma Lucchesi]]
 | Non documentata nelle fonti araldiche a stampa consultate per il ramo palermitano.<ref>La componente ''Lucchese'' nel cognome composito di Luigi Gerardo (1703: ''Giardina e Lucchese''; 1733: ''Giardina De Guevara Lucchese ed Alagona'') è attestata da V. Palizzolo Gravina, ''Il blasone in Sicilia'', 1871–1875, p. 196. La madre di Maria Rosalia, Laura Lucia d'Alagona, introduce la componente ''Alagona''.</ref>
 | '''Matrimonio fondante della linea principesca.''' La componente ''Lucchese'' entra nel cognome composito (1703). Genera Luigi Gerardo Giardina, I Principe di Ficarazzi (1733). Confermato da Palizzolo Gravina, p. 196.
 |-
@@ -667,7 +667,7 @@ di un file dedicato su [[Wikimedia Commons]]. Le ricerche sistematiche
 condotte nella categoria
 [[:Category:Coats of arms of families of Sicily]] e negli armoriali
 digitali italiani non hanno rilevato file pre-esistenti per le casate
-Del Castillo, Morso, Marquet, Lucchesi, Massa, Iaci
+Del Castillo, Morso, Massa, Iaci
 e Lipari. Per ciascuna sono disponibili le blasonature scritte tratte
 dalle fonti secondarie siciliane (Mango di Casalgerardo; Palizzolo
 Gravina; San Martino De Spucches), sulla base delle quali possono essere
@@ -677,7 +677,6 @@ in [[:Category:Coats of arms of families of Sicily]].
 Le blasonature verificate disponibili per futuri upload sono:
 
 * '''Del Castillo (Castiglia):''' ''Di rosso, alla torre d'argento.'' Variante: ''D'argento, al castello torricellato di tre pezzi di rosso, aperto e finestrato di nero, e la banda dello stesso attraversante; con bordatura di rosso caricata di otto anelli d'oro.'' [MC; Crollalanza, ''Diz. storico blasonico'', 1888]
-* '''Marquett (Marquet):''' ''Partito: nel 1° d'oro, a quattro pali di rosso; nel 2° di rosso, a tre martelli d'oro, i due del capo affrontati e posti in fascia.'' [PG, p. 248]
 
 == Principali titoli ==
 
