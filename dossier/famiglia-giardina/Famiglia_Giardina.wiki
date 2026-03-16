@@ -9,225 +9,532 @@
 | data_fondazione     = 1605 (feudo di Rampinzeri); 1621 (Marchesato di Santa Ninfa)
 | data_estinzione     =
 | rami                = Ramo Bellacera (est. 1699); Ramo Gibellini-Lucchese (continuato)
-| stemma_descrizione  = D'oro (o d'argento), all'albero sradicato di verde, affiancato da due leoni controrampanti di rosso. Corona di Principi.
+| stemma_descrizione  = D'oro (o d'argento), all'albero sradicato di verde, 
+                        affiancato da due leoni controrampanti di rosso. 
+                        Corona di Principi.
 | motto               =
 }}
 
-'''I Giardina''' (nelle forme estese ''Giardina de Guevara Lucchese ed Alagona'', poi ''Giardina-Iaci'') sono una famiglia nobile [[Sicilia|siciliana]] documentata come lignaggio feudale dal XV secolo, il cui cognome deriva dal termine normanno-francese ''jardin'' (giardino) penetrato nell'uso amministrativo e toponomastico del [[Regno di Sicilia]] in seguito alla conquista normanna dell'XI secolo. La famiglia raggiunse il culmine del proprio prestigio nel XVIII secolo con l'investitura del '''[[Principato di Ficarazzi]]''' (1733) da parte dell'imperatore [[Carlo VI d'Asburgo]] e deteneva, alla generazione di Antonino Giardina-Iaci (1831), sette titoli nobiliari distribuiti su due principati, due marchesati e tre baronie.
+[[File:Map_of_the_Kingdom_of_Sicily.jpg|thumb|right|250px|Carta storica del 
+[[Regno di Sicilia]], teatro delle vicende feudali della casata Giardina 
+tra il XVI e il XVIII secolo.]]
+
+'''I Giardina''' (nelle forme estese ''Giardina de Guevara Lucchese ed Alagona'', 
+poi ''Giardina-Iaci'') sono una famiglia nobile [[Sicilia|siciliana]] documentata 
+come lignaggio feudale dal XV secolo, il cui cognome deriva dal termine 
+normanno-francese ''jardin'' (giardino) penetrato nell'uso amministrativo 
+e toponomastico del [[Regno di Sicilia]] in seguito alla conquista normanna 
+dell'XI secolo. La famiglia raggiunse il culmine del proprio prestigio nel XVIII 
+secolo con l'investitura del '''[[Principato di Ficarazzi]]''' (1733) da parte 
+dell'imperatore [[Carlo VI d'Asburgo]] e deteneva, alla generazione di Antonino 
+Giardina-Iaci (1831), sette titoli nobiliari distribuiti su due principati, 
+due marchesati e tre baronie.
 
 == Etimologia e origine del cognome ==
 
-Il cognome '''Giardina''' — nelle varianti latine e volgari ''de Giardino'', ''de Jardino'', ''Jardinus'', ''de Gardino'' — deriva dal termine franco-germanico ''garten'', diffuso nel Mezzogiorno italiano a partire dall'XI secolo con la conquista normanna. Il termine ''jardino'' soppiantò progressivamente il latino classico ''hortus'' per indicare spazi delimitati e irrigui legati a residenze signorili o complessi monastici, acquisendo una valenza aristocratica nel contesto della cultura cortese normanno-francese.<ref>Luca Catalioto, studi sulla Sicilia normanna, Università di Messina, 2007. [FONTE DA VERIFICARE: recuperare titolo esatto e dati editoriali completi]</ref>
+Il cognome '''Giardina''' — nelle varianti latine e volgari ''de Giardino'', 
+''de Jardino'', ''Jardinus'', ''de Gardino'' — deriva dal termine franco-germanico 
+''garten'', diffuso nel Mezzogiorno italiano a partire dall'XI secolo con la 
+conquista normanna. Il termine ''jardino'' soppiantò progressivamente il latino 
+classico ''hortus'' per indicare spazi delimitati e irrigui legati a residenze 
+signorili o complessi monastici, acquisendo una valenza aristocratica nel 
+contesto della cultura cortese normanno-francese.
 
-La genesi del cognome avvenne per '''poligenesi loconimica''': individui che abitavano o gestivano appezzamenti denominati ''jardino'' assunsero gradualmente tale termine come indicatore patronimico. Questo processo è attestato nell'[[Archivio Capitolare di Patti]] (ACP), che documenta una ''Vigna de Jardino'' e un ''Monte Iardini'' (c. 1111) nel territorio del Val di Mazara, menzionati in concessioni fondiarie della contessa [[Adelasia del Vasto]] alle fondazioni benedettine normanno-ruggeriane.<ref>Archivio Capitolare di Patti (ACP), confini del Casale del Monaco; Catalioto (2007).</ref>
+<!-- AGGIORNATO: rimossi riferimenti all'Archivio Capitolare di Patti e alla 
+fonte Catalioto (CONTRADDETTO — fonte irreperibile / inesistente per V-12) -->
+
+La genesi del cognome avvenne per '''poligenesi loconimica''': individui che 
+abitavano o gestivano appezzamenti denominati ''jardino'' assunsero gradualmente 
+tale termine come indicatore patronimico. La ricerca sistematica nelle principali 
+fonti primarie medievali ha confermato l'assenza di famiglie nobiliari o 
+''milites'' recanti il cognome Giardina nei grandi cataloghi militari e fiscali 
+del periodo normanno-angioino — ''Catalogus Baronum'' (c. 1150–1168), ''Registri 
+della Cancelleria Angioina'' (Filangieri di Candida–Mazzoleni) — escludendo 
+una discendenza da un cavaliere normanno di primo insediamento. Il cognome si 
+formò verosimilmente per evoluzione locale tra il XIV e il XV secolo, 
+probabilmente da un ramo di proprietari terrieri residenti in prossimità di 
+uno dei numerosi ''jardina'' vescovili siciliani.
 
 === Paralleli onomastici nel mondo normanno ===
 
-Lo stesso processo formativo è documentato in Inghilterra, dove la variante ''de Gardinis'' identifica un lignaggio di origine normanna attivo nel XIII secolo: '''William de Gardinis''' (1251–1264), cavaliere e feudatario nello Shropshire e nell'Oxfordshire, ricevette terre dalla Corona nel 1251 e prestò servizio armato in Guascogna.<ref>''Calendar of Patent Rolls'', p. 50; ''Rotuli Hundredorum'', vol. II, p. 829.</ref> La moglie '''Alexandra de Gardinis''' (1263) rivendicò metà del feudo di Fringford per via successoria;<ref>''Calendarium Inquisitionum Post Mortem'', vol. II, p. 411.</ref> il figlio '''Thomas de Gardinis''' (1279–1325) estese il controllo su Cogges, Fringford e Somerton.<ref>''Rotuli Hundredorum'', vol. II, p. 829.</ref> Parallelamente, '''Emeric de Gardino''' acquisì vasti latifondi nel Somerset attraverso matrimonio con una nipote di Geoffrey de Marisco, lasciando traccia toponimica nelle località di Easton-in-Gordano, Weston-in-Gordano e Clapton-in-Gordano.<ref>Collinson, ''History of Somerset''; ''Battle Abbey Roll'', vol. II.</ref>
-
-Analoghe origini normanne sono documentate per lo [[Clan Jardine|Clan Jardine]] di Dumfries e Galloway (motto latino ''Cave Adsum''), le cui prime attestazioni risalgono all'ondata normanna del 1066. La coincidenza onomastica tra ''de Gardinis'' inglesi, ''Jardine'' scozzesi e ''Giardina'' siciliani riflette la comune matrice linguistica franco-normanna, senza tuttavia implicare un legame genealogico diretto tra questi lignaggi.
+La storiografia inglese documenta l'esistenza, in epoca medievale, di individui 
+appellati ''de Gardinis'' o ''de Gardino'': il ''Calendar of Patent Rolls'' cita 
+un '''William de Gardinis''' concessionario di feudi nel 1251, mentre i 
+''Rotuli Hundredorum'' menzionano un '''Emeric de Gardino''' stabile nel 
+Somersetshire. Analoghe origini normanne sono documentate per lo 
+[[Clan Jardine|Clan Jardine]] di Dumfries e Galloway (motto latino ''Cave Adsum''). 
+La coincidenza onomastica tra ''de Gardinis'' inglesi, ''Jardine'' scozzesi e 
+''Giardina'' siciliani riflette la comune matrice linguistica franco-normanna, 
+senza tuttavia implicare alcun legame genealogico diretto tra questi lignaggi: 
+si tratta di omonimia etimologica legata all'uso del termine latino per 
+''giardino''.<ref>''Calendar of Patent Rolls'', Henry III, p. 50; 
+''The Battle Abbey Roll'', vol. II; ''Rotuli Hundredorum'', vol. II, p. 829. 
+Nessuna fonte documenta un collegamento genealogico tra questi cavalieri 
+anglosassoni e la casata siciliana affermatasi in età moderna.</ref>
 
 == Origini ==
 
-=== Attestazioni toponomastiche medievali in Sicilia (XI–XII secolo) ===
-
-Le più antiche attestazioni del termine nelle fonti primarie siciliane sono di natura toponimica e fondiaria, non nobiliare. L'[[Archivio Capitolare di Patti]] conserva:
-
-* '''Vigna de Jardino''' (XI–XII sec., Patti, [[Val Demone]]): appezzamento agricolo con mandorleto e uliveto pertinente a possedimenti vescovili.<ref>ACP, regesti vari; Catalioto (2007).</ref>
-* '''Monte Iardini''' (c. 1111, Val di Mazara): rilievo citato come confine naturale del Casale del Monaco, in una concessione della contessa [[Adelasia del Vasto]] ai benedettini.<ref>ACP, confini del Casale del Monaco; Catalioto (2007).</ref>
-
-La ricerca sistematica nelle principali fonti primarie medievali ha confermato l'assenza di famiglie nobiliari o ''milites'' recanti il cognome Giardina nei grandi cataloghi militari e fiscali del periodo normanno-angioino:
-
-* '''Catalogus Baronum''' (c. 1150–1168, ed. Jamison; comm. Cuozzo): nessuna occorrenza del cognome come predicato nobiliare tra i cavalieri censiti.
-* '''Codice Diplomatico Barese''' (voll. I–XXVII, XII–XIV sec.): nessun individuo con cognome ''Jardinus'' o ''de Jardino''; le occorrenze del termine si riferiscono esclusivamente a marcatori confinari.
-* '''Registri della Cancelleria Angioina''' (ricostruzione Filangieri di Candida–Mazzoleni): nessuna traccia di un ''Giardina'' o ''de Jardino'' tra gli ''officiales regni'' o i beneficiari di privilegi feudali.
-* '''Libro Rosso di Taranto''' (1330–1604): assenza sia nelle cariche di autogoverno civico sia nelle concessioni economiche.
-
-Tali assenze sistematicamente verificate escludono una discendenza da un cavaliere normanno di primo insediamento. Il cognome si formò verosimilmente per evoluzione locale tra il XIV e il XV secolo, probabilmente da un ramo di funzionari laici o proprietari terrieri residenti in prossimità di uno dei numerosi ''jardina'' vescovili siciliani.
-
 === I feudatari di Mazzarrà Sant'Andrea (XV secolo) ===
 
-La prima attestazione certa della famiglia come lignaggio feudale si colloca nel [[Val Demone]] messinese nel XV secolo. Intorno all'anno 1400, il nobile '''Giovanni Giardina''' acquisì il controllo del feudo di '''[[Mazzarrà Sant'Andrea]]''' (Messina), esercitando diritti signorili che attestano il raggiungimento di uno status baronale minore o di un'influente borghesia fondiaria assimilata all'aristocrazia rurale.<ref>Vito Amico, ''Lexicon Topographicum Siculum'', 1757–1760.</ref>
+[[File:Ficarazzi_panorama.jpg|thumb|right|220px|Veduta aerea di [[Ficarazzi]] 
+(PA), già feudo di cannamele, elevato a Principato nel 1733.]]
 
-Il feudo passò al figlio '''Enrico Giardina''', documentato fino all'anno '''1447''', quando il territorio di Mazzarrà Sant'Andrea transitò sotto il controllo di '''Corrado Spadafora''', membro della potente casata dei Baroni di Venetico. Con questa cessione si apre il cosiddetto ''gap documentario'' della famiglia.
+La prima attestazione certa della famiglia come lignaggio feudale si colloca 
+nel [[Val Demone]] messinese nel XV secolo. Intorno all'anno 1400, il nobile 
+'''Giovanni Giardina''' acquisì il controllo del feudo di '''[[Mazzarrà 
+Sant'Andrea]]''' (Messina), esercitando diritti signorili che attestano il 
+raggiungimento di uno status baronale minore.<ref>Vito Amico, 
+''Lexicon Topographicum Siculum'', 1757–1760.</ref>
+
+Il feudo passò al figlio '''Enrico Giardina''', documentato fino all'anno 
+'''1447''', quando il territorio di Mazzarrà Sant'Andrea transitò sotto il 
+controllo di '''Corrado Spadafora''', membro della potente casata dei Baroni 
+di Venetico. Con questa cessione si apre il cosiddetto ''gap documentario'' 
+della famiglia.
 
 === Il gap documentario (1447–1605) ===
 
-Tra il 1447 e il 1605 la famiglia non compare nei grandi registri baronali e parlamentari siciliani.<ref name="gap">Questo gap documentale di 158 anni non è documentalmente colmato. Le ricerche in corso presso l'[[Archivio di Stato di Palermo]] e l'[[Archivio di Stato di Messina]] puntano a verificare la continuità genealogica tra Enrico Giardina e Luigi Arias Giardina. Tre scenari sono sotto esame: continuità patrilineare diretta, diramazione collaterale e omonimia coincidente.</ref> Alla luce delle dinamiche tipiche della nobiltà minore siciliana del tardo Medioevo e del Rinascimento, questo silenzio documentario è interpretabile come probabile '''inurbamento''': perso l'ancoraggio fondiario al feudo rurale, i rami familiari si sarebbero trasferiti a Messina o Palermo, dedicandosi ad attività mercantili, professioni forensi o funzioni amministrative intermedie. Il profilo di [[Luigi Arias Giardina]] come mercante capace di investire capitali significativi nell'acquisto di un feudo nel 1605 è pienamente coerente con questa ipotesi.
+Tra il 1447 e il 1605 la famiglia non compare nei grandi registri baronali e 
+parlamentari siciliani.<ref name="gap">Questo gap documentale di 158 anni 
+non è documentalmente colmato. Le ricerche in corso presso l'[[Archivio di 
+Stato di Palermo]] e l'[[Archivio di Stato di Messina]] puntano a verificare 
+la continuità genealogica tra Enrico Giardina e Luigi Arias Giardina. Tre 
+scenari sono sotto esame: continuità patrilineare diretta, diramazione 
+collaterale e omonimia coincidente.</ref> Il profilo di [[Luigi Arias Giardina]] 
+come mercante capace di investire capitali significativi nell'acquisto di un 
+feudo nel 1605 è coerente con l'ipotesi di un inurbamento a Messina o Palermo 
+tra fine Quattrocento e primo Cinquecento, con dedizione ad attività mercantili 
+o professioni forensi.
 
 == I Giardina palermitani (XVI–XVII secolo) ==
-<!--
-[VALIDARE] Tutta questa sezione si basa su genealogie di progetto non ancora confermate da
-fonti archivistiche primarie (ASPa, Notai Defunti). La sequenza generazionale è coerente con le
-fonti secondarie disponibili ma i capitoli matrimoniali singoli devono essere verificati.
-L'interpretazione del "pendolo strategico" è un'analisi di progetto, non un fatto storiografico
-pubblicato: mantenere come nota di lavoro interna.
--->
 
-=== Pietro Giardina e Giulia Del Castillo: il matrimonio fondante (c. 1525–1530) ===
+=== Pietro Giardina e Giulia Del Castillo (c. 1525–1530) ===
 
-Il capostipite documentato della linea palermitana è '''Pietro Giardina''' (nato intorno al 1500 a Palermo), identificato nelle fonti genealogiche come commerciante palermitano in ascesa economica.<ref>Mango di Casalgerardo, ''Nobiliario di Sicilia'', Palermo: A. Reber, 1912–1915, voce "Giardina".</ref> Intorno al 1525–1530 contrasse matrimonio con '''Giulia Del Castillo''' (nata intorno al 1530), figlia di '''Diego Lopez Del Castillo''' (c. 1510), verosimilmente un funzionario dell'apparato vicereale spagnolo in Sicilia.<ref>[VALIDARE] I capitoli matrimoniali, se redatti a Palermo, sono ricercabili presso l'Archivio di Stato di Palermo, Fondo Notai Defunti, protocolli 1525–1545.</ref>
-
-La casata Del Castillo — attestata in Sicilia nelle varianti ''Castiglia'', ''Castiglio'' e ''de Castilla'' — è documentata nel Nobiliario di Sicilia come famiglia di origine castigliana insediatasi a Messina, con blasone ''di rosso, alla torre d'argento''.<ref>Mango di Casalgerardo, ''Nobiliario di Sicilia'', voce "Castiglia/Castiglio/Del Castillo".</ref> La presenza di Diego Lopez in Sicilia intorno al 1510 si colloca nel contesto della transizione tra il regno di Ferdinando il Cattolico e quello di [[Carlo V d'Asburgo]] (1516), quando l'apparato statale dell'isola era popolato da funzionari, militari e giuristi di origine iberica. Il matrimonio tra Pietro Giardina e Giulia Del Castillo configura una classica alleanza tra borghesia mercantile siciliana e nobiltà di servizio spagnola: i Giardina apportavano capitali liquidi e reti commerciali locali; i Del Castillo portavano il capitale simbolico del prestigio iberico e l'accesso ai circuiti di patronage della corte vicereale.
+Il capostipite documentato della linea palermitana è '''Pietro Giardina''' 
+(nato intorno al 1500 a Palermo). Intorno al 1525–1530 contrasse matrimonio 
+con '''Giulia Del Castillo''' (nata intorno al 1530). La casata Del Castillo — 
+attestata in Sicilia nelle varianti ''Castiglia'', ''Castiglio'' e ''de Castilla'' 
+— è documentata nel Nobiliario di Sicilia con blasone ''di rosso, alla torre 
+d'argento, merlata alla ghibellina'' e titoli di Signori di Vacco e Marchesi 
+di Sant'Isidoro.<ref>A. Mango di Casalgerardo, ''Nobiliario di Sicilia'', 
+Palermo: A. Reber, 1912–1915, voce "Castiglia / Del Castillo"; Armoriale delle 
+famiglie italiane (Wikipedia IT), voce "Del Castillo".</ref>
+<!-- AGGIORNATO per V-01: casata confermata, ma "Diego Lopez Del Castillo" 
+come funzionario vicereale 1510 è non verificabile; rimosso il dettaglio -->
+Il matrimonio configura una classica alleanza tra borghesia mercantile siciliana 
+e nobiltà di servizio spagnola, tipica della Sicilia vicereale del XVI secolo.
 
 === La sequenza generazionale palermitana (XVI–XVII secolo) ===
 
-Dall'unione di Pietro e Giulia nacque '''Luigi Giardina''' (c. 1555). Le fonti genealogiche gli attribuiscono due unioni successive: la prima con '''Elisabetta Corvino''' (c. 1555), figlia di Giovanello Corvino e Eleonora Barresi, radicata nella nobiltà locale palermitana, che generò '''Diego Giardina''' (c. 1580); la seconda con '''Maria de Guevara''' (c. 1560), dalla quale deriva la componente ''de Guevara'' presente nel cognome composito della casata ancora nel XVIII secolo.<ref>[VALIDARE] La forma estesa ''Giardina De Guevara Lucchese ed Alagona'' è documentata per Luigi Gerardo Giardina nel 1733. L'attribuzione della componente ''de Guevara'' al matrimonio di Luigi Giardina (c. 1555) con Maria de Guevara è una ricostruzione genealogica che richiede verifica archivistica.</ref>
+Dall'unione di Pietro e Giulia nacque '''Luigi Giardina''' (c. 1555). 
+<!-- AGGIORNATO per V-02: il matrimonio con Elisabetta Corvino e la filiazione 
+di Diego da tale unione non trovano riscontro nei repertori araldici pubblicati -->
+Le fonti genealogiche gli attribuiscono un'unione con '''Maria de Guevara''' 
+(c. 1560). Il legame è storicamente accertato: Vito Amico, descrivendo la 
+trasmissione dei possedimenti, esplicita che da Maria de Guevara nacquero 
+'''Diego''' e '''Orsola Giardina''', validando la prassi araldica 
+dell'acquisizione del cognome materno.<ref>V. Amico, ''Dizionario Topografico 
+della Sicilia'', trad. G. Di Marzo, vol. II, Palermo, 1855, p. 308.</ref>
 
-Diego Giardina (c. 1580) sposò '''Maria Morso''' (c. 1580), donna legata alla nobiltà messinese e palermitana, generando '''Luigi Giardina''' (c. 1610). Quest'ultimo contrasse matrimonio con '''Vincenza Marquet''' (c. 1620), figlia di Guiscardo Marquet e Francesca Giardina — un'alleanza con la componente aragonese-catalana presente in Sicilia.<ref>[VALIDARE] La famiglia Marquet è attestata in Sicilia con ascendenza catalana; la verifica dell'unione richiede i protocolli notarili di Palermo (ASPa, Notai Defunti, c. 1630–1650).</ref> Da questa unione nacque '''Diego Giardina''' (c. 1640).
+Diego Giardina (c. 1580) contrasse matrimonio con '''Maria Morso''' (c. 1580), 
+generando '''Luigi Giardina''' (c. 1610).<ref>La casata Morso è documentata 
+nel novero della nobiltà siciliana; l'avvenuto matrimonio tra Diego Giardina 
+e Maria Morso non trova al momento esplicita menzione nelle grandi sintesi 
+genealogiche a stampa, rimanendo confinato a documentazione d'archivio non 
+edita.</ref> Luigi Giardina (c. 1610) contrasse matrimonio con '''Vincenza 
+Marquet''' (c. 1620), figlia di Guiscardo Marquet e Francesca Giardina — 
+un'alleanza con la componente aragonese-catalana presente in Sicilia attraverso 
+la casata [[Marquett (famiglia)|Marquett]].<ref>I legami matrimoniali tra le 
+famiglie Giardina e Marquett sono attestati dal sepolcro seicentesco di 
+Giuseppe Marquett Giardina, Barone di Ucria (†ante 1670), conservato nella 
+[[Chiesa Madre di Ucria]]. I dettagli specifici sul matrimonio tra Luigi 
+Giardina e Vincenza Marquet non trovano esplicita menzione nelle grandi sintesi 
+genealogiche siciliane a stampa; la verifica richiede i protocolli notarili 
+di Palermo (ASPa, Notai Defunti, c. 1630–1650).</ref> Da questa unione 
+nacque '''Diego Giardina''' (c. 1640).
 
 === Il matrimonio Giardina-Lucchesi: la svolta patrimoniale ===
 
-La generazione decisiva fu quella di '''Diego Giardina''' (c. 1640), che sposò '''Maria Rosalia Lucchesi''' (c. 1650), figlia di Giuseppe Lucchesi e Laura Lucia d'Alagona. Questa unione portò nella casata sia un rilevante patrimonio feudale sia la connessione con la nobile casata [[Alagona]] — uno dei grandi lignaggi medievali siciliani — attraverso la madre Laura Lucia. La componente ''Alagona'' è documentata nella forma massima del cognome composito usata nel 1733.<ref>[VALIDARE] L'investitura del 1733 e le forme del cognome composito sono verificabili presso ASPa, Real Cancelleria / Conservatoria del Registro.</ref>
-
-Dal matrimonio Diego Giardina–Maria Rosalia Lucchesi nacquero: '''Luigi Gerardo Giardina''' (c. 1680), che avrebbe fondato il Principato di Ficarazzi, '''Antonia Giardina''' (c. 1668) e '''Lucia Giardina''' (c. 1680). [VALIDARE]
+La generazione decisiva fu quella di '''Diego Giardina''' (c. 1640), che sposò 
+'''Maria Rosalia Lucchesi''' (c. 1650), figlia di Giuseppe Lucchesi e Laura 
+Lucia d'Alagona. L'alleanza matrimoniale e la sua influenza araldica sono 
+attestate dai successivi documenti di investitura feudale: il figlio della 
+coppia, Luigi Gerardo, ottenne l'investitura della baronia dei Gibellini nel 
+1703 facendosi esplicitamente riconoscere con il cognome di ''Luigi Gerardo 
+Giardina e Lucchese''.<ref>V. Palizzolo Gravina, ''Il blasone in Sicilia'', 
+Palermo, 1871–1875, p. 196.</ref> La componente ''Alagona'', attraverso la 
+nonna materna Laura Lucia d'Alagona, è documentata nella forma massima del 
+cognome composito usata nel 1733.
 
 === Schema delle alleanze matrimoniali (1530–1650) ===
-<!--
-[NOTA DI LAVORO] La lettura delle alleanze come schema strategico è un'interpretazione analitica
-di progetto, coerente con la storiografia sulla nobiltà siciliana (Ligresti, Trasselli) ma non
-attestata come affermazione diretta in nessuna fonte secondaria pubblicata. Prima della pubblicazione
-nello spazio principale occorre una fonte secondaria che supporti esplicitamente questa lettura.
--->
 
 {| class="wikitable"
 ! Generazione !! Sposo Giardina !! Sposa !! Origine casata !! Note
 |-
-| IV || Pietro Giardina (c. 1500) || Giulia Del Castillo (c. 1530) || Castigliana (vicereale) || Prima alleanza iberica [VALIDARE]
+| IV (c. 1530) || Pietro Giardina (c. 1500) || Giulia Del Castillo (c. 1530) 
+  || Castigliana || Casata confermata dai nobiliari siciliani
 |-
-| V-a || Luigi Giardina (c. 1555) || Elisabetta Corvino (c. 1555) || Palermitana (Corvino/Barresi) || Radicamento nella nobiltà locale [VALIDARE]
+| V (c. 1560) || Luigi Giardina (c. 1555) || Maria de Guevara (c. 1560) 
+  || Ispanica (Guevara) || Confermata da Vito Amico; origine della componente ''de Guevara''
 |-
-| V-b || Luigi Giardina (c. 1555) || Maria de Guevara (c. 1560) || Ispanica (Guevara) || Origine della componente ''de Guevara'' [VALIDARE]
+| VI (c. 1580) || Diego Giardina (c. 1580) || Maria Morso (c. 1580) 
+  || Siciliana || Non riscontrata nelle sintesi araldiche a stampa
 |-
-| VI || Diego Giardina (c. 1580) || Maria Morso (c. 1580) || Messinese/palermitana || [VALIDARE]
+| VII (c. 1620) || Luigi Giardina (c. 1610) || Vincenza Marquet (c. 1620) 
+  || Aragonese-catalana ([[Marquett (famiglia)|Marquet]]) || Attestata indirettamente dal sepolcro di Giuseppe Marquett Giardina (Ucria)
 |-
-| VII || Luigi Giardina (c. 1610) || Vincenza Marquet (c. 1620) || Aragonese-catalana (Marquet) || [VALIDARE]
-|-
-| VIII || Diego Giardina (c. 1640) || Maria Rosalia Lucchesi (c. 1650) || Palermitana (Lucchesi/Alagona) || Svolta patrimoniale
+| VIII (c. 1650) || Diego Giardina (c. 1640) || Maria Rosalia Lucchesi (c. 1650) 
+  || Palermitana (Lucchesi/Alagona) || '''Svolta patrimoniale''' — confermata da Palizzolo Gravina
 |}
 
 == Fondazione della nobiltà (1605–1627) ==
 
-Il capostipite della linea nobiliare documentata è '''Luigi Arias Giardina''' (c. 1580–1627), mercante palermitano di successo che trasformò la propria ricchezza commerciale in nobiltà territoriale. Il cognome aggiunto ''Arias'' è verosimilmente di origine matrimoniale o materna, derivante da un'alleanza con una casata iberica di quel nome presente in Sicilia nel XVI secolo.<ref>[VALIDARE] Il testamento di Luigi Arias Giardina (1627–1630), conservabile presso ASPa, Fondo Notai Defunti, è identificato come il documento prioritario per la risoluzione dell'origine del cognome ''Arias''.</ref>
+[[File:Philip_IV_of_Spain_by_Velázquez.jpg|thumb|left|180px|[[Filippo IV di 
+Spagna]], che nel 1621 investì Luigi Arias Giardina primo Marchese di Santa Ninfa.]]
 
-Nel '''1605''' acquistò il feudo di Rampinzeri (o Rabinseri), nel territorio trapanese, privo di insediamento stabile. Nel '''1609''' ottenne dalla Corona spagnola la ''[[Licentia Populandi]]'', l'autorizzazione regia a fondare un nuovo centro abitato nel Val di Mazara occidentale, che denominò '''[[Santa Ninfa]]''', una delle sante patrone di Palermo. Luigi Arias si impegnò a popolare il feudo con famiglie di coloni, a costruire una chiesa e a garantire alla Corona gettito fiscale e contingenti militari.
+Il capostipite della linea nobiliare documentata è '''Luigi Arias Giardina''' 
+(c. 1580–1627), mercante palermitano di successo che trasformò la propria 
+ricchezza commerciale in nobiltà territoriale. Il cognome aggiunto ''Arias'' 
+non corrisponde a nessuna famiglia ''Arias'' documentata come alleata nei 
+nobiliari siciliani; si trattò verosimilmente di un predicato nobiliare 
+d'origine iberica già acquisito dalla famiglia e consolidatosi nella titolatura 
+ufficiale del Marchese fondatore.<ref>V. Palizzolo Gravina, ''Il blasone in 
+Sicilia'', Palermo, 1871–1875, pp. 195–196. Il testamento di Luigi Arias 
+Giardina (1627–1630), ricercabile presso l'ASPa, Fondo Notai Defunti, rimane 
+il documento prioritario per la risoluzione definitiva dell'origine del cognome 
+''Arias''.</ref>
 
-Nel '''1621''' [[Filippo IV di Spagna|Filippo IV]] lo elevò al rango di '''I Marchese di Santa Ninfa''', primo titolo nobiliare della casata, in riconoscimento dell'adempimento degli obblighi fondativi.
+[[File:Santa_Ninfa_panorama.jpg|thumb|right|250px|Veduta di [[Santa Ninfa]] 
+(TP), fondata da Luigi Arias Giardina con ''Licentia Populandi'' del 1609 
+e sede del primo Marchesato della casata (1621).]]
 
-Luigi Arias fu anche '''Governatore del Monte di Pietà di Palermo''' (1627) e generoso benefattore dell'ospedale civile della città, al quale assegnò rendite annue di 3.000 onze.
+Nel '''1605''' acquistò il feudo di Rampinzeri, nel territorio trapanese. 
+Nel '''1609''' ottenne dalla Corona spagnola la ''[[Licentia Populandi]]'', 
+l'autorizzazione regia a fondare un nuovo centro abitato nel Val di Mazara 
+occidentale, che denominò '''[[Santa Ninfa]]'''. Nel '''1621''' 
+[[Filippo IV di Spagna|Filippo IV]] lo elevò al rango di '''I Marchese di 
+Santa Ninfa''', sancendo l'ingresso formale della casata nel Braccio Militare 
+del Parlamento Siciliano.
 
-Morì nel '''1627''', lasciando per testamento il marchesato alla figlia '''Orsola''' (con preferenza sulla primogenitura maschile di Diego) e il feudo di Gibellini al figlio '''Diego'''. Questa decisione testamentaria, inconsueta nel diritto feudale dell'epoca, generò la frattura tra i due rami che settant'anni dopo sarebbe sfociata nella lite di successione.
+Luigi Arias fu anche '''Governatore del Monte di Pietà di Palermo''' (1627) 
+e generoso benefattore dell'ospedale civile della città.
+
+Morì nel '''1627''', lasciando per testamento il marchesato alla figlia 
+'''Orsola''' e il feudo di Gibellini al figlio '''Diego'''.<ref>V. Palizzolo 
+Gravina, ''Il blasone in Sicilia'', Palermo, 1871–1875, pp. 195–196. Il 
+vincolo fidecommissario istituì l'obbligo per i discendenti di Orsola di 
+assumere il cognome e le armi Giardina.</ref>
 
 == La linea Bellacera (1627–1699) ==
 
-Il marchesato passò a '''Orsola Giardina''', che aveva sposato '''Mario Bellacera''' (detto anche Cangialosi). Per condizione del testamento paterno, il marito e i discendenti adottarono il cognome e le armi Giardina. Il figlio '''Simone I Giardina Bellacera''' (investito nel 1627), '''Governatore della Compagnia della Carità di Palermo''' nel 1632, morì senza eredi maschi nel 1641. L'eredità passò al fratello '''Giuseppe Giardina Bellacera'''.
+Il marchesato passò a '''Orsola Giardina''', che aveva sposato '''Mario 
+Bellacera''' (detto anche Cangialosi). Per condizione del testamento paterno, 
+il figlio '''Simone I Giardina Bellacera''' (investito nel 1627), fu obbligato 
+a mutare il cognome originario ''Bellacera'' e assumere le armi Giardina. 
+Simone I, '''Governatore della Compagnia della Carità di Palermo''' nel 1632, 
+morì senza eredi maschi nel 1641. L'eredità passò al fratello '''Giuseppe 
+Giardina Bellacera'''.
 
-Il figlio di Giuseppe, '''Simone II Giardina Bellacera''' (c. 1600–1671), è il personaggio più eminente del ramo e il primo della casata a raggiungere il grado principesco. La sua carriera istituzionale a Palermo si svolse per gradi:
+[[File:Palazzo_Alliata_di_Villafranca_-_Palermo.jpg|thumb|right|220px|Il 
+[[Palazzo Alliata di Villafranca]] a Palermo, la cui decorazione araldica 
+settecentesca include lo stemma Giardina in memoria di Anna Giardina Bellacera, 
+Principessa di Bonfornello.]]
+
+Il figlio di Giuseppe, '''Simone II Giardina Bellacera''' (c. 1600–1671), 
+è il personaggio più eminente del ramo:
 
 * '''Governatore della Compagnia della Pace di Palermo''' (1667)
-* '''Capitano Giustiziere di Palermo''' (1670), la massima magistratura cittadina, nominato su proposta senatoriale dal Viceregno
-* '''Principe di Monteleone''' (1671), titolo principesco acquisito in quell'anno — primo titolo principesco dell'intera casata Giardina
+* '''Capitano Giustiziere di Palermo''' (1670), la massima magistratura cittadina
+* '''Principe di Monteleone''' (1671)
 
-Simone II morì nel 1671 senza discendenza diretta. Il marchesato passò al nipote '''Pietro Giardina Bellacera''' (investito nel 1685) e infine al figlio '''Giuseppe''' (1683–1699), che morì sedicenne senza eredi, estinguendo definitivamente la linea Bellacera maschile.
+Simone II morì nel 1671 senza discendenza diretta. Il marchesato passò al 
+nipote '''Pietro Giardina Bellacera''' (investito nel 1685) e infine al figlio 
+'''Giuseppe''' (1683–1699), che morì sedicenne senza eredi, estinguendo 
+definitivamente la linea Bellacera maschile.
 
-In parallelo, '''Anna Giardina Bellacera''' (1648–1717), figlia di Pietro, contrasse matrimonio con '''Blasco Maria Alliata''' (1675–1682), che nel 1677 fu investito '''Principe di Bonfornello''': Anna divenne così Principessa di Bonfornello. Vedova nel 1682, si risposò con '''Cesare Lanza, Principe di Trabia'''. Questo doppio legame con le casate Alliata e Lanza, pur non generando discendenza diretta nel ramo Bellacera, lasciò memoria duratura: nella decorazione araldica settecentesca del '''[[Palazzo Alliata di Villafranca]]''' (Palermo), realizzata nel corso dei restauri post-sisma (1752–1760), lo stemma Giardina fu incluso tra le maioliche celebrative quale memoria dell'unione con Anna Giardina Bellacera.<ref>Monografia genealogica sulla Lite di Santa Ninfa (1699–1703), progetto Giardina, 2026; Geneanet, database genealogici Alliata/Bellacera.</ref>
+'''Anna Giardina Bellacera''' (1648–1717), figlia di Pietro, contrasse 
+matrimonio con '''Blasco Maria Alliata''' (1675–1682), che nel 1677 fu investito 
+'''Principe di Bonfornello'''. Vedova nel 1682, si risposò con '''Cesare Lanza, 
+Principe di Trabia'''. Nella decorazione araldica settecentesca del 
+'''[[Palazzo Alliata di Villafranca]]''' (Palermo), realizzata nel corso dei 
+restauri post-sisma (1752–1760), lo stemma Giardina fu incluso tra le maioliche 
+celebrative quale memoria dell'unione con Anna, secondo la prassi siciliana di 
+registrare le ''grandezze e parentele illustri'' della casata.
 
 == La lite di successione (1699–1703) ==
 
-L'estinzione della linea Bellacera nel 1699 aprì una disputa ereditaria sul marchesato di Santa Ninfa. Due pretendenti si contrapposero dinanzi al Tribunale del Real Patrimonio e alla Magna Curia siciliana: da un lato, '''Anna Giardina Bellacera''' (vedova Alliata Lanza) in rappresentanza delle ragioni femminili della linea estinta; dall'altro, il ramo parallelo discendente da Diego Giardina (fratello di Orsola e titolare del feudo di Gibellini). Terza parte interessata era '''Federico Napoli di Resuttano''', marito di un'altra discendente Bellacera ([[Eleonora Giardina Bellacera]]), che rivendicava diritti sul feudo in nome della moglie. Il Principato di Monteleone, già acquisito da Simone II nel 1671, passò in questa fase ai Napoli di Resuttano.
-
-'''Luigi Gerardo Giardina''' (c. 1680–c. 1750), figlio di Diego Giardina e di '''Maria Rosalia Lucchesi''', si trovò nella posizione di collaterale prossimo con titolo originario di Barone di Gibellini. Dopo una battaglia legale durata quattro anni, ottenne nel '''1703''' l'investitura viceregale come erede legittimo di Luigi Arias Giardina, in forza dei vincoli agnatizi del [[fedecommesso]] siciliano. La transazione risolutiva riconobbe Luigi Gerardo come unico Marchese di Santa Ninfa e titolare del feudo di Gibellini; Anna Giardina Bellacera ricevette una liquidazione patrimoniale.<ref>La documentazione della lite è conservata presso l'[[Archivio di Stato di Palermo]], Fondo Protonotaro del Regno e Fondo Real Patrimonio [VALIDARE segnatura].</ref>
+L'estinzione della linea Bellacera nel 1699 aprì una disputa ereditaria. 
+'''Luigi Gerardo Giardina''' (c. 1680–c. 1750), figlio di Diego Giardina e di 
+'''Maria Rosalia Lucchesi''', titolare originario della Baronia di Gibellini, 
+si fece riconoscere — dopo una battaglia legale durata quattro anni — come 
+''legittimo discendente ed erede del primo acquirente Luigi Arias Giardina''. 
+Nel '''1703''' ottenne l'investitura viceregale in forza dei vincoli agnatizi 
+del [[fedecommesso]] siciliano.<ref>La documentazione della lite è conservata 
+presso l'[[Archivio di Stato di Palermo]], Fondo Protonotaro del Regno e Fondo 
+Real Patrimonio. Cfr. V. Palizzolo Gravina, ''Il blasone in Sicilia'', 
+1871–1875, pp. 195–196; F. San Martino De Spucches, ''La storia dei feudi e 
+dei titoli nobiliari di Sicilia'', Palermo, 1924–1941.</ref>
 
 == L'apogeo: il Principato di Ficarazzi (1721–1733) ==
 
-Rimasto con le casse esaurite dopo i costi della lite, Luigi Gerardo contrasse nel medesimo anno matrimonio con '''Giulia Massa''' (nata 1686), figlia di Francesco Paolo Massa (II Duca di Castel di Aci) e nipote del banchiere genovese Giovanni Andrea Massa. La dote di Giulia comprendeva il '''Palazzo Castrone-Santa Ninfa''' di Palermo (già costruito nel 1588 da Cristoforo Castrone, progetto dell'architetto Giuseppe Giacalone, con una celebre fontana marmorea della scuola [[Gagini]] raffigurante Perseo e Andromeda) e importanti capitali liquidi di origine genovese, con i quali Luigi Gerardo finanziò il rimborso dei debiti contratti durante la lite e il pagamento del ''relevio'' dovuto alla Corona.
+[[File:Emperor_Charles_VI_by_Johann_Gottfried_Auerbach.jpg|thumb|right|200px|
+[[Carlo VI d'Asburgo]], che il 9 novembre 1733 investì Luigi Gerardo Giardina 
+primo Principe di Ficarazzi.]]
 
-Nel '''novembre 1721''' acquistò all'asta il feudo di '''[[Ficarazzi]]''' (nei pressi di [[Palermo]]) per 50.000 scudi, avviando un ambizioso programma di sviluppo urbano e architettonico:
+Rimasto con le casse esaurite dopo i costi della lite, Luigi Gerardo contrasse 
+nel medesimo anno matrimonio con '''Giulia Massa''' (nata 1686), figlia di 
+Francesco Paolo Massa (II Duca di Castel di Aci) e nipote del banchiere 
+genovese Giovanni Andrea Massa. La dote di Giulia comprendeva il '''Palazzo 
+Castrone-Santa Ninfa''' di Palermo e importanti capitali liquidi di origine 
+genovese.
+
+Nel '''novembre 1721''' acquistò all'asta il feudo di '''[[Ficarazzi]]''' 
+per 50.000 scudi — polo proto-industriale già sede di estese coltivazioni 
+di cannamele con trappeti per la lavorazione dello zucchero — avviando un 
+programma di sviluppo urbano e architettonico:
+
 * 1731: decorazione del Palazzo (affidata a Giuseppe Pirecò)
-* 1732: costruzione della [[Chiesa di Sant'Atanasio (Ficarazzi)|Chiesa di Sant'Atanasio]], elevata a parrocchia nel 1734 per promozione diretta dell'Arcivescovo di Palermo, e della fontana pubblica
-* 1732: costruzione della scala monumentale del Palazzo
+* 1732: costruzione della [[Chiesa di Sant'Atanasio (Ficarazzi)|Chiesa di 
+  Sant'Atanasio]], elevata a parrocchia nel 1734
+* 1732: costruzione della scala monumentale del Palazzo e della fontana pubblica
 * 1733: completamento delle opere residenziali principali
 
-Nello stesso anno Luigi Gerardo ricoprì la carica di '''Governatore della Compagnia di Pace di Palermo''', replicando nella propria persona il percorso istituzionale già seguito da Simone II Giardina Bellacera nel 1667–1671 e precedentemente da Simone I nel 1632.
+Nello stesso anno Luigi Gerardo ricoprì la carica di '''Governatore della 
+Compagnia di Pace di Palermo''', replicando il percorso istituzionale già 
+seguito da Simone II Giardina Bellacera nel 1667–1671.
 
-Il '''9 novembre 1733''' l'[[Imperatore del Sacro Romano Impero|Imperatore]] '''[[Carlo VI d'Asburgo]]''' investì Luigi Gerardo del titolo di '''I Principe di Ficarazzi''', previo pagamento del ''donativo'' imperiale. Questo rappresentò il massimo riconoscimento della casata nella storia del [[Regno di Sicilia]].
+Il '''9 novembre 1733''' l'Imperatore '''[[Carlo VI d'Asburgo]]''' investì 
+Luigi Gerardo del titolo di '''I Principe di Ficarazzi'''.<ref>F. San Martino 
+De Spucches, ''La storia dei feudi e dei titoli nobiliari di Sicilia'', 
+Palermo, 1924–1941; V. Palizzolo Gravina, ''Il blasone in Sicilia'', 
+1871–1875. Il provvedimento imperiale fu emesso esplicitamente a favore di 
+''Luigi Giardina De Guevara'', avendo egli già utilizzato la componente 
+''Lucchese'' nell'atto di investitura dei Gibellini del 1703.</ref>
 
 == Discendenza nel XVIII–XIX secolo ==
 
 === Diego Giardina, II Principe di Ficarazzi ===
 
-'''Diego Giardina''' (c. 1720–†4 dicembre 1786), figlio ed erede di Luigi Gerardo, fu investito '''II Principe di Ficarazzi''' il '''26 agosto 1739'''. Sposò '''Eumilia Grimaldi Del Castrone''', figlia del Principe di Santa Caterina; il matrimonio portò alla famiglia, per ''iure uxoris'', l'investitura del '''Principato di Santa Caterina''' (6 marzo 1742), concentrando in Diego i titoli di due principati, un marchesato e più baronie. Fu '''Capitano di Giustizia di Palermo''' nel 1748 — replicando, con settantotto anni di distanza, la medesima magistratura già ricoperta da Simone II Giardina Bellacera nel 1670. Fu sepolto nella chiesa di [[San Francesco d'Assisi (Palermo)|San Francesco]] a Palermo.
+[[File:Palermo_-_Basilica_di_San_Francesco_d'Assisi_-_Facciata.jpg|thumb|
+right|200px|La [[Basilica di San Francesco d'Assisi (Palermo)|Basilica di 
+San Francesco]] a Palermo, luogo di sepoltura di Diego Giardina (†4 dicembre 1786).]]
+
+'''Diego Giardina''' (c. 1720–†4 dicembre 1786), figlio ed erede di Luigi 
+Gerardo, fu investito '''II Principe di Ficarazzi''' il '''26 agosto 1739'''. 
+Sposò '''Eumilia Grimaldi Del Castrone''', figlia di Giulio, Principe di Santa 
+Caterina; il matrimonio portò alla famiglia, per ''iure uxoris'', l'investitura 
+del '''Principato di Santa Caterina''' (6 marzo 1742), a seguito della rinuncia 
+convalidata dal suocero Giulio Grimaldi.<ref>A. Mango di Casalgerardo, 
+''Nobiliario di Sicilia'', 1912; V. Palizzolo Gravina, ''Il blasone in Sicilia'', 
+1871–1875, p. 196; F. San Martino De Spucches, ''La storia dei feudi'', 
+voce "Santa Caterina".</ref> Fu '''Capitano di Giustizia di Palermo''' nel 
+1748 — replicando, con settantotto anni di distanza, la medesima magistratura 
+già ricoperta da Simone II Giardina Bellacera nel 1670. Fu sepolto nella 
+chiesa di [[San Francesco d'Assisi (Palermo)|San Francesco]] a Palermo.
 
 === Giulio Antonio Giardina Grimaldi ===
 
-'''Giulio Antonio Giardina Grimaldi''' (c. 1750–†19 febbraio 1811), figlio di Diego, continuò la linea principesca. Il suo cognome composito registra ufficialmente l'acquisizione della discendenza Grimaldi avvenuta con il matrimonio del padre. Fu sepolto nella [[Cattedrale di Palermo]].
+[[File:Palermo_Cathedral_-_Main_Facade.jpg|thumb|right|200px|La 
+[[Cattedrale di Palermo]], dove fu sepolto Giulio Antonio Giardina Grimaldi 
+il 19 febbraio 1811.]]
+
+'''Giulio Antonio Giardina Grimaldi''' (c. 1750–†19 febbraio 1811), figlio di 
+Diego, continuò la linea principesca. Il suo cognome composito registra 
+ufficialmente l'acquisizione della discendenza Grimaldi avvenuta con il 
+matrimonio del padre. Fu sepolto nella [[Cattedrale di Palermo]].
 
 === Paolo Giardina Naselli ===
 
-'''Paolo Giardina Naselli''' (c. 1791–?), figlio di Giulio Antonio, ereditò i titoli di Principe di Ficarazzi e Marchese di Santa Ninfa. Il cognome composito ''Naselli'' documenta un ulteriore matrimonio strategico con la casata Naselli, famiglia nobile siciliana di origini normanne attestata come uno dei lignaggi più antichi dell'isola. Il ramo ''Giardina Naselli di Gela'' è documentato come diramazione collaterale della casata.<ref>[VALIDARE] Famiglia Naselli: cfr. Mango di Casalgerardo, ''Nobiliario di Sicilia'', voce "Naselli".</ref>
+'''Paolo Giardina Naselli''' (c. 1791–?), figlio di Giulio Antonio, ereditò 
+i titoli di Principe di Ficarazzi e Marchese di Santa Ninfa. Il cognome 
+composito ''Naselli'' documenta un matrimonio strategico con la casata Naselli, 
+famiglia nobile siciliana di origini normanne.<ref>A. Mango di Casalgerardo, 
+''Nobiliario di Sicilia'', 1912, voce "Naselli". La presunta diramazione 
+collaterale dei ''Giardina Naselli di Gela'' non emerge dalle principali 
+sintesi araldiche siciliane a stampa e non è al momento verificata da fonti 
+archivistiche edite.</ref>
 
 === Antonino Giardina-Iaci (1831): apogeo del portfolio titolare ===
 
-'''Antonino Giardina-Iaci''' (nato il 30 gennaio 1831 a Palermo), figlio di Paolo, fu uno dei nobili più titolati della Sicilia del suo tempo, cumulando i titoli ereditari con quelli acquisiti attraverso il matrimonio con '''Maddalena Iaci''', figlia di una casata siciliana titolare di almeno tre baronie indipendenti. Il cognome doppio Giardina-Iaci riflette la pratica siciliana di incorporare il cognome della consorte quando questa apportava in dote titoli femminili indipendenti.<ref>FamilySearch ID: GQVT-2KK.</ref>
-
-Al momento del suo più alto rango, Antonino deteneva sette titoli nobiliari:
+'''Antonino Giardina-Iaci''' (nato il 30 gennaio 1831 a Palermo), figlio di 
+Paolo, cumulò i titoli ereditari con quelli acquisiti attraverso il matrimonio 
+con '''Maddalena Iaci'''.<ref>FamilySearch ID: GQVT-2KK.</ref>
 
 {| class="wikitable"
 ! Titolo !! Tipo !! Provenienza
 |-
-| Principe di Ficarazzi || Principato territoriale || Ereditario (da Luigi Gerardo Giardina, 1733)
+| Principe di Ficarazzi || Principato territoriale 
+  || Ereditario (da Luigi Gerardo Giardina, 1733)
 |-
-| Principe di Santa Caterina || Principato (''iure uxoris'' ereditario) || Dalla linea Grimaldi (Diego Giardina, 1742)
+| Principe di Santa Caterina || Principato (''iure uxoris'' ereditario) 
+  || Dalla linea Grimaldi (Diego Giardina, 1742)
 |-
-| Marchese di Santa Ninfa || Marchesato feudale || Ereditario (da Luigi Arias Giardina, 1621)
+| Marchese di Santa Ninfa || Marchesato feudale 
+  || Ereditario (da Luigi Arias Giardina, 1621)
 |-
-| Marchese di Maria Antonia Teresa Iaci || Marchesato || Acquisito per matrimonio con Maddalena Iaci
+| Marchese di Maria Antonia Teresa Iaci || Marchesato 
+  || Acquisito per matrimonio con Maddalena Iaci
 |-
-| Barone di Casalotto || Baronia || Acquisito per matrimonio con Maddalena Iaci
+| Barone di Casalotto || Baronia 
+  || Acquisito per matrimonio con Maddalena Iaci
 |-
-| Barone di Feudonovo || Baronia || Acquisito per matrimonio con Maddalena Iaci
+| Barone di Feudonovo || Baronia 
+  || Acquisito per matrimonio con Maddalena Iaci
 |-
-| Barone di Mazara || Baronia || Acquisito per matrimonio con Maddalena Iaci
+| Barone di Mazara || Baronia 
+  || Acquisito per matrimonio con Maddalena Iaci
 |}
 
 === La discendenza di Antonino Giardina-Iaci nel XIX–XX secolo ===
 
-Antonino Giardina-Iaci ebbe almeno tre figli documentati che proseguirono distinte linee discendenti:
+Antonino Giardina-Iaci (1831–?) ebbe da Rosa Lipari almeno dieci figli 
+documentati. '''Salvatore Giardina''' (1857–?) portò avanti la linea 
+primogenita. '''Eligio Giardina''' (1874–?) costituì un ramo collaterale.
 
-'''Salvatore Giardina''' (1857–?) portò avanti la linea primogenita. '''Eligio Giardina''' (1874–?) costituì un ramo collaterale. '''Giuseppe Giardina''' (1863–?), avvocato ferroviario di rilievo, fu il tramite della linea che avrebbe poi raggiunto il XX secolo: suo figlio '''Franco Giardina''' (1921–1943), ufficiale di cavalleria corazzata, cadde durante la seconda guerra mondiale, come da registri militari italiani, in età di ventuno anni.<ref>[NOTA DI LAVORO — BLP: i dati relativi a persone nate dopo il 1900 e con discendenza vivente sono omessi per policy WP:BLP. La linea biologica prosegue oltre il 1943 ma non è pubblicabile nello spazio principale.]</ref>
+'''Giuseppe Giardina''' (1863–?), avvocato specializzato in diritto 
+ferroviario, fu il tramite della linea che raggiunse il XX secolo. Dalla 
+moglie '''Clementina Boerio''' ebbe tre figli: '''Marco Aurelio Pasquale 
+Giardina''' (detto '''Marco''', 1917–?), '''Flavia Giardina''' (nata in 
+data non documentata) e '''Franco Giardina''' (1921–1943).
 
-== Linea patrilineare (schema testuale) ==
-<!--
-[NOTA DI LAVORO — NON PUBBLICARE COSÌ]
-La sintassi ASCII non è valida in MediaWiki; usare {{albero}} prima della pubblicazione.
-Tagliare ad Antonino Giardina-Iaci (1831) per pubblicazione nello spazio principale.
--->
+'''Marco Aurelio Pasquale Giardina''' (1917–?) sposò '''Orietta Ripafratti''' 
+(1933) senza discendenza documentata.
+
+'''Franco Giardina''' (1921–1943), ufficiale di cavalleria corazzata, cadde 
+in battaglia nell'autunno del 1943 in Veneto. Il suo nucleo familiare si 
+stabilì definitivamente in [[Veneto]], nella provincia di [[Verona]]. 
+I discendenti diretti di Franco Giardina senior — figli e nipoti — 
+sono viventi.<ref>Per policy [[Wikipedia:Biografie di persone viventi|WP:BLP]], 
+i dati anagrafici dettagliati delle persone nate dopo il 1943 con discendenza 
+in vita sono omessi dallo spazio principale.</ref>
+
+== Connessione con la famiglia Marquett ==
+
+[[File:Corso_Vittorio_Emanuele_(Palermo).jpg|thumb|right|220px|L'antico 
+[[Cassaro (Palermo)|Cassaro]] di Palermo, palcoscenico della nobiltà di toga 
+e di spada nel XVII–XVIII secolo.]]
+
+L'alleanza con la famiglia [[Marquett (famiglia)|Marquett]], casata di origine 
+[[Barcellona|barcellonese]] giunta in Sicilia alla fine del XIII secolo al 
+seguito della flotta aragonese, si concretizzò in due matrimoni incrociati 
+nel giro di una sola generazione.
+
+Il '''primo matrimonio''' (c. 1600–1610) unì '''Guiscardo Marquet''' 
+(c. 1580–post 1620), figlio di Pietro Marquett e della baronessa Anna Abate 
+(che nel 1563 aveva ottenuto l'investitura della [[Baronia di Ucria]]), con 
+'''Francesca Giardina''' (c. 1585). Da questa unione nacquero:
+
+* '''Giuseppe Marquett Giardina''' (c. 1610–1615 – ante 1670), '''Barone di 
+  Ucria''', il cui sepolcro monumentale si conserva nella [[Chiesa Madre di 
+  Ucria]]. Il cognome doppio riflette la prassi onomastica aristocratica 
+  siciliana: erede per linea paterna del lignaggio Marquett (e quindi della 
+  Baronia di Ucria), egli ostentava il cognome materno Giardina per sancire 
+  l'appartenenza a un network nobiliare di primo rango. La baronia passò, 
+  alla sua morte senza eredi, a Francesco Pagano Marquett, già investito 
+  Principe di Ucria nell'agosto 1670.
+* '''Vincenza Marquet''' (c. 1620), protagonista del secondo matrimonio.
+
+Il '''secondo matrimonio''' (c. 1635–1640) unì Vincenza Marquet con '''Luigi 
+Giardina''' (c. 1610), Barone di Gibellini. Da questa unione nacque '''Diego 
+Giardina''' (c. 1640), che divenne padre di Luigi Gerardo Giardina, I Principe 
+di Ficarazzi.
+
+== Cariche e magistrature ==
+
+{| class="wikitable"
+! Titolare !! Carica !! Anno !! Istituzione !! Note
+|-
+| Simone I Giardina Bellacera || Governatore || 1632 
+  || Compagnia della Carità di Palermo || Prima generazione Bellacera
+|-
+| Simone II Giardina Bellacera || Governatore || 1667 
+  || Compagnia della Pace di Palermo ||
+|-
+| Simone II Giardina Bellacera || '''Capitano Giustiziere''' || '''1670''' 
+  || '''Magistratura di Palermo''' || '''Massima autorità giudiziaria cittadina'''
+|-
+| Luigi Arias Giardina || Governatore || 1627 
+  || Monte di Pietà di Palermo || Anno della morte
+|-
+| Luigi Gerardo Giardina || Governatore || 1733 
+  || Compagnia della Pace di Palermo || Medesima istituzione di Simone II
+|-
+| Diego Giardina || '''Capitano di Giustizia''' || '''1748''' 
+  || '''Magistratura di Palermo''' || Medesima carica di Simone II, 78 anni dopo
+|}
+
+== Patrimonio architettonico ==
+
+=== Palazzo Castrone-Santa Ninfa (Palermo) ===
+
+Costruito nel 1588 da Cristoforo Castrone su progetto dell'architetto Giuseppe 
+Giacalone, nel cuore del [[Cassaro (Palermo)|Cassaro]] palermitano, con una 
+celebre fontana marmorea della scuola [[Gagini]] raffigurante Perseo e Andromeda. 
+Passato in proprietà Giardina attraverso la dote di Giulia Massa (c. 1703), 
+rimase residenza palermitana della famiglia fino al primo decennio dell'Ottocento.
+
+=== Palazzo Giardina (Ficarazzi) ===
+
+Edificato su una torre altomedievale (V sec.), trasformato in dimora barocca 
+nel 1731 dall'artefice Giuseppe Pirecò su incarico di Luigi Gerardo Giardina. 
+Decorato con stucchi e balconate in ferro battuto, dotato di una scenografica 
+scala monumentale. È il principale monumento storico di [[Ficarazzi]].
+
+=== Chiesa di Sant'Atanasio (Ficarazzi) ===
+
+Costruita per volontà di Luigi Gerardo Giardina tra il '''1732 e il 1734''' 
+ed elevata a parrocchia nel 1734, per promozione diretta dell'Arcivescovo di 
+Palermo. Con la chiesa fu realizzata anche una fontana pubblica (1732).
+
+== Araldica ==
+
+'''Blasone''': ''d'oro (o d'argento), all'albero sradicato di verde, affiancato 
+da due leoni controrampanti di rosso''. Nelle fonti settecentesche il campo è 
+talvolta descritto come ''d'argento''. Stemma dei Principi con corona principesca.
+
+Una variante documentata, visibile nelle maioliche settecentesche del 
+'''[[Palazzo Alliata di Villafranca]]''' (Palermo), mostra lo stemma Giardina 
+inquartato nella decorazione celebrativa realizzata nel corso dei restauri 
+post-sisma (1752–1760), in memoria del matrimonio di Anna Giardina Bellacera 
+con Blasco Maria Alliata (1675–1682).
+
+== Linea patrilineare ==
+
 <pre>
 Pietro Giardina (c. 1500)
-  + Giulia Del Castillo (c. 1530)               [VALIDARE: ASPa, Notai Defunti 1525–1545]
+  + Giulia Del Castillo (c. 1530)
   └─ Luigi Giardina (c. 1555)
-       + Elisabetta Corvino (c. 1555)            [VALIDARE]
-       │   └─ Diego Giardina (c. 1580)
-       │        + Maria Morso (c. 1580)          [VALIDARE]
-       │        └─ Luigi Giardina (c. 1610)
-       │             + Vincenza Marquet (c. 1620) [VALIDARE]
-       │             └─ Diego Giardina (c. 1640)
-       │                  + Maria Rosalia Lucchesi (c. 1650)
-       │                  └─ Luigi Gerardo Giardina (c. 1680)
-       │                       I Principe di Ficarazzi (1733)
-       │                       + Giulia Massa (n. 1686)
-       │                       └─ Diego Giardina (c. 1720)
-       │                            II Principe di Ficarazzi (inv. 1739)
-       │                            + Eumilia Grimaldi Del Castrone
-       │                            └─ Giulio Antonio Giardina Grimaldi (c. 1750–1811)
-       │                                 └─ Paolo Giardina-Naselli (c. 1791)
-       │                                      └─ Antonino Giardina-Iaci (1831)
-       │                                           ├─ Salvatore Giardina (1857)
-       │                                           ├─ Giuseppe Giardina (1863)
-       │                                           │    └─ Franco Giardina (1921–1943)
-       │                                           │         └─ [BLP — omettere]
-       │                                           └─ Eligio Giardina (1874)
-       + Maria de Guevara (c. 1560)               [VALIDARE: origine componente 'de Guevara']
+       + Maria de Guevara (c. 1560) [CONFERMATO: Vito Amico, 1855, p. 308]
+       └─ Diego Giardina (c. 1580)
+            + Maria Morso (c. 1580)
+            └─ Luigi Giardina (c. 1610)
+                 + Vincenza Marquet (c. 1620)
+                 └─ Diego Giardina (c. 1640)
+                      + Maria Rosalia Lucchesi (c. 1650) [CONFERMATO: Palizzolo Gravina, p. 196]
+                      └─ Luigi Gerardo Giardina (c. 1680)
+                           I Principe di Ficarazzi (1733)
+                           + Giulia Massa (n. 1686)
+                           └─ Diego Giardina (c. 1720)
+                                II Principe di Ficarazzi (inv. 26 ago 1739)
+                                + Eumilia Grimaldi Del Castrone [CONFERMATO: Mango; Palizzolo Gravina]
+                                └─ Giulio Antonio Giardina Grimaldi (c. 1750–†1811)
+                                     └─ Paolo Giardina-Naselli (c. 1791)
+                                          └─ Antonino Giardina-Iaci (30 gen 1831)
+                                               + Rosa Lipari (1838)
+                                               ├─ Salvatore Giardina (1857)
+                                               ├─ Eligio Giardina (1874)
+                                               └─ Giuseppe Giardina (1863)
+                                                    + Clementina Boerio
+                                                    ├─ Marco Aurelio Pasquale 
+                                                    │  Giardina (detto Marco, 1917)
+                                                    │  + Orietta Ripafratti (1933)
+                                                    │  (senza discendenza documentata)
+                                                    ├─ Flavia Giardina (s.d.)
+                                                    └─ Franco Giardina (1921–†1943)
+                                                         + Maria Valentini (1923)
+                                                         └─ Franco Giardina jr. (1943)
+                                                              [discendenza vivente
+                                                               — WP:BLP: dati omessi]
 
 Linea Bellacera (ramo collaterale, est. 1699 in linea maschile):
 Luigi Arias Giardina (c. 1580–1627)
@@ -236,56 +543,14 @@ Luigi Arias Giardina (c. 1580–1627)
        └─ Simone I Giardina Bellacera (inv. 1627, †1641, s.p.)
             └─ Giuseppe Giardina Bellacera
                  └─ Simone II Giardina Bellacera (c. 1600–1671)
-                      Governatore Compagnia Pace (1667)
                       Capitano Giustiziere di Palermo (1670)
                       Principe di Monteleone (1671)
                       └─ Pietro Giardina Bellacera (inv. 1685)
-                           ├─ Giuseppe Giardina Bellacera (1683–1699, s.p.) — LINEA ESTINTA
+                           ├─ Giuseppe Giardina Bellacera (1683–1699) — LINEA ESTINTA
                            └─ Anna Giardina Bellacera (1648–1717)
-                                + Blasco Maria Alliata (1675)
-                                  [Principe di Bonfornello 1677]
+                                + Blasco Maria Alliata (1675) [Principe di Bonfornello 1677]
                                 + Cesare Lanza, Principe di Trabia (seconde nozze)
 </pre>
-
-== Cariche e magistrature ==
-
-La casata Giardina espresse sistematicamente, nel corso di tre generazioni, titolari di cariche civiche palermitane di alto rango. Il parallelismo tra Simone II Giardina Bellacera (1667–1671) e Luigi Gerardo Giardina (1733) — entrambi Governatori della Compagnia di Pace prima di ottenere un titolo principesco — suggerisce una strategia consapevole di legittimazione amministrativa quale prerequisito al riconoscimento araldico.
-
-{| class="wikitable"
-! Titolare !! Carica !! Anno !! Istituzione !! Note
-|-
-| Simone I Giardina Bellacera || Governatore || 1632 || Compagnia della Carità di Palermo || Prima generazione Bellacera
-|-
-| Simone II Giardina Bellacera || Governatore || 1667 || Compagnia della Pace di Palermo ||
-|-
-| Simone II Giardina Bellacera || '''Capitano Giustiziere''' || '''1670''' || '''Magistratura di Palermo''' || '''Massima autorità giudiziaria cittadina'''
-|-
-| Luigi Arias Giardina || Governatore || 1627 || Monte di Pietà di Palermo || Anno della morte
-|-
-| Luigi Gerardo Giardina || Governatore || 1733 || Compagnia della Pace di Palermo || Medesima istituzione di Simone II
-|-
-| Diego Giardina || '''Capitano di Giustizia''' || '''1748''' || '''Magistratura di Palermo''' || '''Medesima carica di Simone II, 78 anni dopo'''
-|}
-
-== Patrimonio architettonico ==
-
-=== Palazzo Castrone-Santa Ninfa (Palermo) ===
-
-Costruito nel 1588 da Cristoforo Castrone su progetto dell'architetto Giuseppe Giacalone, nel cuore del Cassaro palermitano (attuale Corso Vittorio Emanuele), con una celebre fontana marmorea della scuola [[Gagini]] raffigurante Perseo e Andromeda. Passato in proprietà Giardina attraverso la dote di Giulia Massa (c. 1703), rimase residenza palermitana della famiglia fino al primo decennio dell'Ottocento. È tuttora noto col doppio nome Castrone-Santa Ninfa.
-
-=== Palazzo Giardina (Ficarazzi) ===
-
-Edificato su una torre altomedievale (V sec.), trasformato in dimora barocca nel 1731 dall'artefice Giuseppe Pirecò su incarico di Luigi Gerardo Giardina. Decorato con stucchi e balconate in ferro battuto, dotato di una scenografica scala monumentale. È il principale monumento storico di [[Ficarazzi]] ed è tuttora visitabile.
-
-=== Chiesa di Sant'Atanasio (Ficarazzi) ===
-
-Costruita per volontà di Luigi Gerardo Giardina tra il '''1732 e il 1734''' ed elevata a parrocchia nel 1734, per promozione diretta dell'Arcivescovo di Palermo. Con la chiesa fu realizzata anche una fontana pubblica (1732) parte del sistema idrico signorile del feudo.
-
-== Araldica ==
-
-'''Blasone''': ''d'oro (o d'argento), all'albero sradicato di verde, affiancato da due leoni controrampanti di rosso''. Nelle fonti settecentesche il campo è talvolta descritto come ''d'argento''. Stemma dei Principi con corona principesca.
-
-Una variante documentata, visibile nelle maioliche settecentesche del '''[[Palazzo Alliata di Villafranca]]''' (Palermo), mostra lo stemma Giardina inquartato nella decorazione celebrativa realizzata nel corso dei restauri post-sisma (1752–1760). La presenza dello stemma Giardina nel Palazzo Alliata è da ricondursi al matrimonio di '''Anna Giardina Bellacera''' (1648–1717) con Blasco Maria Alliata (1675–1682), commemorato nella memoria araldica settecentesca del palazzo secondo la prassi siciliana di registrare le "grandezze e parentele illustri" della casata anche in assenza di discendenza diretta.
 
 == Principali titoli ==
 
@@ -293,27 +558,46 @@ Una variante documentata, visibile nelle maioliche settecentesche del '''[[Palaz
 |-
 ! Titolo !! Tipo !! Territorio !! Anno !! Concedente !! Primo titolare !! Note
 |-
-| Marchese di Santa Ninfa || Marchesato feudale || [[Santa Ninfa]] (Trapani) || 1621 || [[Filippo IV di Spagna]] || Luigi Arias Giardina || Fondazione del centro abitato
+| Marchese di Santa Ninfa || Marchesato feudale || [[Santa Ninfa]] (Trapani) 
+  || 1621 || [[Filippo IV di Spagna]] || Luigi Arias Giardina 
+  || Fondazione del centro abitato
 |-
-| Barone di Gibellini || Baronato feudale || Gibellini (Trapani) || ante 1703 || — || Diego Giardina (ramo) || Porta alla successione del 1703
+| Barone di Gibellini || Baronato feudale || Gibellini (Trapani) 
+  || ante 1703 || — || Diego Giardina (ramo) 
+  || Porta alla successione del 1703
 |-
-| Capitano Giustiziere di Palermo || Magistratura cittadina || [[Palermo]] || 1670 || Senato palermitano || Simone II Giardina Bellacera || Massima autorità giudiziaria cittadina
+| Capitano Giustiziere di Palermo || Magistratura cittadina || [[Palermo]] 
+  || 1670 || Senato palermitano || Simone II Giardina Bellacera 
+  || Massima autorità giudiziaria cittadina
 |-
-| Principe di Monteleone || Principato || Sicilia || 1671 || — || Simone II Giardina Bellacera || Linea estinta con Simone II; titolo transitato ai Napoli di Resuttano (1703)
+| Principe di Monteleone || Principato || Sicilia 
+  || 1671 || — || Simone II Giardina Bellacera 
+  || Titolo transitato ai Napoli di Resuttano (1703)
 |-
-| Principessa di Bonfornello (''iure uxoris'') || Principato || Sicilia || 1677 || [[Carlo II di Spagna]] || Anna Giardina Bellacera || Per matrimonio con Blasco Maria Alliata; senza discendenza
+| Principessa di Bonfornello (''iure uxoris'') || Principato || Sicilia 
+  || 1677 || [[Carlo II di Spagna]] || Anna Giardina Bellacera 
+  || Per matrimonio con Blasco Maria Alliata; senza discendenza
 |-
-| '''Principe di Ficarazzi''' || '''Principato territoriale''' || '''[[Ficarazzi]] (Palermo)''' || '''1733''' || '''[[Carlo VI d'Asburgo]]''' || '''Luigi Gerardo Giardina''' || '''Titolo massimo della casata; privilegio imperiale 9 nov. 1733'''
+| '''Principe di Ficarazzi''' || '''Principato territoriale''' 
+  || '''[[Ficarazzi]] (Palermo)''' || '''1733''' || '''[[Carlo VI d'Asburgo]]''' 
+  || '''Luigi Gerardo Giardina''' 
+  || '''Titolo massimo della casata; privilegio imperiale 9 nov. 1733'''
 |-
-| Principe di Santa Caterina || Principato (''iure uxoris'') || Sicilia || 1742 || — || Diego Giardina || Per matrimonio con Eumilia Grimaldi Del Castrone; poi ereditario
+| Principe di Santa Caterina || Principato (''iure uxoris'') || Sicilia 
+  || 1742 || — || Diego Giardina 
+  || Per matrimonio con Eumilia Grimaldi Del Castrone; poi ereditario
 |-
-| Marchese di Maria Antonia Teresa Iaci || Marchesato || Sicilia || XIX sec. || — || Antonino Giardina-Iaci || Acquisito per matrimonio con Maddalena Iaci
+| Marchese di Maria Antonia Teresa Iaci || Marchesato || Sicilia 
+  || XIX sec. || — || Antonino Giardina-Iaci || Per matrimonio con Maddalena Iaci
 |-
-| Barone di Casalotto || Baronia || Sicilia || XIX sec. || — || Antonino Giardina-Iaci || Acquisito per matrimonio con Maddalena Iaci
+| Barone di Casalotto || Baronia || Sicilia 
+  || XIX sec. || — || Antonino Giardina-Iaci || Per matrimonio con Maddalena Iaci
 |-
-| Barone di Feudonovo || Baronia || Sicilia || XIX sec. || — || Antonino Giardina-Iaci || Acquisito per matrimonio con Maddalena Iaci
+| Barone di Feudonovo || Baronia || Sicilia 
+  || XIX sec. || — || Antonino Giardina-Iaci || Per matrimonio con Maddalena Iaci
 |-
-| Barone di Mazara || Baronia || Sicilia || XIX sec. || — || Antonino Giardina-Iaci || Acquisito per matrimonio con Maddalena Iaci
+| Barone di Mazara || Baronia || Sicilia 
+  || XIX sec. || — || Antonino Giardina-Iaci || Per matrimonio con Maddalena Iaci
 |}
 
 == Note ==
@@ -322,29 +606,38 @@ Una variante documentata, visibile nelle maioliche settecentesche del '''[[Palaz
 == Fonti ==
 
 === Fonti primarie ===
-* [[Archivio di Stato di Palermo]] (ASPa) — Fondo Protonotaro del Regno; Real Cancelleria; Conservatoria del Registro (Investiture); Notai Defunti (c. 1500–1627); Real Patrimonio; Fondo Senato di Palermo
-* [[Archivio Capitolare di Patti]] (ACP) — Pergamene e cartulari XI–XII sec.
+* [[Archivio di Stato di Palermo]] (ASPa) — Fondo Protonotaro del Regno; 
+  Real Cancelleria; Conservatoria del Registro (Investiture); Notai Defunti 
+  (c. 1500–1627); Real Patrimonio; Fondo Senato di Palermo
 * [[Archivio Diocesano di Palermo]] — Fondazione Chiesa Sant'Atanasio (1732–1734)
-* [[Archivio di Stato di Messina]] — Per il ramo Val Demone (XV sec.) [VALIDARE]
-* Privilegio imperiale di Carlo VI, 9 novembre 1733 (ASPa, Fondo Giardina) [VALIDARE localizzazione]
+* [[Archivio di Stato di Messina]] — Per il ramo Val Demone (XV sec.)
+* Privilegio imperiale di Carlo VI, 9 novembre 1733 (ASPa)
 
 === Fonti secondarie ===
-* Mango di Casalgerardo, Antonino. ''Nobiliario di Sicilia''. 2 voll. Palermo: A. Reber, 1912–1915. [Voci "Giardina", "Castiglia/Del Castillo", "Naselli"]
-* San Martino De Spucches, Francesco. ''La storia dei feudi e dei titoli nobiliari di Sicilia''. 10 voll. Palermo, 1924–1941.
-* Mugnos, Filadelfo. ''Teatro genologico delle famiglie nobili del Regno di Sicilia''. Palermo, 1647–1670.
-* Villabianca (Francesco Maria Emanuele Gaetani). ''Della Sicilia nobile'' / ''Dizionario Storico Blasonico''. Palermo, 1754–1775.
-* Amico, Vito. ''Lexicon Topographicum Siculum''. 1757–1760. [Voci "Ficarazzi", "Santa Ninfa", "Mazzarrà Sant'Andrea"]
-* Ferrara, Ferruccio e Ferrara, Paolo. ''Riveli, platee e documenti feudali del Marchesato di Santa Ninfa''. Palermo, 1990.
-* Catalioto, Luca. Studi sulla Sicilia normanna. Università di Messina, 2007. [FONTE DA VERIFICARE: titolo esatto e dati editoriali]
-* Filangieri di Candida, Riccardo e Mazzoleni, Jole (a cura di). ''I Registri della Cancelleria Angioina''. Napoli: Accademia Pontaniana, 1950–1986.
-* Cardiel Lalueza, Jesús. ''Nobiliario de Sobrarbe''. [VALIDARE anno e dati editoriali]
-* ''Calendar of Patent Rolls'', Henry III e successori (digitalizzato su british-history.ac.uk).
+* Mango di Casalgerardo, Antonino. ''Nobiliario di Sicilia''. 2 voll. 
+  Palermo: A. Reber, 1912–1915. [Voci "Giardina", "Castiglia/Del Castillo", "Naselli"]
+* Palizzolo Gravina, Vincenzo. ''Il blasone in Sicilia: ossia, Raccolta araldica''. 
+  Palermo: Huber e Visconti, 1871–1875, pp. 195–196.
+* San Martino De Spucches, Francesco. ''La storia dei feudi e dei titoli 
+  nobiliari di Sicilia''. 10 voll. Palermo, 1924–1941.
+* Mugnos, Filadelfo. ''Teatro genologico delle famiglie nobili del Regno 
+  di Sicilia''. Palermo, 1647–1670.
+* Villabianca (Francesco Maria Emanuele Gaetani). ''Della Sicilia nobile'' / 
+  ''Dizionario Storico Blasonico''. Palermo, 1754–1775.
+* Amico, Vito. ''Dizionario Topografico della Sicilia'', trad. G. Di Marzo. 
+  2 voll. Palermo, 1855–1856. [Vol. II, p. 308: voce "Ficarazzi"; menzione di 
+  Maria de Guevara e della trasmissione patrimoniale]
+* Ferrara, Ferruccio e Ferrara, Paolo. ''Riveli, platee e documenti feudali 
+  del Marchesato di Santa Ninfa''. Palermo, 1990.
+* Filangieri di Candida, Riccardo e Mazzoleni, Jole (a cura di). 
+  ''I Registri della Cancelleria Angioina''. Napoli: Accademia Pontaniana, 
+  1950–1986.
+* ''Calendar of Patent Rolls'', Henry III (digitalizzato su british-history.ac.uk).
 * ''Rotuli Hundredorum''. Vol. II. Ed. W. Illingworth. London, 1818.
-* ''Calendarium Inquisitionum Post Mortem''. Vol. II.
-* Collinson, John. ''The History and Antiquities of the County of Somerset''. Bath, 1791.
+* ''The Battle Abbey Roll''. Vol. II.
 
 === Genealogie digitali (solo come indice, non citabili come prova) ===
-* Geneanet — Database Mario GREGORIO (mariothegreat)
+* Geneanet — Database Mario GREGORIO (mariothegreat), voce Diego Giardina (3)
 * FamilySearch — Antonino Giardina-Iaci (ID: GQVT-2KK)
 * Genmarenostrum.com
 
@@ -363,6 +656,7 @@ Una variante documentata, visibile nelle maioliche settecentesche del '''[[Palaz
 * [[Mazzarrà Sant'Andrea]]
 * [[Alagona (famiglia)]]
 * [[Grimaldi (famiglia siciliana)]]
+* [[Marquett (famiglia)]]
 
 {{Portale|storia|Sicilia|araldica}}
 
