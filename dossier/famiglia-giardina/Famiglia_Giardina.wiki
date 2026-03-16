@@ -1,18 +1,21 @@
-<noinclude>{{Richiesta pulizia cronologia|motivo=Rimozione dati personali BLP in commento nascosto}}</noinclude>
+{{DISPLAYTITLE:Famiglia Giardina}}
+__NOTOC__
 
-{{Infobox casata nobile
-| nome = Giardina
-| titoli = Principi di Ficarazzi (1733)<br>Principi di Santa Caterina (1742, ''iure uxoris'')<br>Marchesi di Santa Ninfa (1621)<br>Baroni di Gibellini<br>Principi di Monteleone (1671, linea Bellacera)
-| paese = [[Sicilia]] ([[Regno di Sicilia]])
-| origini = [[Palermo]], Sicilia; ramo medievale in [[Val Demone]] ([[Messina]])
+{{Casata
+| cognome = Giardina
+| stemma =
+| blasonatura = D'oro (o d'argento), all'albero sradicato di verde, affiancato da due leoni controrampanti di rosso. Corona di Principi.
+| stato = [[Sicilia]] ([[Regno di Sicilia]])
+| titoli =
+* [[Principe di Ficarazzi|Principi di Ficarazzi]] (1733)
+* Principi di Santa Caterina (1742, ''iure uxoris'')
+* [[Marchese di Santa Ninfa|Marchesi di Santa Ninfa]] (1621)
+* Baroni di Gibellini
+* Principi di Monteleone (1671, linea Bellacera)
 | fondatore = [[Luigi Arias Giardina]] (c. 1580–1627)
-| data_fondazione = 1605 (feudo di Rampinzeri); 1621 (Marchesato di Santa Ninfa)
-| data_estinzione =
-| rami = Ramo Bellacera (est. 1699); Ramo Gibellini-Lucchese (continuato)
-| stemma_descrizione = D'oro (o d'argento), all'albero sradicato di verde, 
- affiancato da due leoni controrampanti di rosso. 
- Corona di Principi.
-| motto =
+| datafondazione = 1605 (feudo di Rampinzeri); 1621 (Marchesato di Santa Ninfa)
+| etnia = [[Normanni|normanna]]-siciliana
+| ramicadetti = Giardina-Bellacera<br>Giardina-Lucchesi<br>Giardina-Grimaldi<br>Giardina-Naselli<br>Giardina-Iaci
 }}
 
 [[File:Regno_di_Sicilia_-_Gio._Antonio_Magini_-_btv1b53011566x.jpg|thumb|right|250px|Carta storica del [[Regno di Sicilia]], teatro delle vicende feudali della casata Giardinatra il XVI e il XVIII secolo.]]
