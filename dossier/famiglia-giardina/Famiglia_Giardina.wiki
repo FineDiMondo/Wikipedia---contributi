@@ -10,7 +10,7 @@ __NOTOC__
 * Principi di Santa Caterina (1742, ''iure uxoris'')
 * [[Marchese di Santa Ninfa|Marchesi di Santa Ninfa]] (1621)
 * Baroni di Gibellini
-* Principi di Monteleone (1671, linea Bellacera)
+* Principi di Monteleone (1671, linea Bellacera; titolo transitato ai Napoli di Resuttano, 1703)
 | fondatore = [[Luigi Arias Giardina]] (c. 1580–1627)
 | datafondazione = 1605 (feudo di Rampinzeri); 1621 (Marchesato di Santa Ninfa)
 | etnia = [[Normanni|normanna]]-siciliana
@@ -302,6 +302,17 @@ Palermo, 1924–1941; V. Palizzolo Gravina, ''Il blasone in Sicilia'',
 
 '''Diego Giardina''' (c. 1720–†4 dicembre 1786), figlio ed erede di Luigi 
 Gerardo, fu investito '''II Principe di Ficarazzi''' il '''26 agosto 1739'''. 
+L'investitura avvenne contestualmente alla rinuncia all'usufrutto vitalizio 
+formalizzata dalla madre '''Giulia Massa''': vedova e titolare di diritti 
+patrimoniali considerevoli sull'eredità del marito, Giulia rinunciò 
+volontariamente all'usufrutto, trasferendo a Diego non soltanto il titolo 
+formale ma il controllo economico effettivo del patrimonio principesco. 
+L'atto configura una strategia successoria deliberata, analoga — nella 
+logica giuridica — alla battaglia vinta da Luigi Gerardo nel 1703: in 
+entrambi i casi la famiglia anticipò e neutralizzò ogni possibile 
+contestazione successoria.<ref>ASPa, Conservatoria del Registro, Investiture; 
+cfr. F. San Martino De Spucches, ''La storia dei feudi e dei titoli 
+nobiliari di Sicilia'', Palermo, 1924–1941, voce "Ficarazzi".</ref>
 Sposò '''Eumilia Grimaldi Del Castrone''', figlia di Giulio, Principe di Santa 
 Caterina; il matrimonio portò alla famiglia, per ''iure uxoris'', l'investitura 
 del '''Principato di Santa Caterina''' (6 marzo 1742), a seguito della rinuncia 
@@ -326,17 +337,32 @@ matrimonio del padre. Fu sepolto nella [[Cattedrale di Palermo]].
 
 '''Paolo Giardina Naselli''' (c. 1791–?), figlio di Giulio Antonio, ereditò 
 i titoli di Principe di Ficarazzi e Marchese di Santa Ninfa. Il cognome 
-composito ''Naselli'' documenta un matrimonio strategico con la casata Naselli, 
-famiglia nobile siciliana di origini normanne.<ref>A. Mango di Casalgerardo, 
+composito ''Naselli'' non deriva da un matrimonio di Paolo, bensì da quello 
+del padre Giulio Antonio con '''Giuseppa Naselli''' (c. 1760), casata nobile 
+siciliana di origini normanne: Paolo assunse il cognome aggiunto per 
+trasmissione patrilineare, secondo la consuetudine onomastica aristocratica 
+siciliana.<ref>A. Mango di Casalgerardo, 
 ''Nobiliario di Sicilia'', 1912, voce "Naselli". La presunta diramazione 
 collaterale dei ''Giardina Naselli di Gela'' non emerge dalle principali 
 sintesi araldiche siciliane a stampa e non è al momento verificata da fonti 
 archivistiche edite.</ref>
 
+=== Diego Giardina Naselli, ultimo feudatario (1812) ===
+
+'''Diego Giardina Naselli''' (c. 1810–?), figlio di Paolo, ottenne 
+l'investitura feudale nel '''1812''', risultando l'ultimo membro della casata 
+a essere formalmente investito di un titolo nel sistema feudale siciliano. 
+L'investitura avvenne nell'anno stesso in cui il Parlamento siciliano, 
+operando sotto la pressione della Costituzione del 1812 promossa dal 
+generale britannico Lord William Bentinck, sancì l'abolizione del 
+feudalesimo nell'isola. Diego Giardina Naselli fu pertanto de facto 
+l'ultimo feudatario legale della casata, prima che i titoli assumessero 
+carattere puramente onorifico.
+
 === Antonino Giardina-Iaci (1831): apogeo del portfolio titolare ===
 
 '''Antonino Giardina-Iaci''' (nato il 30 gennaio 1831 a Palermo), figlio di 
-Paolo, cumulò i titoli ereditari con quelli acquisiti attraverso il matrimonio 
+Diego Giardina Naselli, cumulò i titoli ereditari con quelli acquisiti attraverso il matrimonio 
 con '''Maddalena Iaci'''.<ref>FamilySearch ID: GQVT-2KK.</ref>
 
 {| class="wikitable"
@@ -471,22 +497,25 @@ Pietro Giardina (c. 1500)
                                 + Eumilia Grimaldi Del Castrone [CONFERMATO: Mango; Palizzolo Gravina]
                                 └─ Giulio Antonio Giardina Grimaldi (c. 1750–†1811)
                                      └─ Paolo Giardina-Naselli (c. 1791)
-                                          └─ Antonino Giardina-Iaci (30 gen 1831)
-                                               + Rosa Lipari (1838)
-                                               ├─ Salvatore Giardina (1857)
-                                               ├─ Eligio Giardina (1874)
-                                               └─ Giuseppe Giardina (1863)
-                                                    + Clementina Boerio
-                                                    ├─ Marco Aurelio Pasquale 
-                                                    │  Giardina (detto Marco, 1917)
-                                                    │  + Orietta Ripafratti (1933)
-                                                    │  (senza discendenza documentata)
-                                                    ├─ Flavia Giardina (s.d.)
-                                                    └─ Franco Giardina (1921–†1943)
-                                                         + Maria Valentini (1923)
-                                                         └─ Franco Giardina jr. (1943)
-                                                              [discendenza vivente
-                                                               — WP:BLP: dati omessi]
+                                           └─ Diego Giardina Naselli (inv. 1812)
+                                                [ultimo feudatario legale — titoli onorifici post 1812]
+                                                └─ Antonino Giardina-Iaci (30 gen 1831)
+                                                     [discendenza continua — v. supra]
+                                                     + Rosa Lipari (1838)
+                                                     ├─ Salvatore Giardina (1857)
+                                                     ├─ Eligio Giardina (1874)
+                                                     └─ Giuseppe Giardina (1863)
+                                                          + Clementina Boerio
+                                                          ├─ Marco Aurelio Pasquale 
+                                                          │  Giardina (detto Marco, 1917)
+                                                          │  + Orietta Ripafratti (1933)
+                                                          │  (senza discendenza documentata)
+                                                          ├─ Flavia Giardina (s.d.)
+                                                          └─ Franco Giardina (1921–†1943)
+                                                               + Maria Valentini (1923)
+                                                               └─ Franco Giardina jr. (1943)
+                                                                    [discendenza vivente
+                                                                     — WP:BLP: dati omessi]
 
 Linea Bellacera (ramo collaterale, est. 1699 in linea maschile):
 Luigi Arias Giardina (c. 1580–1627)
@@ -649,6 +678,15 @@ in Sicilia'', 1871–1875).
 | style="text-align:center;" | [[File:DA_CARICARE_Iaci_stemma.svg|60px|Stemma Iaci]]<br><small>''(da caricare)''</small>
 | Non documentata nelle fonti araldiche a stampa consultate.<ref>Il matrimonio tra Paolo Giardina Naselli e Maria Antonia Teresa Maddalena Iaci non trova al momento conferma nelle fonti a stampa primarie ([MC], [PG], San Martino De Spucches). Verifica richiesta presso ASPa, Notai Defunti e Conservatoria del Registro.</ref>
 | Principe di Ficarazzi e Marchese di Santa Ninfa (titoli ereditati). Introduce il cognome ''Iaci'' nella denominazione ufficiale del ramo discendente.
+|-
+| style="text-align:center;" | '''XI-bis'''
+| '''Diego Giardina Naselli'''<br><small>c. 1810–?</small>
+| N.N.
+| —
+| style="text-align:center;" | [[File:Stemma_Giardina_fam_ITA.svg|60px|Stemma Giardina]]
+| style="text-align:center;" | —
+| Non documentata.
+| '''Ultimo feudatario investito della casata''' (1812). Investitura nell'anno dell'abolizione del feudalesimo siciliano ([[Costituzione siciliana del 1812]]). Titoli assumono carattere onorifico.
 |-
 | style="text-align:center;" | '''XII'''
 | '''Antonino Giardina-Iaci'''<br><small>30 gen. 1831–?</small>
