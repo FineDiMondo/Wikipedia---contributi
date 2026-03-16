@@ -2,7 +2,7 @@
 
 {{Infobox casata nobile
 | nome = Giardina
-| titoli = Principi di Ficarazzi (1733)<br/>Principi di Santa Caterina (1742, ''iure uxoris'')<br/>Marchesi di Santa Ninfa (1621)<br/>Baroni di Gibellini<br/>Principi di Monteleone (1671, linea Bellacera)
+| titoli = Principi di Ficarazzi (1733)<br>Principi di Santa Caterina (1742, ''iure uxoris'')<br>Marchesi di Santa Ninfa (1621)<br>Baroni di Gibellini<br>Principi di Monteleone (1671, linea Bellacera)
 | paese = [[Sicilia]] ([[Regno di Sicilia]])
 | origini = [[Palermo]], Sicilia; ramo medievale in [[Val Demone]] ([[Messina]])
 | fondatore = [[Luigi Arias Giardina]] (c. 1580–1627)
@@ -550,121 +550,121 @@ in Sicilia'', 1871–1875).
 ! style="width:24%;" | Titoli e cariche acquisiti
 |-
 | style="text-align:center;" | '''I'''
-| '''Giovanni Giardina'''<br/><small>c. 1370–1430</small>
+| '''Giovanni Giardina'''<br><small>c. 1370–1430</small>
 | N.N.
 | —
-| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina: d'oro, all'albero sradicato di verde, affiancato da due leoni controrampanti di rosso]]<br/><small>''(da caricare)''</small>
+| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina: d'oro, all'albero sradicato di verde, affiancato da due leoni controrampanti di rosso]]<br><small>''(da caricare)''</small>
 | style="text-align:center;" | —
 | Non documentata
 | Feudatario di [[Mazzarrà Sant'Andrea]] (Val Demone, Messina)
 |-
 | style="text-align:center;" | '''II'''
-| '''Enrico Giardina'''<br/><small>c. 1400–post 1447</small>
+| '''Enrico Giardina'''<br><small>c. 1400–post 1447</small>
 | N.N.
 | —
-| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina]]<br/><small>''(da caricare)''</small>
+| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina]]<br><small>''(da caricare)''</small>
 | style="text-align:center;" | —
 | Non documentata
 | Feudatario di Mazzarrà Sant'Andrea (†1447: feudo passa a Corrado Spadafora)
 |-
 | style="text-align:center;" | '''III'''
-| '''Pietro Giardina'''<br/><small>c. 1500, Palermo</small>
-| '''Giulia Del Castillo'''<br/><small>c. 1530</small>
-| [[Del Castillo (famiglia)|Del Castillo]]<br/>(Castiglia / Castiglio)
-| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina]]<br/><small>''(da caricare)''</small>
-| style="text-align:center;" | [[File:DA_CARICARE_DelCastillo_stemma.svg|60px|Stemma Del Castillo: di rosso, alla torre d'argento]]<br/><small>''(da caricare)''</small>
+| '''Pietro Giardina'''<br><small>c. 1500, Palermo</small>
+| '''Giulia Del Castillo'''<br><small>c. 1530</small>
+| [[Del Castillo (famiglia)|Del Castillo]]<br>(Castiglia / Castiglio)
+| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina]]<br><small>''(da caricare)''</small>
+| style="text-align:center;" | [[File:DA_CARICARE_DelCastillo_stemma.svg|60px|Stemma Del Castillo: di rosso, alla torre d'argento]]<br><small>''(da caricare)''</small>
 | ''Di rosso, alla torre d'argento.''<ref>[MC] A. Mango di Casalgerardo, ''Nobiliario di Sicilia'', Palermo, 1912, voce "Castiglia / Del Castillo". Arma parlante: la torre richiama il toponimo iberico ''castillo''.</ref>
 | Mercante palermitano. Prima alleanza iberica della casata.
 |-
 | style="text-align:center;" | '''IV'''
-| '''Luigi Giardina'''<br/><small>c. 1555, Palermo</small>
-| '''Maria de Guevara'''<br/><small>c. 1560</small>
+| '''Luigi Giardina'''<br><small>c. 1555, Palermo</small>
+| '''Maria de Guevara'''<br><small>c. 1560</small>
 | [[Guevara (famiglia)|de Guevara]]
-| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina]]<br/><small>''(da caricare)''</small>
+| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina]]<br><small>''(da caricare)''</small>
 | style="text-align:center;" | [[File:Escudo_de_los_Guevara.svg|60px|Stemma de Guevara: di nero, alla banda d'oro caricata di tre cotisse di rosso]]
 | ''Di nero, alla banda d'oro caricata di tre cotisse di rosso'' (variante siciliana).<ref>V. Amico, ''Dizionario Topografico della Sicilia'', trad. G. Di Marzo, vol. II, Palermo, 1855, p. 308: conferma l'unione e la discendenza di Diego e Orsola Giardina da Maria de Guevara.</ref>
 | La componente ''de Guevara'' nel cognome composito del 1733 deriva da questo matrimonio. Confermato da Vito Amico (1855).
 |-
 | style="text-align:center;" | '''V'''
-| '''Diego Giardina'''<br/><small>c. 1580, Palermo</small>
-| '''Maria Morso'''<br/><small>c. 1580</small>
+| '''Diego Giardina'''<br><small>c. 1580, Palermo</small>
+| '''Maria Morso'''<br><small>c. 1580</small>
 | Morso
-| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina]]<br/><small>''(da caricare)''</small>
-| style="text-align:center;" | [[File:DA_CARICARE_Morso_stemma.svg|60px|Stemma Morso: non documentata]]<br/><small>''(da caricare)''</small>
+| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina]]<br><small>''(da caricare)''</small>
+| style="text-align:center;" | [[File:DA_CARICARE_Morso_stemma.svg|60px|Stemma Morso: non documentata]]<br><small>''(da caricare)''</small>
 | Non documentata nelle fonti araldiche a stampa consultate.<ref>La casata Morso è documentata nel novero della nobiltà siciliana; la blasonatura specifica non è reperibile nelle sintesi a stampa (Mango; Palizzolo Gravina). Verifica richiesta presso ASPa, Fondo Protonotaro.</ref>
 | Generazione di transizione. Matrimonio non riscontrato nelle grandi sintesi genealogiche a stampa.
 |-
 | style="text-align:center;" | '''VI'''
-| '''Luigi Giardina'''<br/><small>c. 1610, Palermo</small><br/>Barone di Gibellini
-| '''Vincenza Marquet'''<br/><small>c. 1620</small>
+| '''Luigi Giardina'''<br><small>c. 1610, Palermo</small><br>Barone di Gibellini
+| '''Vincenza Marquet'''<br><small>c. 1620</small>
 | [[Marquett (famiglia)|Marquett (Marquet)]]
-| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina]]<br/><small>''(da caricare)''</small>
-| style="text-align:center;" | [[File:DA_CARICARE_Marquett_stemma.svg|60px|Stemma Marquett: partito, 1° d'oro a 4 pali di rosso, 2° di rosso a 3 martelli d'oro]]<br/><small>''(da caricare)''</small>
+| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina]]<br><small>''(da caricare)''</small>
+| style="text-align:center;" | [[File:DA_CARICARE_Marquett_stemma.svg|60px|Stemma Marquett: partito, 1° d'oro a 4 pali di rosso, 2° di rosso a 3 martelli d'oro]]<br><small>''(da caricare)''</small>
 | ''Partito: nel 1° d'oro, a quattro pali di rosso; nel 2° di rosso, a tre martelli d'oro, i due del capo affrontati e posti in fascia.''<ref>[PG] V. Palizzolo Gravina, ''Il blasone in Sicilia'', Palermo, 1875, p. 248. Il primo partito è la ''Senyera'' aragonese, concessa al capostipite Raimondo Marquett per i servizi resi alle flotte di Pietro III e Giacomo II d'Aragona (fine XIII sec.).</ref>
 | Baronato di Gibellini (Trapani). Alleanza con la componente aragonese-catalana presente in Sicilia dalla fine del XIII sec.
 |-
 | style="text-align:center;" | '''VII'''
-| '''Diego Giardina'''<br/><small>c. 1640, Palermo</small><br/>Barone di Gibellini
-| '''Maria Rosalia Lucchesi'''<br/><small>c. 1650</small>
+| '''Diego Giardina'''<br><small>c. 1640, Palermo</small><br>Barone di Gibellini
+| '''Maria Rosalia Lucchesi'''<br><small>c. 1650</small>
 | Lucchesi
-| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina]]<br/><small>''(da caricare)''</small>
-| style="text-align:center;" | [[File:DA_CARICARE_Lucchesi_stemma.svg|60px|Stemma Lucchesi]]<br/><small>''(da caricare)''</small>
+| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina]]<br><small>''(da caricare)''</small>
+| style="text-align:center;" | [[File:DA_CARICARE_Lucchesi_stemma.svg|60px|Stemma Lucchesi]]<br><small>''(da caricare)''</small>
 | Non documentata nelle fonti araldiche a stampa consultate per il ramo palermitano.<ref>La componente ''Lucchese'' nel cognome composito di Luigi Gerardo (1703: ''Giardina e Lucchese''; 1733: ''Giardina De Guevara Lucchese ed Alagona'') è attestata da V. Palizzolo Gravina, ''Il blasone in Sicilia'', 1871–1875, p. 196. La madre di Maria Rosalia, Laura Lucia d'Alagona, introduce la componente ''Alagona''.</ref>
 | '''Matrimonio fondante della linea principesca.''' La componente ''Lucchese'' entra nel cognome composito (1703). Genera Luigi Gerardo Giardina, I Principe di Ficarazzi (1733). Confermato da Palizzolo Gravina, p. 196.
 |-
 | style="background:#f0f4ff;" colspan="8" | <center>'''↑ Linea Giardina-Lucchese (ramo parallelo) — origina dal figlio primogenito Diego, Barone di Gibellini, e converge nella linea principesca con Luigi Gerardo (1703–1733)'''</center>
 |-
 | style="text-align:center;" | '''—'''
-| '''Luigi Arias Giardina'''<br/><small>c. 1580–1627</small>
+| '''Luigi Arias Giardina'''<br><small>c. 1580–1627</small>
 | N.N.
 | —
-| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina]]<br/><small>''(da caricare)''</small>
+| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina]]<br><small>''(da caricare)''</small>
 | style="text-align:center;" | —
 | —
 | '''I Marchese di Santa Ninfa''' (1621, Filippo IV). Gov. Monte di Pietà di Palermo (1627). Fondatore del centro abitato di [[Santa Ninfa]] (''Licentia Populandi'' 1609).
 |-
 | style="text-align:center;" | '''VIII'''
-| '''Luigi Gerardo Giardina e Lucchese'''<br/><small>c. 1680–c. 1750</small><br/>I Principe di Ficarazzi
-| '''Giulia Massa'''<br/><small>n. 1686</small>
+| '''Luigi Gerardo Giardina e Lucchese'''<br><small>c. 1680–c. 1750</small><br>I Principe di Ficarazzi
+| '''Giulia Massa'''<br><small>n. 1686</small>
 | Massa
-| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina]]<br/><small>''(da caricare)''</small>
-| style="text-align:center;" | [[File:DA_CARICARE_Massa_stemma.svg|60px|Stemma Massa]]<br/><small>''(da caricare)''</small>
+| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina]]<br><small>''(da caricare)''</small>
+| style="text-align:center;" | [[File:DA_CARICARE_Massa_stemma.svg|60px|Stemma Massa]]<br><small>''(da caricare)''</small>
 | Non documentata nelle fonti araldiche a stampa consultate per il ramo siciliano.<ref>I Massa sono identificati come banchieri genovesi trapiantati in Sicilia. Il ramo siciliano acquisì, tramite Agata Grimaldi (nonna di Giulia), il Palazzo Castrone-Santa Ninfa e i feudi di Catania e Aci. La loro blasonatura specifica in Sicilia non è reperibile nelle sintesi a stampa di uso corrente.</ref>
 | '''Marchese di Santa Ninfa''' (1703). '''I Principe di Ficarazzi''' (9 nov. 1733, Carlo VI d'Asburgo). Gov. Compagnia di Pace di Palermo (1733). Acquisto feudo Ficarazzi (1721, 50.000 scudi). Dote Massa: Palazzo Castrone-Santa Ninfa + 60–70.000 scudi.
 |-
 | style="text-align:center;" | '''IX'''
-| '''Diego Giardina'''<br/><small>c. 1720–†4 dic. 1786</small><br/>II Principe di Ficarazzi
-| '''Eumilia Grimaldi Del Castrone'''<br/><small>c. 1720</small>
+| '''Diego Giardina'''<br><small>c. 1720–†4 dic. 1786</small><br>II Principe di Ficarazzi
+| '''Eumilia Grimaldi Del Castrone'''<br><small>c. 1720</small>
 | [[Grimaldi (famiglia siciliana)|Grimaldi Del Castrone]]
-| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina]]<br/><small>''(da caricare)''</small>
+| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina]]<br><small>''(da caricare)''</small>
 | style="text-align:center;" | [[File:Blason_Grimaldi.svg|60px|Stemma Grimaldi: fasciato d'argento e di rosso]]
 | ''Fasciato d'argento e di rosso'' (insegna classica del casato Grimaldi).<ref>[MC] A. Mango di Casalgerardo, ''Nobiliario di Sicilia'', 1912; [PG] V. Palizzolo Gravina, ''Il blasone in Sicilia'', 1871–1875, p. 196. L'investitura ''iure uxoris'' del Principato di Santa Caterina (6 mar. 1742) è confermata da F. San Martino De Spucches, voce "Santa Caterina".</ref>
 | '''II Principe di Ficarazzi''' (inv. 26 ago. 1739). '''Principe di Santa Caterina''' (''iure uxoris'', 6 mar. 1742). Capitano di Giustizia di Palermo (1748). Sepolto in [[San Francesco d'Assisi (Palermo)|San Francesco]], Palermo.
 |-
 | style="text-align:center;" | '''X'''
-| '''Giulio Antonio Giardina Grimaldi'''<br/><small>c. 1750–†19 feb. 1811</small>
-| '''Giuseppa Naselli'''<br/><small>c. 1760</small>
+| '''Giulio Antonio Giardina Grimaldi'''<br><small>c. 1750–†19 feb. 1811</small>
+| '''Giuseppa Naselli'''<br><small>c. 1760</small>
 | [[Naselli (famiglia)|Naselli]]
-| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina]]<br/><small>''(da caricare)''</small>
-| style="text-align:center;" | [[File:DA_CARICARE_Naselli_stemma.svg|60px|Stemma Naselli]]<br/><small>''(da caricare)''</small>
+| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina]]<br><small>''(da caricare)''</small>
+| style="text-align:center;" | [[File:DA_CARICARE_Naselli_stemma.svg|60px|Stemma Naselli]]<br><small>''(da caricare)''</small>
 | Non documentata per il ramo specificatamente attestato.<ref>[MC] A. Mango di Casalgerardo, ''Nobiliario di Sicilia'', 1912, voce "Naselli": casata di origini normanne, tra le più antiche dell'isola. La blasonatura specifica del ramo collegato ai Giardina richiede verifica archivistica.</ref>
 | Principe di Ficarazzi e Principe di Santa Caterina (titoli ereditati). Sepolto nella [[Cattedrale di Palermo]] (19 feb. 1811). Il cognome composito ''Grimaldi'' documenta la linea materna.
 |-
 | style="text-align:center;" | '''XI'''
-| '''Paolo Giardina Naselli'''<br/><small>c. 1791–?</small>
-| '''Maria Antonia Teresa Maddalena Iaci'''<br/><small>c. 1796</small>
+| '''Paolo Giardina Naselli'''<br><small>c. 1791–?</small>
+| '''Maria Antonia Teresa Maddalena Iaci'''<br><small>c. 1796</small>
 | Iaci
-| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina]]<br/><small>''(da caricare)''</small>
-| style="text-align:center;" | [[File:DA_CARICARE_Iaci_stemma.svg|60px|Stemma Iaci]]<br/><small>''(da caricare)''</small>
+| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina]]<br><small>''(da caricare)''</small>
+| style="text-align:center;" | [[File:DA_CARICARE_Iaci_stemma.svg|60px|Stemma Iaci]]<br><small>''(da caricare)''</small>
 | Non documentata nelle fonti araldiche a stampa consultate.<ref>Il matrimonio tra Paolo Giardina Naselli e Maria Antonia Teresa Maddalena Iaci non trova al momento conferma nelle fonti a stampa primarie ([MC], [PG], San Martino De Spucches). Verifica richiesta presso ASPa, Notai Defunti e Conservatoria del Registro.</ref>
 | Principe di Ficarazzi e Marchese di Santa Ninfa (titoli ereditati). Introduce il cognome ''Iaci'' nella denominazione ufficiale del ramo discendente.
 |-
 | style="text-align:center;" | '''XII'''
-| '''Antonino Giardina-Iaci'''<br/><small>30 gen. 1831–?</small>
-| '''Rosa Lipari'''<br/><small>1838</small>
+| '''Antonino Giardina-Iaci'''<br><small>30 gen. 1831–?</small>
+| '''Rosa Lipari'''<br><small>1838</small>
 | Lipari
-| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina]]<br/><small>''(da caricare)''</small>
-| style="text-align:center;" | [[File:DA_CARICARE_Lipari_stemma.svg|60px|Stemma Lipari]]<br/><small>''(da caricare)''</small>
+| style="text-align:center;" | [[File:DA_CARICARE_Giardina_stemma.svg|60px|Stemma Giardina]]<br><small>''(da caricare)''</small>
+| style="text-align:center;" | [[File:DA_CARICARE_Lipari_stemma.svg|60px|Stemma Lipari]]<br><small>''(da caricare)''</small>
 | Non documentata nelle fonti araldiche a stampa consultate.
 | Sette titoli nobiliari cumulati (2 principati, 2 marchesati, 3 baronie). Ultimo nobile pienamente titolato della casata prima dell'[[Unità d'Italia]] (1861). FamilySearch ID: GQVT-2KK.
 |}
