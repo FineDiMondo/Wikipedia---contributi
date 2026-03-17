@@ -11,10 +11,13 @@ import sys
 from pathlib import Path
 
 import requests
+from env_utils import load_env_file
 
 
 API = "https://commons.wikimedia.org/w/api.php"
 USER_AGENT = "WikiCommonsUploadTest/1.0 (user script; contact via Wikimedia user page)"
+REPO_ROOT = Path(__file__).resolve().parent.parent
+load_env_file(REPO_ROOT / ".env")
 
 
 def parse_args() -> argparse.Namespace:

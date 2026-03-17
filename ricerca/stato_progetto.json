@@ -1,0 +1,62 @@
+{
+  "progetto": "Wikipedia - Contributi Giardina",
+  "ultimo_aggiornamento": "2026-03-17",
+  "configurazione": {
+    "repository": "D:/Progetti GITHUB/Wikipedia - contributi",
+    "utente_wiki": "Daniel Giardina"
+  },
+  "pagine": [
+    {
+      "id": "famiglia_giardina",
+      "titolo": "Famiglia Giardina",
+      "file_locale": "wiki/Famiglia_Giardina.wiki",
+      "url_sandbox": "https://it.wikipedia.org/wiki/Utente:Daniel_Giardina/Sandbox/Famiglia_Giardina",
+      "completamento_totale": 100,
+      "note": "Voce consolidata con riferimenti Mango, San Martino De Spucches e data investitura 1733 confermata."
+    },
+    {
+      "id": "franco_giardina_senior",
+      "titolo": "Franco Giardina senior",
+      "file_locale": "wiki/Franco_Giardina_senior.wiki",
+      "url_sandbox": "https://it.wikipedia.org/wiki/Utente:Daniel_Giardina/Sandbox/Franco_Giardina_senior",
+      "completamento_totale": 100,
+      "note": "Dati corretti (Bari 1921). Rafforzata enciclopedicità come martire accademico e vittima rappresaglia."
+    },
+    {
+      "id": "giuseppe_giardina",
+      "titolo": "Giuseppe Giardina",
+      "file_locale": "wiki/Giuseppe_Giardina.wiki",
+      "url_sandbox": "https://it.wikipedia.org/wiki/Utente:Daniel_Giardina/Sandbox/Giuseppe_Giardina",
+      "completamento_totale": 100,
+      "note": "Nodo centrale della discendenza moderna (ramo Lipari, avvocato FS)."
+    },
+    {
+      "id": "marco_giardina",
+      "titolo": "Marco Aurelio Pasquale Giardina",
+      "file_locale": "wiki/Marco_Aurelio_Pasquale_Giardina.wiki",
+      "url_sandbox": "https://it.wikipedia.org/wiki/Utente:Daniel_Giardina/Sandbox/Marco_Aurelio_Pasquale_Giardina",
+      "completamento_totale": 100
+    },
+    {
+      "id": "pietro_giardina",
+      "titolo": "Pietro Giardina",
+      "file_locale": "wiki/Pietro_Giardina.wiki",
+      "completamento_totale": 100,
+      "note": "Fondatore linea palermitana (sposa Del Castillo)."
+    },
+    {
+      "id": "luigi_giardina",
+      "titolo": "Luigi Giardina",
+      "file_locale": "wiki/Luigi_Giardina.wiki",
+      "completamento_totale": 100,
+      "note": "Seconda generazione (sposa Corvino)."
+    },
+    {
+      "id": "luigi_arias_giardina",
+      "titolo": "Luigi Arias Giardina",
+      "file_locale": "wiki/Luigi_Arias_Giardina.wiki",
+      "completamento_totale": 100,
+      "note": "I Marchese di Santa Ninfa. Fondatore potenza feudale."
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "project": "Wikipedia - Contributi Giardina/Lipari",
+  "investigation_scope": "Palermo Civil Records (1837-1863)",
+  "archival_source": "Archivio di Stato di Palermo",
+  "targets": [
+    {
+      "id": "MATR_1856_GIARDINA_LIPARI",
+      "event": "Matrimonio",
+      "subject_a": "Antonino Giardina",
+      "subject_b": "Rosa Lipari",
+      "date": "1856-08-21",
+      "ark_url": "https://antenati.cultura.gov.it/ark:/12657/an_ua565378",
+      "nav_instructions": {
+        "section": "Sezione Molo",
+        "estimated_image_index": 145,
+        "search_pattern": "Ventesimo primo di agosto, anno milleottocentocinquantasei"
+      },
+      "extraction_fields": [
+        "Genitori Sposo",
+        "Genitori Sposa",
+        "Titoli Nobiliari",
+        "Professioni"
+      ]
+    },
+    {
+      "id": "MATR_1838_LIPARI_ALBANESE",
+      "event": "Matrimonio",
+      "subject_a": "Giuseppe Lipari",
+      "subject_b": "Rosaria Albanese",
+      "date": "1838-01-22",
+      "ark_url": "https://antenati.cultura.gov.it/ark:/12657/an_ua565360",
+      "nav_instructions": {
+        "section": "Sezione Molo",
+        "estimated_image_index": 5,
+        "search_pattern": "Ventidue di gennaio, anno milleottocentotrentotto",
+        "act_number": "1 o 2"
+      },
+      "extraction_fields": [
+        "Padre Giuseppe",
+        "Padre Rosaria",
+        "Status Sociale"
+      ]
+    },
+    {
+      "id": "BORN_1863_GIARDINA_GIUSEPPE",
+      "event": "Nascita",
+      "subject": "Giuseppe Giardina",
+      "year": 1863,
+      "ark_url": "https://antenati.cultura.gov.it/ark:/12657/an_ua19584387",
+      "nav_instructions": {
+        "section": "Sezione Molo",
+        "method": "Sfogliare indice alfabetico (lettera G) alle ultime 10 immagini del volume",
+        "action": "Individuare Numero Atto e saltare all'immagine corrispondente"
+      },
+      "extraction_fields": [
+        "Data esatta",
+        "Indirizzo residenza",
+        "Genitori"
+      ]
+    },
+    {
+      "id": "BORN_1838_LIPARI_ROSA",
+      "event": "Nascita",
+      "subject": "Rosa Lipari",
+      "year": 1838,
+      "ark_url": "https://antenati.cultura.gov.it/ark:/12657/an_ua565359",
+      "nav_instructions": {
+        "section": "Sezione Molo",
+        "method": "Consultazione Indice Annuale a fine registro (Immagini 300+)",
+        "search_term": "Lipari Rosa"
+      },
+      "extraction_fields": [
+        "Genitori (Confermare Giuseppe e Rosaria Albanese)"
+      ]
+    },
+    {
+      "id": "DEATH_1837_GIARDINA_PAOLO",
+      "event": "Morte",
+      "subject": "Paolo Giardina",
+      "context": "Epidemia Colera",
+      "ark_url": "https://antenati.cultura.gov.it/ark:/12657/an_ua565358",
+      "nav_instructions": {
+        "section": "Sezione Santa Ninfa",
+        "critical_note": "Volume condizionato da supplementi colerici. Cercare in 'Morti' Luglio-Agosto 1837",
+        "target_keywords": [
+          "Paolo Giardina",
+          "Naselli",
+          "Marchese",
+          "Principe"
+        ]
+      },
+      "extraction_fields": [
+        "Data decesso",
+        "Età",
+        "Eredi citati"
+      ]
+    }
+  ],
+  "output_format": "TABULAR_BIBLIOGRAPHIC_DATA"
+}

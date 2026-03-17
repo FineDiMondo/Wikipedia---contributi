@@ -2,10 +2,14 @@
 """Sincronizzazione bozze Wikipedia via API MediaWiki con bot password."""
 import os
 import sys
+from pathlib import Path
 
 import requests
+from env_utils import load_env_file
 
 API = "https://it.wikipedia.org/w/api.php"
+REPO_ROOT = Path(__file__).resolve().parent.parent
+load_env_file(REPO_ROOT / ".env")
 BOT_USER = os.getenv("WIKI_BOT_USER", "").strip()
 BOT_PASS = os.getenv("WIKI_BOT_PASS", "").strip()
 
@@ -13,15 +17,25 @@ PAGES = [
     (
         "wiki/Famiglia_Giardina.wiki",
         "Utente:Daniel Giardina/Sandbox/Famiglia Giardina",
-        "Allineamento bozza Famiglia Giardina",
+        "Consolidamento biografie XX secolo",
     ),
     (
         "wiki/Marco_Aurelio_Pasquale_Giardina.wiki",
         "Utente:Daniel Giardina/Sandbox/Marco Aurelio Pasquale Giardina",
-        "Allineamento bozza Marco Aurelio Pasquale Giardina",
+        "Aggiornamento link incrociati",
     ),
     (
-        "wiki/Sandbox_Index.wiki",
+        "wiki/Franco_Giardina_senior.wiki",
+        "Utente:Daniel Giardina/Sandbox/Franco Giardina senior",
+        "Rafforzamento incipit martire accademico",
+    ),
+    (
+        "wiki/Giuseppe_Giardina.wiki",
+        "Utente:Daniel Giardina/Sandbox/Giuseppe Giardina",
+        "Sincronizzazione biografia",
+    ),
+    (
+        "wiki/index.wiki",
         "Utente:Daniel Giardina/Sandbox",
         "Aggiornamento indice sandbox",
     ),
@@ -43,15 +57,21 @@ def create_session() -> requests.Session:
 
 
 def api_get(session: requests.Session, params: dict) -> dict:
-    response = session.get(API, params={**params, "format": "json"})
+    response = session.get(API, params={**params, "format": "json"}, timeout=60)
     response.raise_for_status()
-    return response.json()
+    payload = response.json()
+    if "error" in payload:
+        raise RuntimeError(f"API error: {payload['error']}")
+    return payload
 
 
 def api_post(session: requests.Session, data: dict) -> dict:
-    response = session.post(API, data={**data, "format": "json"})
+    response = session.post(API, data={**data, "format": "json"}, timeout=180)
     response.raise_for_status()
-    return response.json()
+    payload = response.json()
+    if "error" in payload:
+        raise RuntimeError(f"API error: {payload['error']}")
+    return payload
 
 
 def login(session: requests.Session, user: str, password: str) -> str:
@@ -98,6 +118,8 @@ def edit_page(
         print(f"    ERRORE edit '{title}': {data['error']}", file=sys.stderr)
         return False
     result = data["edit"]["result"]
+    if result != "Success":
+        print(f"    FAILURE detail: {data}", file=sys.stderr)
     newrev = data["edit"].get("newrevid", "—")
     print(f"    result={result}  newrevid={newrev}")
     return result == "Success"

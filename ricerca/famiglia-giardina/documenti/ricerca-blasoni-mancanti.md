@@ -2,7 +2,7 @@
 
 Aggiornato al 2026-03-16.
 
-Fonte elenco locale: `wiki/Famiglia_Giardina.wiki`, tramite i placeholder `DA_CARICARE_*.svg`.
+Fonte elenco locale storica: `wiki/Famiglia_Giardina.wiki`, a partire dai placeholder `DA_CARICARE_*.svg` ora rimossi dal wikitesto corrente.
 
 Cartella creata: `docs/blasone-mancanti-jpg/`
 

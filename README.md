@@ -22,7 +22,9 @@ Per questo il flusso corretto e':
 - `wiki/`: pagine wiki finali da sincronizzare con Wikipedia
 - `docs/`: regole operative e riferimenti ufficiali
 - `templates/`: modelli riusabili per dossier e bozze
-- `dossier/`: materiali di supporto, fonti, valutazioni e appunti di lavoro
+- `ricerca/`: materiali di supporto, fonti, valutazioni e appunti di lavoro
+- `dossier/`: materiali tecnici e lavorazioni specialistiche
+- `assets/`: risorse locali, immagini e sorgenti di lavoro
 - `scripts/`: automazioni e utility
 
 ## Avvio rapido
@@ -30,8 +32,8 @@ Per questo il flusso corretto e':
 Per il caso che hai citato sono presenti:
 - `wiki/Famiglia_Giardina.wiki`
 - `wiki/Marco_Aurelio_Pasquale_Giardina.wiki`
-- `wiki/Sandbox_Index.wiki`
-- `dossier/famiglia-giardina/` come supporto documentale
+- `wiki/index.wiki`
+- `ricerca/famiglia-giardina/` come supporto documentale
 
 Per creare un nuovo dossier da terminale PowerShell:
 
@@ -51,6 +53,30 @@ Se il soggetto e' una persona vivente:
 .\scripts\nuovo-soggetto.ps1 -Nome "Nome Cognome" -Tipo biografia -Vivente
 ```
 
+## Setup tecnico
+
+Installa le dipendenze Python una sola volta:
+
+```powershell
+python -m pip install -r requirements.txt
+```
+
+Per le operazioni verso Wikipedia e Wikimedia Commons puoi usare variabili
+d'ambiente di shell oppure un file locale `.env` in radice repo. E' disponibile
+un modello in `.env.example`.
+
+Controllo completo del setup:
+
+```powershell
+python scripts/repo_doctor.py
+```
+
+Controllo locale senza rete:
+
+```powershell
+python scripts/repo_doctor.py --no-network
+```
+
 ## Workflow consigliato
 
 1. Compila `scheda.md` con dati minimi e rischi.
@@ -66,5 +92,6 @@ Se il soggetto e' una persona vivente:
 ## Riferimenti
 
 Vedi:
-- `docs/riferimenti-wikipedia.md`
-- `docs/checklist-ammissibilita.md`
+- `docs/riferimenti/riferimenti-wikipedia.md`
+- `docs/checklists/checklist-ammissibilita.md`
+- `docs/manuali/GUIDA_PUBBLICAZIONE_SANDBOX.md`

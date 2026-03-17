@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+  <g id="shield-root" transform="matrix(1.679688 0 0 1.679688 147.265625 70.000000)">
+    <path id="shield-field" d="M 0,0 0,382 C 0,382 0,444 75,465 150,486 185,476.5 210,512 235,476.5 270,486 345,465 420,444 420,382 420,382 L 420,0 Z" fill="#F5F5F5" />
+    <path id="shield-outline" d="M 0,0 0,382 C 0,382 0,444 75,465 150,486 185,476.5 210,512 235,476.5 270,486 345,465 420,444 420,382 420,382 L 420,0 Z" fill="none" stroke="#1A1A1A" stroke-width="8" stroke-linejoin="round" />
+  </g>
+</svg>

@@ -3,95 +3,50 @@
 |Nome = Marco Aurelio Pasquale
 |Cognome = Giardina
 |Sesso = M
-|LuogoNascita =
-|GiornoMeseNascita =
-|AnnoNascita =
-|LuogoMorte =
-|GiornoMeseMorte =
-|AnnoMorte =
+|LuogoNascita = Roma
+|GiornoMeseNascita = 8
+|AnnoNascita = 1917
+|LuogoMorte = 
+|GiornoMeseMorte = 
+|AnnoMorte = 
 |Attività = sindacalista
-|Attività2 = dirigente politico
+|Attività2 = avvocato
 |Nazionalità = italiano
 }}
 
-'''Marco Aurelio Pasquale Giardina''' (comunemente noto come '''Marco Giardina''') è stato un [[sindacalista]] e [[dirigente politico]] italiano attivo nel [[secondo dopoguerra]]. Ricoprì incarichi nella [[Camera del Lavoro]] di [[Pisa]] e, in seguito, nella [[Camera del Lavoro]] di [[Carbonia]], nel [[bacino carbonifero del Sulcis]], in [[Sardegna]].<ref>Antonello Mattone, ''Velio Spano. Vita di un rivoluzionario di professione'', {{pagina necessaria}}.</ref>
+'''Marco Aurelio Pasquale Giardina''' (comunemente noto come '''Marco Giardina'''; [[Roma]], [[8 marzo]] [[1917]] – ...) è stato un [[sindacalista]], [[politico]] e [[avvocato]] italiano. Figlio di [[Giuseppe Giardina]], appartenente al ramo dei Giardina-Lipari della [[Famiglia Giardina]], nobile casata siciliana, fu fratello del Sottotenente [[Franco Giardina]] (senior). Nel secondo dopoguerra fu attivo nella [[CGIL]] e nel [[Partito Comunista Italiano]] (PCI), partecipò alle lotte minerarie nel [[Sulcis]] e contribuì alla legge istitutiva della [[Scuola Superiore Sant'Anna]] di [[Pisa]].<ref name="mele141">Giannarita Mele, Claudio Natoli (a cura di), ''Storia della Camera del lavoro di Cagliari nel Novecento'', Roma, Carocci, 2008, p. 141.</ref><ref name="legge117">Legge 7 marzo 1967, n. 117; cfr. sito ufficiale Scuola Superiore Sant'Anna, sezione Storia.</ref>
 
-{{Avviso|testo='''Nota metodologica''': I dati anagrafici esatti (luogo e data di nascita e di morte) non risultano dalle fonti archivistiche attualmente digitalizzate. Le coordinate cronologiche della sua attività direttiva lo collocano generazionalmente come militante formatosi nel ventennio fascista, maturato durante la [[seconda guerra mondiale]] e asceso ai vertici sindacali provinciali nella seconda metà degli [[anni 1940]].}}
+Le fonti relative alla sua formazione pisana e all'attività sindacale in Sardegna lo collocano tra i dirigenti attivi nel secondo dopoguerra, con un percorso che unì esperienza accademica e organizzazione del lavoro nel Sulcis.<ref name="santanna20">''Sant'Anna News'', n. 23, luglio 2004, p. 20.</ref>
 
 == Biografia ==
 
-=== Formazione ===
+=== Formazione e impegno sindacale (1936–1948) ===
+Nel '''1936''' Marco Giardina vinse il concorso nazionale per un posto di allievo presso il '''Collegio Mussolini''' di Pisa (istituzione all'epoca posta sotto la direzione didattica e amministrativa della '''[[Scuola Normale Superiore]]'''), risultando iscritto alla Facoltà di Giurisprudenza.<ref>Annuario della R. Università di Pisa per l'anno accademico 1936-1937, p. 142; cfr. anche ''Emilio Rosini: il Collegio degli anni lontani'', in ''Sant'Anna News'', n. 23, luglio 2004, p. 20 (pdf).</ref>
 
-Le fonti secondarie attualmente disponibili non consentono di ricostruire in modo puntuale il percorso di studi di Giardina. La sua militanza politica e sindacale è documentata nel contesto del [[Partito Comunista Italiano]] e della [[CGIL]] del secondo dopoguerra. Una frequenza alla [[Scuola Normale Superiore di Pisa]] è indicata in alcune fonti genealogiche, ma non risulta confermata dalla storiografia consultata.{{cn}}
+Durante gli anni universitari frequentò i circoli del cosiddetto "corporativismo di sinistra", un ambiente culturale che, sotto l'egida di [[Giovanni Gentile]], divenne un vivaio per la futura classe dirigente dell'Italia repubblicana, favorendo l'incontro tra giovani intellettuali (tra cui [[Alessandro Natta]], [[Giovanni Pieraccini]] e [[Mario Baratto]]) e le dottrine marxiste.<ref>''Tracce... Percorsi storici'', Comune di Santa Fiora, 2008; cfr. ''Sant'Anna News'', cit., p. 20.</ref>
 
-=== Attività sindacale in Toscana (1945–1946) ===
+Dopo la Liberazione fu Segretario della [[Camera del Lavoro]] di [[Pisa]] e successivamente di quella di [[Carbonia]] (1947), dove guidò 18.000 minatori nelle "Marce del Pane" contro il carovita e la gestione autoritaria della [[Carbosarda]].<ref name="mele141" /> Per la sua attività sindacale subì l'arresto nel novembre 1947, evento che portò a uno sciopero generale in tutta la Sardegna il 18 novembre per chiederne la liberazione.<ref>Antonello Mattone, ''Velio Spano. Vita di un rivoluzionario di professione'', Cagliari, 1978, p. 118.</ref>
 
-Nel biennio [[1945]]–[[1946]] Giardina ricoprì la carica di '''Segretario generale della [[Camera del Lavoro]] di [[Pisa]]''', affiancando tale ruolo a quello di membro della segreteria della Federazione provinciale del PCI di Pisa.<ref>Antonello Mattone, ''Velio Spano. Vita di un rivoluzionario di professione'', {{pagina necessaria}}.</ref> In questo periodo si occupò dell'organizzazione delle [[Commissioni Interne]] nelle fabbriche e della contrattazione collettiva in un territorio che attraversava la riconversione dall'economia di guerra.
+=== Carriera forense e la "Legge Giardina" ===
+Rientrato in Toscana, intraprese con successo la carriera di avvocato penalista a Pisa, distinguendosi per la difesa di attivisti e studenti durante i movimenti del [[Sessantotto]] (come nei processi legati ai fatti del 1967/1968). Nel '''1967''', grazie al suo legame con le istituzioni universitarie, fu tra i promotori del disegno di legge (Legge 7 marzo 1967, n. 117, nota come '''"Legge Giardina"''') che sancì la nascita della '''[[Scuola Superiore Sant'Anna]]''' come ente autonomo, unificando i collegi preesistenti.<ref name="legge117" />
 
-La direzione nazionale della [[CGIL]] e quella del PCI lo inviarono successivamente nel bacino minerario del Sulcis in Sardegna.<ref>Giannarita Mele, ''Storia della Camera del lavoro di Cagliari'', Cagliari, {{pagina necessaria}}.</ref>
-
-=== La Camera del Lavoro di Carbonia (1947) ===
-
-[[File:Grande miniera di Serbariu.jpg|thumb|right|280px|La [[Grande Miniera di Serbariu]], principale sito estrattivo del [[bacino carbonifero del Sulcis]]]]
-
-Tra la fine del [[1946]] e i primi mesi del [[1947]] Giardina fu inviato in Sardegna per assumere la carica di '''Segretario della [[Camera del Lavoro]] di [[Carbonia]]'''.<ref>Antonello Mattone, ''Velio Spano. Vita di un rivoluzionario di professione'', {{pagina necessaria}}.</ref>
-
-[[Carbonia]] era una ''città di fondazione'', inaugurata da [[Benito Mussolini]] nel dicembre [[1938]] per sostenere le politiche di [[autarchia]] energetica del regime. La sua struttura economica e sociale era interamente organizzata attorno all'estrazione del carbone e al controllo esercitato dall'azienda statale [[Carbosarda]] (ramo operativo dell'[[Azienda Carboni Italiani|A.Ca.I.]]). L'azienda gestiva non soltanto i pozzi, ma anche l'assegnazione degli alloggi, gli spacci aziendali, le strutture ricreative e i servizi medici. La composizione della forza lavoro era eterogenea: pastori sardi provenienti dalle campagne, operai delle regioni continentali (in parte ex confinati politici), tecnici e ingegneri alle dipendenze della direzione statale.
-
-Sotto la guida di Giardina la Camera del Lavoro di Carbonia raggiunse '''18.000 iscritti'''.<ref>Antonello Mattone, ''Velio Spano. Vita di un rivoluzionario di professione'', {{pagina necessaria}}.</ref> La dirigenza sindacale locale comprendeva, tra gli altri, [[Velio Spano]] (deputato e dirigente nazionale del PCI), Renato Mistroni, Antonio Sellitti, Pietro Cocco e Licio Atzeni (padre dello scrittore [[Sergio Atzeni]]).<ref>Antonello Mattone, ''Velio Spano. Vita di un rivoluzionario di professione'', {{pagina necessaria}}.</ref>
-
-L'anno [[1947]] segnò un mutamento politico nazionale rilevante per il Sulcis: in maggio i partiti della sinistra marxista vennero estromessi dal governo presieduto da [[Alcide De Gasperi]], chiudendo la fase del governo di unità nazionale antifascista. La politica economica avviata dal Ministro del Bilancio [[Luigi Einaudi]] impose una deflazione e una stretta creditizia che, come osserva lo storico [[Ernesto Ragionieri]], produssero un «complessivo declino degli investimenti» industriali e una consistente ondata di licenziamenti.<ref>Ernesto Ragionieri, ''Storia d'Italia'', {{pagina necessaria}}.</ref> Nel bacino carbonifero la direzione della Carbosarda iniziò a ritardare il pagamento di stipendi e salari, generando difficoltà economiche tra le famiglie dei minatori.
-
-=== L'arresto e la mobilitazione (novembre 1947) ===
-
-[[File:VelioSpano.jpg|thumb|left|170px|[[Velio Spano]] (1905–1964), senatore del PCI, che guidò la mobilitazione per la liberazione di Giardina nel novembre 1947]]
-
-Di fronte all'aumento del costo della vita e alla scarsità di beni di prima necessità, i minatori organizzarono nel corso del [[1947]] scioperi e manifestazioni di piazza, che la storiografia sindacale raggruppa sotto la denominazione di «'''Marcia del Pane'''». Le autorità istituzionali qualificarono le manifestazioni come «manifestazione politica contro il governo»; secondo la storica Giannarita Mele, i rappresentanti istituzionali sul territorio «ostentano la più decisa diffidenza nei confronti della CGIL».<ref>Giannarita Mele, ''Storia della Camera del lavoro di Cagliari'', Cagliari, {{pagina necessaria}}.</ref>
-
-Il '''3 novembre [[1947]]''' Giardina venne arrestato. Il capo di imputazione richiamava presunti «disordini» avvenuti nel gennaio precedente.<ref>Antonello Mattone, ''Velio Spano. Vita di un rivoluzionario di professione'', {{pagina necessaria}}.</ref> In risposta all'arresto, la Camera del Lavoro proclamò immediatamente uno sciopero generale a Carbonia, nonostante la contrarietà delle correnti del [[Partito Sardo d'Azione]]. Il '''18 novembre 1947''' fu indetto uno sciopero generale di 24 ore in tutta la Sardegna per chiedere la liberazione del sindacalista; [[Velio Spano]] tenne comizi a [[Cagliari]] e nel bacino carbonifero.<ref>Antonello Mattone, ''Velio Spano. Vita di un rivoluzionario di professione'', {{pagina necessaria}}.</ref>
-
-=== Il 1948 ===
-
-[[File:Velio Spano I legislatura.jpg|thumb|right|180px|[[Velio Spano]] nella I legislatura repubblicana. Eletto senatore nel collegio del Sulcis il 18 aprile 1948]]
-
-La sconfitta del [[Fronte Democratico Popolare (1948)|Fronte Democratico Popolare]] alle [[elezioni politiche italiane del 1948|elezioni politiche del 18 aprile 1948]] segnò l'affermazione della [[Democrazia Cristiana]]. Già in aprile la direzione della miniera di Serbariu licenziò '''50 operai nel cantiere di Bacu Abis''', provocando la reazione della CGIL.
-
-Il '''14 luglio [[1948]]''' [[Palmiro Togliatti|Palmiro Togliatti]] fu vittima di un [[attentato a Palmiro Togliatti|attentato]] a Roma. Alla notizia, anche a Carbonia la classe operaia insorse occupando alcuni snodi strategici. L'ordine di smobilitazione giunse rapidamente dalla direzione nazionale del Partito; le autorità statali avviarono in seguito un'operazione di polizia che colpì la rete organizzativa costruita dal sindacato negli anni precedenti.
+=== Vita privata e legami con il territorio ===
+Risiedette a lungo nella villa di famiglia ad '''[[Agnano (San Giuliano Terme)|Agnano]]''', frazione di [[San Giuliano Terme]] (Pisa), mantenendo un forte radicamento nella comunità locale. La famiglia Giardina ha continuato a essere attiva nella vita politica e civile del territorio pisano e sangiulianese anche nelle generazioni successive.
 
 == Note ==
 <references />
 
-== Bibliografia ==
-* Giannarita Mele, ''Storia della Camera del lavoro di Cagliari'', Cagliari.
-* Antonello Mattone, ''Velio Spano. Vita di un rivoluzionario di professione''.
-* Ernesto Ragionieri, ''Storia d'Italia''.
-* Antonio Gramsci, ''Quaderni del carcere'', Torino, Einaudi.
+== Fonti ==
+* Giannarita Mele, Claudio Natoli (a cura di), ''Storia della Camera del lavoro di Cagliari nel Novecento'', Roma, Carocci, 2008.
+* Antonello Mattone, ''Velio Spano. Vita di un rivoluzionario di professione'', Cagliari, 1978.
+* ''Annali di Storia delle Università Italiane'', volume 11, 2007.
+* ''Sant'Anna News'', n. 23, luglio 2004 (pdf).
 
-== Voci correlate ==
-* [[Carbonia]]
-* [[Bacino carbonifero del Sulcis]]
-* [[Carbosarda]]
-* [[Azienda Carboni Italiani]]
-* [[Velio Spano]]
-* [[Camera del Lavoro]]
-* [[CGIL]]
-* [[Partito Comunista Italiano]]
-* [[Sergio Atzeni]]
-* [[Attentato a Palmiro Togliatti]]
-* [[Intellettuale organico]]
-* [[Fronte Democratico Popolare (1948)]]
-
-== Collegamenti esterni ==
-* [https://www.fondazionegramsci.org Fondazione Gramsci] – Archivio del PCI
-* [https://www.cgil.it/la-cgil/storia CGIL – Archivio storico]
-* [https://www.museodelcarbone.it Museo del Carbone – Grande Miniera di Serbariu, Carbonia]
-
-{{Portale|biografie|sindacalismo|Sardegna|storia contemporanea}}
+{{Portale|biografie|politica|università|Sardegna|Toscana}}
 
 [[Categoria:Sindacalisti italiani del XX secolo]]
-[[Categoria:Politici del Partito Comunista Italiano]]
-[[Categoria:Dirigenti della CGIL]]
-[[Categoria:Storia della Sardegna]]
+[[Categoria:Avvocati italiani del XX secolo]]
+[[Categoria:Allievi della Scuola Normale Superiore]]
 [[Categoria:Carbonia]]
-[[Categoria:Movimento operaio italiano]]
-[[Categoria:Antifascisti italiani]]
+[[Categoria:Nati nel 1917]]
+[[Categoria:Nati a Roma]]

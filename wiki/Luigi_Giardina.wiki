@@ -1,0 +1,37 @@
+{{Avvisounicode}}
+{{Bio
+|Nome = Luigi
+|Cognome = Giardina
+|Sesso = M
+|LuogoNascita = Palermo
+|GiornoMeseNascita = 
+|AnnoNascita = 
+|LuogoMorte = Palermo
+|GiornoMeseMorte = 
+|AnnoMorte = 
+|Attività = 
+|Attività2 = 
+|Nazionalità = italiano
+}}
+
+'''Luigi Giardina''' (Palermo, [[XVI secolo]] – ...) è stato un nobile italiano della [[Famiglia Giardina]].
+
+== Biografia ==
+Figlio di '''[[Pietro Giardina]]''' e di '''Giulia Del Castillo''', Luigi Giardina appartenne alla nobiltà palermitana della metà del Cinquecento. La sua figura si colloca nel periodo di consolidamento della famiglia all'interno del patriziato urbano di [[Palermo]].
+
+Sposò una nobile della famiglia '''Corvino''', alleanza che testimonia il prestigio sociale raggiunto dal casato in quel periodo.<ref>ASPa, Notai Defunti, capitoli matrimoniali della famiglia Giardina (XVI sec.).</ref>
+
+Ebbe come figlio '''[[Luigi Arias Giardina]]''', che avrebbe dato inizio alla fortuna feudale della famiglia con l'acquisizione del marchesato di [[Santa Ninfa]].
+
+== Note ==
+<references />
+
+== Bibliografia ==
+* A. Mango di Casalgerardo, ''Nobiliario di Sicilia'', Palermo, 1912-1915.
+* F. San Martino De Spucches, ''La storia dei feudi e dei titoli nobiliari di Sicilia'', Palermo, 1924-1941.
+
+{{Portale|biografie|storia di famiglia|Sicilia}}
+
+[[Categoria:Nati a Palermo]]
+[[Categoria:Morti a Palermo]]
+[[Categoria:Famiglia Giardina]]

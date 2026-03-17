@@ -34,4 +34,4 @@ Stato dei dati:
 - collegamenti specifici che richiedono ancora verifica archivistica: protocolli notarili palermitani del XVII secolo;
 - interpretazioni estese sulle alleanze matrimoniali: escluse dal blocco wikitesto separato fino a eventuale riscontro in letteratura secondaria dedicata.
 
-Per la pubblicazione in sandbox usare la procedura manuale descritta in `docs/GUIDA_PUBBLICAZIONE_SANDBOX.md`.
+Per la pubblicazione in sandbox usare la procedura manuale descritta in `docs/manuali/GUIDA_PUBBLICAZIONE_SANDBOX.md`.

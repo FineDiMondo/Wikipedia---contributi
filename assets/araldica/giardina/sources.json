@@ -1,0 +1,134 @@
+[
+  {
+    "local_name": "sources/scudo_base.svg",
+    "original_commons_title": "Shield plain.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Shield_plain.svg",
+    "preferred_url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Shield_plain.svg",
+    "url_used": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Shield_plain.svg",
+    "downloaded_at_utc": "2026-03-17T17:30:46.325519Z",
+    "license": "Public domain",
+    "license_url": "https://commons.wikimedia.org/wiki/Template:PD-self",
+    "author": "GeMet",
+    "source": "Own work",
+    "original_file_size_bytes": 253,
+    "expected_file_size_bytes": 253,
+    "sha256": "50b30aa73902132e53f952669625eb03626ea1578e8e069a86956cb9541087fa",
+    "validation": {
+      "is_textual_svg": true,
+      "xml_root": "svg",
+      "html_detected": false,
+      "xmllint_ok": true
+    },
+    "notes": "Redirect Commons scaricato correttamente come SVG testuale."
+  },
+  {
+    "local_name": "sources/corona_principesca.svg",
+    "original_commons_title": "Corona heráldica.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Corona_her%C3%A1ldica.svg",
+    "preferred_url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Corona_her%C3%A1ldica.svg",
+    "url_used": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Corona_her%C3%A1ldica.svg",
+    "downloaded_at_utc": "2026-03-17T17:30:47.002832Z",
+    "license": "Public domain",
+    "license_url": "https://commons.wikimedia.org/wiki/Template:PD-self",
+    "author": "Asqueladd",
+    "source": "Own work",
+    "original_file_size_bytes": 41507,
+    "expected_file_size_bytes": 41507,
+    "sha256": "98e5b27674ad271316d6841c354657c7a304e022448bd6a74682901260c539e3",
+    "validation": {
+      "is_textual_svg": true,
+      "xml_root": "svg",
+      "html_detected": false,
+      "xmllint_ok": true
+    },
+    "notes": "Redirect Commons scaricato correttamente come SVG testuale."
+  },
+  {
+    "local_name": "sources/stemma_giardina_source.svg",
+    "original_commons_title": "Stemma Giardina fam ITA.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Stemma_Giardina_fam_ITA.svg",
+    "preferred_url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Stemma_Giardina_fam_ITA.svg",
+    "url_used": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Stemma_Giardina_fam_ITA.svg",
+    "downloaded_at_utc": "2026-03-17T17:32:11.677084Z",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Sanngreal",
+    "source": "Own work",
+    "original_file_size_bytes": 64189,
+    "expected_file_size_bytes": 64189,
+    "sha256": "e8061b3e25b43f362806b98a7fc1225156539fe700245dd322f80bc69e98adde",
+    "validation": {
+      "is_textual_svg": true,
+      "xml_root": "svg",
+      "html_detected": false,
+      "xmllint_ok": true
+    },
+    "notes": "Il redirect Commons ha restituito HTML di errore; risolto via file page/API e URL upload diretto."
+  },
+  {
+    "local_name": "candidates/lions/lion_rampant_element.svg",
+    "original_commons_title": "Lion rampant element.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Lion_rampant_element.svg",
+    "preferred_url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Lion_rampant_element.svg",
+    "url_used": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Lion_rampant_element.svg",
+    "downloaded_at_utc": "2026-03-17T17:32:12.135901Z",
+    "license": "Public domain",
+    "license_url": "https://commons.wikimedia.org/wiki/Template:PD-self",
+    "author": "Inductiveload (traced from a public domain source)",
+    "source": "Derivative of a public domain heraldic lion",
+    "original_file_size_bytes": 51249,
+    "expected_file_size_bytes": 51249,
+    "sha256": "bbbf02ecc41cd58f19f23ffda93aafc44e16bc7304c03e72ccbff397a15ac080",
+    "validation": {
+      "is_textual_svg": true,
+      "xml_root": "svg",
+      "html_detected": false,
+      "xmllint_ok": true
+    },
+    "notes": "Il redirect Commons ha restituito HTML di errore; risolto via file page/API e URL upload diretto."
+  },
+  {
+    "local_name": "candidates/lions/lion_rampant.svg",
+    "original_commons_title": "Lion Rampant.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Lion_Rampant.svg",
+    "preferred_url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Lion_Rampant.svg",
+    "url_used": "https://upload.wikimedia.org/wikipedia/commons/7/75/Lion_Rampant.svg",
+    "downloaded_at_utc": "2026-03-17T17:37:02.275108Z",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Sodacan",
+    "source": "Own work",
+    "original_file_size_bytes": 60915,
+    "expected_file_size_bytes": 60915,
+    "sha256": "8752b336baecba1ef0602cce7cfa71e7392747e61710ac153a94b0b8d6985e58",
+    "validation": {
+      "is_textual_svg": true,
+      "xml_root": "svg",
+      "html_detected": false,
+      "xmllint_ok": true
+    },
+    "notes": "Il redirect e il primo URL upload hanno colpito un 429/HTML; recuperato con retry conservativo."
+  },
+  {
+    "local_name": "candidates/lions/lion_rampant_heraldry.svg",
+    "original_commons_title": "Lion rampant - Heraldry.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Lion_rampant_-_Heraldry.svg",
+    "preferred_url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Lion_rampant_-_Heraldry.svg",
+    "url_used": "https://upload.wikimedia.org/wikipedia/commons/8/88/Lion_rampant_-_Heraldry.svg",
+    "downloaded_at_utc": "2026-03-17T17:37:12.877867Z",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "author": "SajoR",
+    "source": "Own work",
+    "original_file_size_bytes": 113367,
+    "expected_file_size_bytes": 113367,
+    "sha256": "782743169bc5037bd0ed1b7c137303cf7b85f02cbb1ff320897610a3d2c3e60d",
+    "validation": {
+      "is_textual_svg": true,
+      "xml_root": "svg",
+      "html_detected": false,
+      "xmllint_ok": true
+    },
+    "notes": "Il redirect e il primo URL upload hanno colpito un 429/HTML; recuperato con retry conservativo."
+  }
+]

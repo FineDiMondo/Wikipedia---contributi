@@ -22,10 +22,7 @@
 | Villabianca, *Della Sicilia nobile / Dizionario Storico Blasonico* (1754–1775) | Repertorio nobiliare | Identificata | Sì | Media | |
 | Amico, *Lexicon Topographicum Siculum* (1757–1760) | Dizionario geografico-storico | Identificata | Sì | Media | Voci "Ficarazzi", "Santa Ninfa", "Mazzarrà Sant'Andrea" |
 | Ferrara & Ferrara, *Riveli, platee e documenti feudali del Marchesato di Santa Ninfa* (1990) | Studio moderno | Identificata | Sì | Alta | Dedicato direttamente al marchesato |
-| Catalioto, *Il Vescovato di Lipari-Patti in età normanna, 1088-1194: politica, economia, società in una sede monastico-episcopale della Sicilia* (Messina, Intilla, 2007) | Studio moderno | Identificata | Sì | Bassa | Contestualizzazione sul quadro normanno; non necessaria per la voce attuale dopo l'esclusione delle origini normanne |
 | Filangieri di Candida & Mazzoleni, *Registri della Cancelleria Angioina* (1950–1986) | Edizione fonti primarie | Identificata | Sì | Media | Utile per verificare assenza dei Giardina negli officiales regi |
-| *Calendar of Patent Rolls* (british-history.ac.uk) | Edizione fonti primarie | Identificata | Sì | Bassa | Paralleli onomastici inglesi (de Gardinis) |
-| Collinson, *History of Somerset* (1791) | Storia locale | Identificata | Sì | Bassa | Paralleli onomastici (Emeric de Gardino) |
 
 ## Genealogie digitali (indici, non fonti primarie)
 
@@ -44,7 +41,8 @@
 
 ## Priorità di verifica
 
-1. Investiture marchesato (1621) e principato (1733) — ASPa Real Cancelleria / Conservatoria
-2. Lite di successione Resuttano vs. Giardina (1699–1703) — ASPa Protonotaro del Regno
-3. Testamento Luigi Arias Giardina (1627) — ASPa Notai Defunti
-4. Fondazione Chiesa Sant'Atanasio (1732–1734) — Archivio Diocesano Palermo
+1. Investitura del marchesato di Santa Ninfa (1621) — ASPa Real Cancelleria / Conservatoria
+2. Riconoscimento successorio e investitura di Luigi Gerardo Giardina (1703) — ASPa Protonotaro del Regno / Conservatoria
+3. Investitura del principato di Ficarazzi (1733) — ASPa Real Cancelleria / Conservatoria
+4. Testamento Luigi Arias Giardina (1627) — ASPa Notai Defunti
+5. Fondazione Chiesa Sant'Atanasio (1732–1734) — Archivio Diocesano Palermo
