@@ -1,0 +1,116 @@
+name: Validate Drafts
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "wiki/**"
+      - "dossier/**"
+      - "docs/**"
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  validate-drafts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run wikitext validation
+        id: validation
+        shell: bash
+        run: |
+          set +e
+          mkdir -p reports
+          mapfile -t files < <(find wiki -type f -name '*.wiki' ! -name 'Sandbox_Index.wiki' | sort)
+
+          {
+            echo "# Validazione bozze"
+            echo
+            echo "| File | Exit code |"
+            echo "| --- | ---: |"
+          } > reports/summary.md
+
+          if [ "${#files[@]}" -eq 0 ]; then
+            echo "Nessun file .wiki trovato in wiki/" | tee reports/no-files.txt
+            echo "| _(nessun file)_ | 0 |" >> reports/summary.md
+            echo "" >> reports/summary.md
+            echo "Esito complessivo: nessun file da validare." >> reports/summary.md
+            echo "overall_status=success" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          overall=0
+          for file in "${files[@]}"; do
+            report_name="$(printf '%s' "$file" | tr '/ ' '__').txt"
+            python scripts/validate_wikitesto.py "$file" > "reports/$report_name" 2>&1
+            exit_code=$?
+            printf '| `%s` | %d |\n' "$file" "$exit_code" >> reports/summary.md
+            if [ "$exit_code" -ne 0 ]; then
+              overall=1
+            fi
+          done
+
+          echo "" >> reports/summary.md
+          if [ "$overall" -ne 0 ]; then
+            echo "Esito complessivo: errori rilevati." >> reports/summary.md
+            echo "overall_status=failure" >> "$GITHUB_OUTPUT"
+            exit 1
+          fi
+
+          echo "Esito complessivo: nessun errore bloccante." >> reports/summary.md
+          echo "overall_status=success" >> "$GITHUB_OUTPUT"
+
+      - name: Upload reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: validate-drafts-report
+          path: reports/
+
+      - name: Comment PR summary
+        if: github.event_name == 'pull_request' && always()
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const marker = '<!-- validate-drafts-summary -->';
+            const body = `${marker}\n${fs.readFileSync('reports/summary.md', 'utf8')}`;
+            const { owner, repo } = context.repo;
+            const issue_number = context.issue.number;
+
+            const comments = await github.paginate(
+              github.rest.issues.listComments,
+              { owner, repo, issue_number, per_page: 100 }
+            );
+
+            const existing = comments.find((comment) => comment.body && comment.body.includes(marker));
+
+            if (existing) {
+              await github.rest.issues.updateComment({
+                owner,
+                repo,
+                comment_id: existing.id,
+                body,
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner,
+                repo,
+                issue_number,
+                body,
+              });
+            }

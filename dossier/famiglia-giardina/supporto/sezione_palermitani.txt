@@ -1,0 +1,24 @@
+<!-- Sezione da inserire tra == Origini == e == Fondazione della nobiltà == -->
+== I Giardina palermitani (XVI–XVII secolo) ==
+
+Le fonti genealogiche e araldiche siciliane ricostruiscono una linea palermitana della famiglia a partire da '''Pietro Giardina''' (c. 1500), il cui matrimonio con '''Giulia Del Castillo''' (c. 1530) è la prima alleanza documentata con una casata di origine castigliana attestata nel ''Nobiliario di Sicilia''.<ref>A. Mango di Casalgerardo, ''Nobiliario di Sicilia'', Palermo, A. Reber, 1912-1915, voce "Castiglia / Del Castillo".</ref>
+
+Nelle generazioni successive la famiglia compare in relazione con '''Maria de Guevara''' (c. 1560), indicata da Vito Amico come madre di Diego e Orsola Giardina,<ref>V. Amico, ''Dizionario Topografico della Sicilia'', trad. G. Di Marzo, vol. II, Palermo, 1855, p. 308.</ref> e con '''Vincenza Marquet''' (c. 1620), moglie di '''Luigi Giardina''' (c. 1610), nel quadro dei rapporti con la casata [[Marquett (famiglia)|Marquett]].<ref>V. Palizzolo Gravina, ''Il blasone in Sicilia'', Palermo, 1871-1875, p. 248.</ref>
+
+Un'altra alleanza attestata dalle fonti è quella tra '''Diego Giardina''' (c. 1640) e '''Maria Rosalia Lucchesi''' (c. 1650), figlia di Giuseppe Lucchesi e Laura Lucia d'Alagona. Il loro figlio '''Luigi Gerardo Giardina''' fu investito nel 1703 della baronia dei Gibellini con la forma onomastica ''Luigi Gerardo Giardina e Lucchese''; nella documentazione del 1733 compare la forma estesa ''Giardina De Guevara Lucchese ed Alagona''.<ref>V. Palizzolo Gravina, ''Il blasone in Sicilia'', Palermo, 1871-1875, p. 196.</ref>
+
+=== Schema delle alleanze matrimoniali (1530-1650) ===
+
+{| class="wikitable"
+! Generazione !! Esponente Giardina !! Consorte !! Casata consorte !! Dato attestato
+|-
+| III || Pietro Giardina (c. 1500) || Giulia Del Castillo (c. 1530) || [[Del Castillo (famiglia)|Del Castillo]] || Prima alleanza attestata con una casata di origine castigliana.
+|-
+| IV || Luigi Giardina (c. 1555) || Maria de Guevara (c. 1560) || [[Guevara (famiglia)|de Guevara]] || Unione confermata da Vito Amico per la discendenza di Diego e Orsola Giardina.
+|-
+| V || Diego Giardina (c. 1580) || Maria Morso (c. 1580) || Morso || Matrimonio ricostruito nella linea patrilineare palermitana.
+|-
+| VI || Luigi Giardina (c. 1610) || Vincenza Marquet (c. 1620) || [[Marquett (famiglia)|Marquett]] || Alleanza collegata alla documentazione araldica del ramo Marquett.
+|-
+| VII || Diego Giardina (c. 1640) || Maria Rosalia Lucchesi (c. 1650) || Lucchesi || La componente ''Lucchese'' compare nel cognome usato da Luigi Gerardo nel 1703.
+|}

@@ -19,15 +19,19 @@ Per questo il flusso corretto e':
 
 ## Struttura
 
+- `wiki/`: pagine wiki finali da sincronizzare con Wikipedia
 - `docs/`: regole operative e riferimenti ufficiali
 - `templates/`: modelli riusabili per dossier e bozze
-- `dossier/`: un dossier per ogni soggetto valutato
-- `scripts/`: automazioni PowerShell
+- `dossier/`: materiali di supporto, fonti, valutazioni e appunti di lavoro
+- `scripts/`: automazioni e utility
 
 ## Avvio rapido
 
-Per il caso che hai citato e' gia' presente il dossier:
-- `dossier/famiglia-giardina/`
+Per il caso che hai citato sono presenti:
+- `wiki/Famiglia_Giardina.wiki`
+- `wiki/Marco_Aurelio_Pasquale_Giardina.wiki`
+- `wiki/Sandbox_Index.wiki`
+- `dossier/famiglia-giardina/` come supporto documentale
 
 Per creare un nuovo dossier da terminale PowerShell:
 
