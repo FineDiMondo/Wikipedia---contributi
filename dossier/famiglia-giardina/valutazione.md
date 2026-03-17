@@ -23,13 +23,16 @@ Tipo: famiglia / casato nobile
 3. Rimosso lo schema autonomo delle alleanze matrimoniali
 4. Confermata l'esclusione di persone viventi o probabilmente viventi dalla linea patrilineare
 5. Confermata la conversione dell'albero genealogico in liste wikitesto
-6. Rimosso il collegamento esterno a FamilySearch dalla bozza pubblicabile
+6. Spostati FamilySearch e Geneanet in `Collegamenti esterni`, con ruolo solo orientativo
+7. Rimossi dal dossier i riferimenti residuali ai paralleli onomastici normanni e a Catalioto (2007)
 
 ## Condizioni ancora aperte prima della pubblicazione
 
-1. Verificare presso ASPa le investiture del marchesato (1621) e del principato (1733)
-2. Confermare la documentazione della lite di successione Resuttano (Fondo Protonotaro del Regno)
-3. Verificare fondazione Chiesa Sant'Atanasio (1732–1734) presso Archivio Diocesano di Palermo
+1. Verificare presso ASPa l'investitura del marchesato di Santa Ninfa (1621)
+2. Verificare presso ASPa il riconoscimento successorio / investitura del 1703
+3. Verificare presso ASPa l'investitura del principato di Ficarazzi (1733)
+4. Verificare fondazione Chiesa Sant'Atanasio (1732–1734) presso Archivio Diocesano di Palermo
+5. Ottenere revisione da almeno due utenti indipendenti dei progetti tematici pertinenti
 
 ## Rischi residui
 
@@ -41,5 +44,5 @@ Tipo: famiglia / casato nobile
 
 1. Completare verifiche archivistiche (vedi `fonti.md`)
 2. Caricare bozza in sandbox Wikipedia (es. `Utente:NomeUtente/Sandbox/FamigliaGiardina`)
-3. Richiedere revisione di un progetto tematico (es. [[Progetto:Sicilia]], [[Progetto:Nobiltà]])
+3. Richiedere revisione ai progetti tematici (es. [[Progetto:Sicilia]], [[Progetto:Nobiltà]])
 4. Attendere almeno due revisori indipendenti prima di spostare nello spazio principale

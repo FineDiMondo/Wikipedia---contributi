@@ -28,16 +28,18 @@ Ultimo titolare: Antonino Giardina-Iaci (n. 1831), che cumula i titoli con quell
 
 ## Interventi già applicati al wikitesto pubblicabile
 
-- Escluse dal file `dossier/famiglia-giardina/Famiglia_Giardina.wiki` le origini normanne e il ramo medievale/Val Demone
+- Escluse dal file `wiki/Famiglia_Giardina.wiki` le origini normanne e il ramo medievale/Val Demone
 - Rimosso lo schema autonomo delle alleanze matrimoniali
 - Mantenuta la linea patrilineare entro i soggetti coperti da fonti storiche
-- Rimosso il collegamento esterno a FamilySearch dalla bozza pubblicabile
+- Spostati FamilySearch e Geneanet in `Collegamenti esterni`, con uso solo orientativo
 
 ## Sezioni che richiedono validazione archivistica prima della pubblicazione [VALIDARE]
 
 - **Linea palermitana XVI–XVII sec.**: tutti i capitoli matrimoniali (Pietro/Del Castillo, Luigi/Corvino, Luigi/de Guevara, Diego/Morso, Luigi/Marquet, Diego/Lucchesi) — ASPa, Notai Defunti
 - **Componenti onomastiche composte** (de Guevara, Alagona): attribuzione generazionale da confermare
-- Lite di successione 1699–1703: da confermare con Fondo Protonotaro del Regno (ASPa)
+- Investitura del marchesato di Santa Ninfa (1621): da verificare presso ASPa
+- Lite / riconoscimento successorio del 1703: da confermare con Fondo Protonotaro del Regno e Conservatoria (ASPa)
+- Investitura del principato di Ficarazzi (1733): da verificare presso ASPa
 
 ## Rischi residui
 
@@ -47,6 +49,7 @@ Ultimo titolare: Antonino Giardina-Iaci (n. 1831), che cumula i titoli con quell
 ## Azione successiva
 
 1. Verificare investiture presso ASPa (Conservatoria del Registro)
-2. Confermare la lite Resuttano nel Fondo Protonotaro del Regno
+2. Confermare il riconoscimento del 1703 nel Fondo Protonotaro del Regno
 3. Verificare fondazione Chiesa Sant'Atanasio (1732–1734) presso Archivio Diocesano di Palermo
 4. Caricare bozza in sandbox Wikipedia per revisione della comunità
+5. Richiedere revisione ad almeno due utenti dei progetti tematici pertinenti (es. [[Progetto:Sicilia]], [[Progetto:Nobiltà]])

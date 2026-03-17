@@ -1,13 +1,13 @@
 FILE SUPERATO
 
-Questo file non va piu' usato come base di pubblicazione.
+Questo file non va più usato come base di pubblicazione.
 
-La versione wikitesto da considerare aggiornata e coerente con il dossier corrente e':
+La bozza corrente da considerare è:
 
-- `dossier/famiglia-giardina/Famiglia_Giardina.wiki`
+- `wiki/Famiglia_Giardina.wiki`
 
-Motivi del superamento:
+Motivi:
 
-- il file precedente reintroduceva origini normanne e ramo medievale/Val Demone;
-- conteneva uno schema autonomo delle alleanze matrimoniali non da pubblicare;
-- includeva istruzioni e passaggi non allineati con la verifica archivistica residua.
+- il file precedente reintroduceva origini medievali / Val Demone e ipotesi normanne;
+- manteneva riferimenti FamilySearch nel corpo o nelle note;
+- non era allineato ai tagli strutturali già applicati al wikitesto pubblicabile.
