@@ -1,0 +1,3 @@
+anthropic-sdk
+python-dotenv
+requests
