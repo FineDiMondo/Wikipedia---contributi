@@ -24,6 +24,7 @@ L'obiettivo del blocco separato e:
 - integrare nella bozza solo i dati genealogici e onomastici attribuiti a repertori e fonti secondarie;
 - mantenere distinta la fase palermitana dalla successiva fondazione del marchesato di Santa Ninfa;
 - evitare interpretazioni non attribuite sulle strategie matrimoniali.
+- escludere dal blocco pubblicabile lo schema autonomo delle alleanze matrimoniali.
 
 ## Nota di plausibilita
 

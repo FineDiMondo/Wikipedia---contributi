@@ -26,19 +26,22 @@ Ultimo titolare: Antonino Giardina-Iaci (n. 1831), che cumula i titoli con quell
 - Tono neutrale sostenibile: SÌ (ipotesi chiaramente marcate)
 - Requisiti specifici del tipo soggetto: SÌ (rilevanza storica documentata, patrimonio architettonico superstite)
 
+## Interventi già applicati al wikitesto pubblicabile
+
+- Escluse dal file `wiki/Famiglia_Giardina.wiki` le origini normanne e il ramo medievale/Val Demone
+- Rimosso lo schema autonomo delle alleanze matrimoniali
+- Mantenuta la linea patrilineare entro i soggetti coperti da fonti storiche
+- Rimosso il collegamento esterno a FamilySearch dalla bozza pubblicabile
+
 ## Sezioni che richiedono validazione archivistica prima della pubblicazione [VALIDARE]
 
 - **Linea palermitana XVI–XVII sec.**: tutti i capitoli matrimoniali (Pietro/Del Castillo, Luigi/Corvino, Luigi/de Guevara, Diego/Morso, Luigi/Marquet, Diego/Lucchesi) — ASPa, Notai Defunti
 - **Componenti onomastiche composte** (de Guevara, Alagona): attribuzione generazionale da confermare
-- **Schema alleanze matrimoniali**: interpretazione analitica di progetto — non pubblicare come affermazione enciclopedica senza fonte secondaria dedicata
-- Origini medievali: gap documentale 1447–1605 tra Enrico Giardina e Luigi Arias
-- Ipotesi origini normanne: solo speculativa, nessun documento diretto
-- Ramo Val Demone (ASMe): da verificare presso Archivio di Stato di Messina
 - Lite di successione 1699–1703: da confermare con Fondo Protonotaro del Regno (ASPa)
 
 ## Rischi residui
 
-- Sezione "origini normanne" potrebbe costituire ricerca originale → marcata come ipotesi
+- Le verifiche archivistiche restano necessarie per consolidare la linea palermitana e la lite Resuttano
 - FamilySearch e Geneanet sono fonti digitali private → usate solo come indice, non come prova
 
 ## Azione successiva
