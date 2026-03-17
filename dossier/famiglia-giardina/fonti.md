@@ -10,7 +10,7 @@
 | ASPa — Notai Defunti (c. 1500–1627) | Fonte primaria archivistica | Da verificare | Media — testamento Luigi Arias Giardina (1627) | |
 | ASPa — Real Patrimonio | Fonte primaria archivistica | Da verificare | Media — acquisto feudo Ficarazzi (1721) | |
 | Archivio Diocesano di Palermo | Fonte primaria archivistica | Da verificare | Media — fondazione Chiesa Sant'Atanasio (1732–1734) | |
-| Archivio di Stato di Messina | Fonte primaria archivistica | Da verificare | Bassa — ramo Val Demone (XV sec.) — ipotetico | Solo se si vuole includere le origini medievali |
+| Archivio di Stato di Messina | Fonte primaria archivistica | Da verificare | Bassa — ramo Val Demone (XV sec.) — ipotetico | Escluso dal wikitesto pubblicabile attuale; utile solo se si riapre il tema delle origini medievali |
 
 ## Fonti secondarie (già identificate)
 
@@ -22,7 +22,7 @@
 | Villabianca, *Della Sicilia nobile / Dizionario Storico Blasonico* (1754–1775) | Repertorio nobiliare | Identificata | Sì | Media | |
 | Amico, *Lexicon Topographicum Siculum* (1757–1760) | Dizionario geografico-storico | Identificata | Sì | Media | Voci "Ficarazzi", "Santa Ninfa", "Mazzarrà Sant'Andrea" |
 | Ferrara & Ferrara, *Riveli, platee e documenti feudali del Marchesato di Santa Ninfa* (1990) | Studio moderno | Identificata | Sì | Alta | Dedicato direttamente al marchesato |
-| Catalioto, studi sulla Sicilia normanna, Univ. Messina (2007) | Studio moderno | **Da verificare** | Sì | Media | **Titolo esatto e dati editoriali mancanti — priorità** |
+| Catalioto, *Il Vescovato di Lipari-Patti in età normanna, 1088-1194: politica, economia, società in una sede monastico-episcopale della Sicilia* (Messina, Intilla, 2007) | Studio moderno | Identificata | Sì | Bassa | Contestualizzazione sul quadro normanno; non necessaria per la voce attuale dopo l'esclusione delle origini normanne |
 | Filangieri di Candida & Mazzoleni, *Registri della Cancelleria Angioina* (1950–1986) | Edizione fonti primarie | Identificata | Sì | Media | Utile per verificare assenza dei Giardina negli officiales regi |
 | *Calendar of Patent Rolls* (british-history.ac.uk) | Edizione fonti primarie | Identificata | Sì | Bassa | Paralleli onomastici inglesi (de Gardinis) |
 | Collinson, *History of Somerset* (1791) | Storia locale | Identificata | Sì | Bassa | Paralleli onomastici (Emeric de Gardino) |
