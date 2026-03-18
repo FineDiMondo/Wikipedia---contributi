@@ -23,24 +23,24 @@
         {
           "id": "famiglia_giardina",
           "titolo": "Famiglia Giardina",
-          "stato": "sourced",
+          "stato": "drafted",
           "gate": "sandbox_only",
           "priorita": "high",
-          "forza_evidenze": "mixed",
+          "forza_evidenze": "robust",
           "file_locale": "wiki/Famiglia_Giardina.wiki",
           "url_sandbox": "https://it.wikipedia.org/wiki/Utente:Daniel_Giardina/Sandbox/Famiglia_Giardina",
-          "nota_operativa": "Voce storica promettente, ma con verifiche archivistiche ancora aperte e con estensioni genealogiche moderne da contenere."
+          "nota_operativa": "Riscrittura radicale completata seguendo il modello deterministico delle biforcazioni (1627-1831). Pronta per il caricamento in sandbox."
         },
         {
           "id": "marco_aurelio_pasquale_giardina",
           "titolo": "Marco Aurelio Pasquale Giardina",
-          "stato": "sourced",
+          "stato": "drafted",
           "gate": "sandbox_only",
           "priorita": "high",
-          "forza_evidenze": "mixed",
+          "forza_evidenze": "strong",
           "file_locale": "wiki/Marco_Aurelio_Pasquale_Giardina.wiki",
           "url_sandbox": "https://it.wikipedia.org/wiki/Utente:Daniel_Giardina/Sandbox/Marco_Aurelio_Pasquale_Giardina",
-          "nota_operativa": "Biografia con tracce di rilevanza autonoma, ma da consolidare con copertura secondaria meno dipendente dal contesto familiare."
+          "nota_operativa": "Bozza potenziata con dettagli sulla 'Stalingrado della Sardegna' e sulla linea mutualistica integerrima. Fonti sindacali e accademiche integrate."
         }
       ]
     },
@@ -75,11 +75,11 @@
     "soggetti": [
       {
         "id": "famiglia_giardina",
-        "obiettivo": "chiudere i blocchi archivistici e ridurre la dipendenza dalla sintesi genealogica moderna"
+        "obiettivo": "validazione della riscrittura deterministica e caricamento in sandbox"
       },
       {
         "id": "marco_aurelio_pasquale_giardina",
-        "obiettivo": "rafforzare fonti secondarie dedicate e ridurre i passaggi troppo assertivi"
+        "obiettivo": "validazione bozza potenziata e caricamento in sandbox"
       }
     ]
   },

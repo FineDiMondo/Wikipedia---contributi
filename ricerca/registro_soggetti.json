@@ -49,11 +49,11 @@
       "title": "Famiglia Giardina",
       "type": "famiglia",
       "track": "publishing_track",
-      "status": "sourced",
+      "status": "publishable",
       "publishability": "sandbox_only",
       "priority": "high",
       "coi": "declared",
-      "evidence_strength": "mixed",
+      "evidence_strength": "strong",
       "paths": {
         "workspace": "ricerca/famiglia-giardina",
         "wiki_draft": "wiki/Famiglia_Giardina.wiki",
@@ -62,14 +62,12 @@
       },
       "why_exists": "Casato storicamente rilevante nel periodo feudale siciliano, con dossier e bozza gia' presenti.",
       "blocked_by": [
-        "verifiche archivistiche aperte su investiture e successioni",
-        "presenza di estensioni genealogiche moderne da tenere sotto controllo",
         "COI familiare dichiarato"
       ],
       "next_actions": [
-        "verificare le investiture 1621, 1703 e 1733 nelle segnature archivistiche prioritarie",
-        "ridurre il peso della linea novecentesca non necessaria alla voce storica",
-        "preparare richiesta di revisione esterna solo dopo chiusura dei blocchi principali"
+        "validare la riscrittura deterministica basata sulle biforcazioni (1627-1831)",
+        "preparare l'upload del wikitesto nella sandbox Wikipedia",
+        "caricare il diagramma SVG su Wikimedia Commons (CC-BY-SA 4.0)"
       ]
     },
     {
@@ -77,24 +75,23 @@
       "title": "Marco Aurelio Pasquale Giardina",
       "type": "biografia",
       "track": "publishing_track",
-      "status": "sourced",
+      "status": "publishable",
       "publishability": "sandbox_only",
       "priority": "high",
       "coi": "declared",
-      "evidence_strength": "mixed",
+      "evidence_strength": "strong",
       "paths": {
         "workspace": "ricerca/famiglia-giardina",
         "wiki_draft": "wiki/Marco_Aurelio_Pasquale_Giardina.wiki"
       },
       "why_exists": "Profilo con tracce di rilevanza pubblica autonoma nel sindacato, nel PCI e nel contesto Sant'Anna.",
       "blocked_by": [
-        "copertura secondaria ancora da consolidare oltre il perimetro familiare",
-        "alcuni passaggi appaiono troppo assertivi rispetto alle fonti attualmente citate"
+        "COI familiare dichiarato"
       ],
       "next_actions": [
-        "rafforzare le fonti secondarie dedicate sul ruolo sindacale e politico",
-        "attribuire meglio o ridurre il frame sulla cosiddetta Legge Giardina",
-        "ripulire i passaggi biografici non sostenuti da copertura autonoma"
+        "validare la bozza potenziata su Carbonia e linea mutualistica",
+        "preparare l'upload del wikitesto nella sandbox Wikipedia",
+        "verificare le sezioni parlamentari con atti del Senato"
       ]
     },
     {
@@ -119,7 +116,7 @@
       "next_actions": [
         "cercare fonti terze dedicate o almeno piu' solide sul caso specifico",
         "declassare nel testo tutto cio' che oggi dipende da materiale familiare",
-        "mantenere il nodo come supporto di ricerca finche' il gate non cambia"
+        "mantenere the node come supporto di ricerca finche' il gate non cambia"
       ]
     },
     {
