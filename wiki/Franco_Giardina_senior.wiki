@@ -1,4 +1,3 @@
-{{Avvisounicode}}
 {{Bio
 |Nome = Franco
 |Cognome = Giardina
@@ -10,11 +9,11 @@
 |GiornoMeseMorte = 12 settembre
 |AnnoMorte = 1943
 |Attività = militare
-|Attività2 = studente
 |Nazionalità = italiano
+|FineIncipit = è stato un [[militare]] e [[studente]] italiano.
 }}
 
-'''Franco Giardina''' (noto anche come '''Francesco'''; [[Bari]], [[1921]] – [[Arcole]], [[12 settembre]] [[1943]]) è stato un [[militare]] e [[studente]] italiano, appartenente alla [[Famiglia Giardina]] (ramo Giardina-Lipari). [[Sottotenente]] carrista del [[Regio Esercito]], è ricordato come vittima delle rappresaglie tedesche seguite all'[[armistizio dell'8 settembre 1943]]. Alla sua memoria l'[[Università di Pisa]] ha conferito la [[Laurea ad honorem]] nel [[1948]], inserendo il suo nome tra i martiri accademici caduti per la libertà.<ref name="f-albo">Albo d'Oro dei caduti della Seconda Guerra Mondiale, Ministero della Difesa.</ref><ref name="f-famiglia">Documentazione familiare Giardina-Lipari.</ref><ref name="f-unipi">Archivio Storico dell'Università di Pisa, fascicolo studente Franco Giardina.</ref>
+Nelle fonti raccolte compare anche con la variante onomastica '''Francesco'''. Appartenente alla [[Famiglia Giardina]] (ramo Giardina-Lipari), fu [[Sottotenente]] carrista del [[Regio Esercito]] ed è ricordato come vittima delle rappresaglie tedesche seguite all'[[armistizio dell'8 settembre 1943]]. Alla sua memoria l'[[Università di Pisa]] ha conferito la [[Laurea ad honorem]] nel [[1948]], inserendo il suo nome tra i martiri accademici caduti per la libertà.<ref name="f-albo">Albo d'Oro dei caduti della Seconda Guerra Mondiale, Ministero della Difesa.</ref><ref name="f-famiglia">Documentazione familiare Giardina-Lipari.</ref><ref name="f-unipi">Archivio Storico dell'Università di Pisa, fascicolo studente Franco Giardina.</ref>
 
 == Biografia ==
 
@@ -22,6 +21,7 @@
 Nato a Bari nel 1921, Franco era figlio di [[Giuseppe Giardina]] e di Clementina Boerio. Si iscrisse alla Facoltà di [[Giurisprudenza]] dell'Università di Pisa.<ref name="f-unipi" />
 
 === Impegno militare e l'armistizio ===
+[[File:M14-41 front-left 2017 Bovington.jpg|thumb|right|250px|Un carro armato medio M14/41 conservato al [[Bovington Tank Museum]]. Nel 1943 questo modello costituiva la dotazione principale dei reparti corazzati italiani.]]
 Durante la [[Seconda guerra mondiale]] fu arruolato come Allievo Ufficiale di Complemento (A.U.C.) e assegnato alla specialità carristi. Nel settembre 1943 prestava servizio come Sottotenente presso il Deposito del [[32° Reggimento carri]] a [[Montorio Veronese]].<ref name="f-albo" /><ref name="f-famiglia" />
 
 In seguito all'[[armistizio dell'8 settembre 1943]], si trovò coinvolto nelle operazioni tedesche seguite all'[[Operazione Achse]] nel veronese.<ref name="f-albo" /><ref name="f-famiglia" />
@@ -32,6 +32,7 @@ Franco Giardina fu fucilato ad [[Arcole]] (Verona) il [[12 settembre]] [[1943]] 
 Al momento della sua scomparsa, la moglie era in attesa del figlio, Franco Giardina (junior), nato a Verona il 5 dicembre 1943.<ref name="f-famiglia" />
 
 == Riconoscimenti ==
+[[File:Diploma_Laurea_ad_Honorem_Franco_Giardina_senior.jpg|thumb|right|250px|Il diploma di [[Laurea ad honorem]] alla memoria conferito a Franco Giardina dall'Università di Pisa nel 1948.]]
 Il 29 maggio 1948, il Rettore dell'Università di Pisa gli conferì la '''Laurea ad honorem alla memoria''' in Giurisprudenza.<ref name="f-unipi" />
 
 == Note ==

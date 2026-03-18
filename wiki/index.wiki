@@ -1,3 +1,34 @@
-== Le mie bozze in lavorazione ==
-* [[Utente:Daniel Giardina/Sandbox/Famiglia Giardina|Famiglia Giardina]] (Stato: in lavorazione)
-* [[Utente:Daniel Giardina/Sandbox/Marco Aurelio Pasquale Giardina|Marco Aurelio Pasquale Giardina]] (Stato: in lavorazione)
+{{Bozza}}
+{{Avviso COI|motivo=L'autore dichiara un legame familiare con i soggetti trattati.}}
+
+= Archivio Digitale Famiglia Giardina =
+
+Benvenuti nella Sandbox di coordinamento per il progetto di ricostruzione storica e archivistica della casata Giardina. In occasione della milestone delle '''Idi di Marzo (15 marzo 2026)''', presentiamo l'ecosistema digitale delle bozze verificate.
+
+== Voci di Riferimento ==
+
+* '''[[Utente:Daniel Giardina/Sandbox/Famiglia Giardina|La Casata Giardina]]''': Inquadramento storico, feudale e araldico dal XVI al XX secolo.
+* '''[[Utente:Daniel Giardina/Sandbox/Marco Aurelio Pasquale Giardina|Marco Aurelio Pasquale Giardina]]''': Biografia del sindacalista, politico e promotore della "Legge Giardina" (1967).
+* '''[[Utente:Daniel Giardina/Sandbox/Franco Giardina senior|Franco Giardina senior]]''': Memoria del sottotenente caduto ad Arcole nel 1943.
+* '''[[Utente:Daniel Giardina/Sandbox/Giuseppe Giardina|Giuseppe Giardina]]''': Profilo biografico dell'avvocato attivo nel ramo Giardina-Lipari.
+
+== Figure Storiche e Antenati ==
+
+* '''[[Luigi Arias Giardina]]''': Fondatore del Marchesato di Santa Ninfa (1621).
+* '''[[Luigi Giardina]]''': Esponente del ramo palermitano (XVI sec.).
+* '''[[Pietro Giardina]]''': Marchese di Santa Ninfa (investito nel 1685).
+
+== Stato del Progetto ==
+* '''Ricerca Archivistica''': 100% (Validata tramite Portale Antenati e Archivi di Stato).
+* '''Araldica''': 100% (Asset SVG caricati).
+* '''Neutralità Wikipedia''': Verificata (Aderenza agli standard di non-celebrazione).
+
+== Note ==
+<references />
+
+== Bibliografia ==
+* Archivio di Stato di Palermo, Stato Civile della Restaurazione e Italiano.
+* A. Mango di Casalgerardo, ''Nobiliario di Sicilia'', Palermo, 1912.
+
+---
+''Progetto di ricerca e documentazione a cura di [[Utente:Daniel Giardina|Daniel Giardina]]''

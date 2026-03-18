@@ -1,62 +1,91 @@
 {
+  "schema_version": 2,
   "progetto": "Wikipedia - Contributi Giardina",
-  "ultimo_aggiornamento": "2026-03-17",
+  "ultimo_aggiornamento": "2026-03-18",
   "configurazione": {
     "repository": "D:/Progetti GITHUB/Wikipedia - contributi",
-    "utente_wiki": "Daniel Giardina"
+    "utente_wiki": "Daniel Giardina",
+    "modello_operativo": "dual-track",
+    "registro_centrale": "ricerca/registro_soggetti.json",
+    "entrypoint_agente": "python scripts/next_subjects.py"
   },
-  "pagine": [
-    {
-      "id": "famiglia_giardina",
-      "titolo": "Famiglia Giardina",
-      "file_locale": "wiki/Famiglia_Giardina.wiki",
-      "url_sandbox": "https://it.wikipedia.org/wiki/Utente:Daniel_Giardina/Sandbox/Famiglia_Giardina",
-      "completamento_totale": 100,
-      "note": "Voce consolidata con riferimenti Mango, San Martino De Spucches e data investitura 1733 confermata."
+  "sintesi": {
+    "segnaposti_repo_ammessi": true,
+    "segnaposti_mainspace_ammessi": false,
+    "soggetti_totali": 4,
+    "publishing_track": 2,
+    "knowledge_graph": 2
+  },
+  "stato_per_track": {
+    "publishing_track": {
+      "focus": "consolidare fonti indipendenti, ridurre ricerca originale, mantenere il gate su sandbox fino a revisione terza",
+      "soggetti": [
+        {
+          "id": "famiglia_giardina",
+          "titolo": "Famiglia Giardina",
+          "stato": "sourced",
+          "gate": "sandbox_only",
+          "priorita": "high",
+          "forza_evidenze": "mixed",
+          "file_locale": "wiki/Famiglia_Giardina.wiki",
+          "url_sandbox": "https://it.wikipedia.org/wiki/Utente:Daniel_Giardina/Sandbox/Famiglia_Giardina",
+          "nota_operativa": "Voce storica promettente, ma con verifiche archivistiche ancora aperte e con estensioni genealogiche moderne da contenere."
+        },
+        {
+          "id": "marco_aurelio_pasquale_giardina",
+          "titolo": "Marco Aurelio Pasquale Giardina",
+          "stato": "sourced",
+          "gate": "sandbox_only",
+          "priorita": "high",
+          "forza_evidenze": "mixed",
+          "file_locale": "wiki/Marco_Aurelio_Pasquale_Giardina.wiki",
+          "url_sandbox": "https://it.wikipedia.org/wiki/Utente:Daniel_Giardina/Sandbox/Marco_Aurelio_Pasquale_Giardina",
+          "nota_operativa": "Biografia con tracce di rilevanza autonoma, ma da consolidare con copertura secondaria meno dipendente dal contesto familiare."
+        }
+      ]
     },
-    {
-      "id": "franco_giardina_senior",
-      "titolo": "Franco Giardina senior",
-      "file_locale": "wiki/Franco_Giardina_senior.wiki",
-      "url_sandbox": "https://it.wikipedia.org/wiki/Utente:Daniel_Giardina/Sandbox/Franco_Giardina_senior",
-      "completamento_totale": 100,
-      "note": "Dati corretti (Bari 1921). Rafforzata enciclopedicità come martire accademico e vittima rappresaglia."
-    },
-    {
-      "id": "giuseppe_giardina",
-      "titolo": "Giuseppe Giardina",
-      "file_locale": "wiki/Giuseppe_Giardina.wiki",
-      "url_sandbox": "https://it.wikipedia.org/wiki/Utente:Daniel_Giardina/Sandbox/Giuseppe_Giardina",
-      "completamento_totale": 100,
-      "note": "Nodo centrale della discendenza moderna (ramo Lipari, avvocato FS)."
-    },
-    {
-      "id": "marco_giardina",
-      "titolo": "Marco Aurelio Pasquale Giardina",
-      "file_locale": "wiki/Marco_Aurelio_Pasquale_Giardina.wiki",
-      "url_sandbox": "https://it.wikipedia.org/wiki/Utente:Daniel_Giardina/Sandbox/Marco_Aurelio_Pasquale_Giardina",
-      "completamento_totale": 100
-    },
-    {
-      "id": "pietro_giardina",
-      "titolo": "Pietro Giardina",
-      "file_locale": "wiki/Pietro_Giardina.wiki",
-      "completamento_totale": 100,
-      "note": "Fondatore linea palermitana (sposa Del Castillo)."
-    },
-    {
-      "id": "luigi_giardina",
-      "titolo": "Luigi Giardina",
-      "file_locale": "wiki/Luigi_Giardina.wiki",
-      "completamento_totale": 100,
-      "note": "Seconda generazione (sposa Corvino)."
-    },
-    {
-      "id": "luigi_arias_giardina",
-      "titolo": "Luigi Arias Giardina",
-      "file_locale": "wiki/Luigi_Arias_Giardina.wiki",
-      "completamento_totale": 100,
-      "note": "I Marchese di Santa Ninfa. Fondatore potenza feudale."
+    "knowledge_graph": {
+      "focus": "mantenere nodi utili alla ricerca e alle relazioni familiari senza spingerli prematuramente verso Wikipedia",
+      "soggetti": [
+        {
+          "id": "franco_giardina_senior",
+          "titolo": "Franco Giardina senior",
+          "stato": "researching",
+          "gate": "do_not_publish",
+          "priorita": "medium",
+          "forza_evidenze": "weak",
+          "file_locale": "wiki/Franco_Giardina_senior.wiki",
+          "nota_operativa": "Nodo di ricerca utile, ma oggi troppo dipendente da documentazione familiare per una biografia enciclopedica."
+        },
+        {
+          "id": "giuseppe_giardina",
+          "titolo": "Giuseppe Giardina",
+          "stato": "candidate",
+          "gate": "do_not_publish",
+          "priorita": "medium",
+          "forza_evidenze": "weak",
+          "file_locale": "wiki/Giuseppe_Giardina.wiki",
+          "nota_operativa": "Nodo di raccordo genealogico; la rilevanza enciclopedica autonoma e' ancora da dimostrare."
+        }
+      ]
     }
+  },
+  "batch_attivo": {
+    "criterio": "priorita high, non parked, non published",
+    "soggetti": [
+      {
+        "id": "famiglia_giardina",
+        "obiettivo": "chiudere i blocchi archivistici e ridurre la dipendenza dalla sintesi genealogica moderna"
+      },
+      {
+        "id": "marco_aurelio_pasquale_giardina",
+        "obiettivo": "rafforzare fonti secondarie dedicate e ridurre i passaggi troppo assertivi"
+      }
+    ]
+  },
+  "note": [
+    "Questo file e' uno snapshot operativo sintetico.",
+    "La fonte primaria di governance resta ricerca/registro_soggetti.json.",
+    "Metriche come completamento 100% o voce blindata non sono piu' usate."
   ]
 }

@@ -84,7 +84,7 @@ def validate_svg_alignment(svg_path, element_ids):
 if __name__ == "__main__":
     validate_svg_alignment(
         'assets/araldica/giardina/varianti/v01_giardina_oro_completo.svg', 
-        ['v01-shield-layer', 'v01-tree', 'v01-crown', 'v01-lion-left', 'v01-lion-right']
+        ['shield-layer', 'tree-layer', 'crown-layer', 'lion-left', 'lion-right']
     )
     validate_svg_alignment(
         'assets/araldica/giardina/varianti/v05_giardina_albero_dominante.svg', 

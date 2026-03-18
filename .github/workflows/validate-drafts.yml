@@ -6,8 +6,11 @@ on:
       - main
     paths:
       - "wiki/**"
+      - "ricerca/**"
       - "dossier/**"
       - "docs/**"
+      - "scripts/**"
+      - "README.md"
   pull_request:
   workflow_dispatch:
 
@@ -43,16 +46,36 @@ jobs:
             echo "| --- | ---: |"
           } > reports/summary.md
 
+          overall=0
+
+          python scripts/validate_registry.py > reports/registry.txt 2>&1
+          registry_exit=$?
+          printf '| `%s` | %d |\n' "ricerca/registro_soggetti.json" "$registry_exit" >> reports/summary.md
+          if [ "$registry_exit" -ne 0 ]; then
+            overall=1
+          fi
+
+          python scripts/next_subjects.py > reports/next-subjects.txt 2>&1
+          next_exit=$?
+          printf '| `%s` | %d |\n' "scripts/next_subjects.py" "$next_exit" >> reports/summary.md
+          if [ "$next_exit" -ne 0 ]; then
+            overall=1
+          fi
+
           if [ "${#files[@]}" -eq 0 ]; then
             echo "Nessun file .wiki trovato in wiki/" | tee reports/no-files.txt
             echo "| _(nessun file)_ | 0 |" >> reports/summary.md
             echo "" >> reports/summary.md
-            echo "Esito complessivo: nessun file da validare." >> reports/summary.md
+            if [ "$overall" -ne 0 ]; then
+              echo "Esito complessivo: errori rilevati." >> reports/summary.md
+              echo "overall_status=failure" >> "$GITHUB_OUTPUT"
+              exit 1
+            fi
+            echo "Esito complessivo: nessun errore bloccante." >> reports/summary.md
             echo "overall_status=success" >> "$GITHUB_OUTPUT"
             exit 0
           fi
 
-          overall=0
           for file in "${files[@]}"; do
             report_name="$(printf '%s' "$file" | tr '/ ' '__').txt"
             python scripts/validate_wikitesto.py "$file" > "reports/$report_name" 2>&1

@@ -25,6 +25,8 @@ Tipo: famiglia / casato nobile
 5. Confermata la conversione dell'albero genealogico in liste wikitesto
 6. Spostati FamilySearch e Geneanet in `Collegamenti esterni`, con ruolo solo orientativo
 7. Rimossi dal dossier i riferimenti residuali ai paralleli onomastici normanni e a Catalioto (2007)
+8. Ricondotta la voce al nucleo storico XVII–XIX secolo, rimuovendo la sezione sugli esponenti del XX secolo
+9. Sostituite nel wikitesto le segnature archivistiche non ancora riscontrate direttamente con formulazioni basate sui repertori a stampa
 
 ## Condizioni ancora aperte prima della pubblicazione
 
@@ -37,6 +39,7 @@ Tipo: famiglia / casato nobile
 ## Rischi residui
 
 - La linea palermitana XVI–XVII sec. resta fondata su repertori, in attesa di verifica archivistica puntuale
+- Il raccordo con i rami ottocenteschi e novecenteschi va tenuto fuori dalla voce principale finche' non emerga una copertura storiografica autonoma e non genealogica
 - FamilySearch / Geneanet: usati come indice, non come prova
 - Possibile conflitto di interessi se il richiedente è discendente della famiglia: valutare
 

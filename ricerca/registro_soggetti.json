@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "last_updated": "2026-03-18",
+  "project_policy": {
+    "model": "dual-track",
+    "mainspace_placeholders_allowed": false,
+    "repository_placeholders_allowed": true,
+    "default_agent_goal": "increase verified evidence before increasing publication surface"
+  },
+  "allowed_values": {
+    "track": [
+      "knowledge_graph",
+      "publishing_track"
+    ],
+    "status": [
+      "candidate",
+      "researching",
+      "sourced",
+      "publishable",
+      "sandboxed",
+      "published",
+      "parked"
+    ],
+    "publishability": [
+      "do_not_publish",
+      "sandbox_only",
+      "candidate_for_review",
+      "published"
+    ],
+    "priority": [
+      "high",
+      "medium",
+      "low"
+    ],
+    "coi": [
+      "declared",
+      "possible",
+      "none"
+    ],
+    "evidence_strength": [
+      "weak",
+      "mixed",
+      "strong"
+    ]
+  },
+  "subjects": [
+    {
+      "id": "famiglia_giardina",
+      "title": "Famiglia Giardina",
+      "type": "famiglia",
+      "track": "publishing_track",
+      "status": "sourced",
+      "publishability": "sandbox_only",
+      "priority": "high",
+      "coi": "declared",
+      "evidence_strength": "mixed",
+      "paths": {
+        "workspace": "ricerca/famiglia-giardina",
+        "wiki_draft": "wiki/Famiglia_Giardina.wiki",
+        "sources_register": "ricerca/famiglia-giardina/fonti/fonti.md",
+        "evaluation": "ricerca/famiglia-giardina/valutazione/valutazione.md"
+      },
+      "why_exists": "Casato storicamente rilevante nel periodo feudale siciliano, con dossier e bozza gia' presenti.",
+      "blocked_by": [
+        "verifiche archivistiche aperte su investiture e successioni",
+        "presenza di estensioni genealogiche moderne da tenere sotto controllo",
+        "COI familiare dichiarato"
+      ],
+      "next_actions": [
+        "verificare le investiture 1621, 1703 e 1733 nelle segnature archivistiche prioritarie",
+        "ridurre il peso della linea novecentesca non necessaria alla voce storica",
+        "preparare richiesta di revisione esterna solo dopo chiusura dei blocchi principali"
+      ]
+    },
+    {
+      "id": "marco_aurelio_pasquale_giardina",
+      "title": "Marco Aurelio Pasquale Giardina",
+      "type": "biografia",
+      "track": "publishing_track",
+      "status": "sourced",
+      "publishability": "sandbox_only",
+      "priority": "high",
+      "coi": "declared",
+      "evidence_strength": "mixed",
+      "paths": {
+        "workspace": "ricerca/famiglia-giardina",
+        "wiki_draft": "wiki/Marco_Aurelio_Pasquale_Giardina.wiki"
+      },
+      "why_exists": "Profilo con tracce di rilevanza pubblica autonoma nel sindacato, nel PCI e nel contesto Sant'Anna.",
+      "blocked_by": [
+        "copertura secondaria ancora da consolidare oltre il perimetro familiare",
+        "alcuni passaggi appaiono troppo assertivi rispetto alle fonti attualmente citate"
+      ],
+      "next_actions": [
+        "rafforzare le fonti secondarie dedicate sul ruolo sindacale e politico",
+        "attribuire meglio o ridurre il frame sulla cosiddetta Legge Giardina",
+        "ripulire i passaggi biografici non sostenuti da copertura autonoma"
+      ]
+    },
+    {
+      "id": "franco_giardina_senior",
+      "title": "Franco Giardina senior",
+      "type": "biografia",
+      "track": "knowledge_graph",
+      "status": "researching",
+      "publishability": "do_not_publish",
+      "priority": "medium",
+      "coi": "declared",
+      "evidence_strength": "weak",
+      "paths": {
+        "workspace": "ricerca/famiglia-giardina",
+        "wiki_draft": "wiki/Franco_Giardina_senior.wiki"
+      },
+      "why_exists": "Nodo utile per il grafo familiare e per verifiche su Universita' di Pisa e vicende del 1943.",
+      "blocked_by": [
+        "dipendenza da documentazione familiare",
+        "mancanza di copertura indipendente dedicata sufficiente per una biografia enciclopedica"
+      ],
+      "next_actions": [
+        "cercare fonti terze dedicate o almeno piu' solide sul caso specifico",
+        "declassare nel testo tutto cio' che oggi dipende da materiale familiare",
+        "mantenere il nodo come supporto di ricerca finche' il gate non cambia"
+      ]
+    },
+    {
+      "id": "giuseppe_giardina",
+      "title": "Giuseppe Giardina",
+      "type": "biografia",
+      "track": "knowledge_graph",
+      "status": "candidate",
+      "publishability": "do_not_publish",
+      "priority": "medium",
+      "coi": "declared",
+      "evidence_strength": "weak",
+      "paths": {
+        "workspace": "ricerca/famiglia-giardina",
+        "wiki_draft": "wiki/Giuseppe_Giardina.wiki"
+      },
+      "why_exists": "Nodo di raccordo genealogico tra il ramo ottocentesco e le biografie novecentesche.",
+      "blocked_by": [
+        "identita' biografica ancora incompleta",
+        "fonti non ancora sufficientemente dedicate e circostanziate"
+      ],
+      "next_actions": [
+        "confermare estremi anagrafici e carriera con fonti tracciabili",
+        "valutare se il soggetto ha davvero rilevanza enciclopedica autonoma",
+        "se non emerge copertura indipendente, mantenerlo come solo nodo interno"
+      ]
+    }
+  ]
+}
