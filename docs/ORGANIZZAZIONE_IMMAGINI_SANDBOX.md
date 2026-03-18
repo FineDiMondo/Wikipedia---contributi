@@ -7,7 +7,7 @@ Questo documento mappa la configurazione multimediale del progetto "Wikipedia - 
 | Pagina Sandbox | Capitolo | Immagine (Commons) | Indirizzo WikiCommons | Descrizione |
 | :--- | :--- | :--- | :--- | :--- |
 | **Famiglia Giardina** | Incipit | `Regno di Sicilia - Gio. Antonio Magini - btv1b53011566x.jpg` | [Link](https://commons.wikimedia.org/wiki/File:Regno_di_Sicilia_-_Gio._Antonio_Magini_-_btv1b53011566x.jpg) | Mappa storica Magini (Gallica PD). |
-| **Famiglia Giardina** | Infobox | `Stemma_Giardina_fam_ITA.svg` | [Link](https://commons.wikimedia.org/wiki/File:Stemma_Giardina_fam_ITA.svg) | Stemma ufficiale della casata. |
+| **Famiglia Giardina** | Infobox | `Stemma_Giardina_argento_albero_sradicato.svg` | [Link](https://commons.wikimedia.org/wiki/File:Stemma_Giardina_argento_albero_sradicato.svg) | Stemma ufficiale (Variante argento senza leoni). |
 | **Famiglia Giardina** | Introduzione | `Castello di Ficarazzi - panoramio.jpg` | [Link](https://commons.wikimedia.org/wiki/File:Castello_di_Ficarazzi_-_panoramio.jpg) | Veduta storica del Castello di Ficarazzi. |
 | **Famiglia Giardina** | Etimologia | `Norman conquests Europe.png` | [Link](https://commons.wikimedia.org/wiki/File:Norman_conquests_Europe.png) | Mappa dell'espansione normanna. |
 | **Famiglia Giardina** | Origini | `Mazzarrà Sant'Andrea – Veduta.jpg` | [Link](https://commons.wikimedia.org/wiki/File:Mazzarr%C3%A0_Sant%27Andrea_%E2%80%93_Veduta.jpg) | Veduta di Mazzarrà Sant'Andrea. |

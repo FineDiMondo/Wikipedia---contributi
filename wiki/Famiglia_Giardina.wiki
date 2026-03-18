@@ -4,8 +4,8 @@
 __NOTOC__
 {{Casata
 | cognome = Giardina
-| stemma = Stemma_Giardina_fam_ITA.svg
-| blasonatura = D'oro (o d'argento), all'albero sradicato di verde, affiancato da due leoni controrampanti di rosso. Corona di Principi.
+| stemma = Stemma_Giardina_argento_albero_sradicato.svg
+| blasonatura = D'argento, all'albero sradicato di verde. Corona di Principi.
 | stato = [[Sicilia]] ([[Regno di Sicilia]])
 | titoli =
 * [[Principe di Ficarazzi|Principi di Ficarazzi]] (9 novembre 1733)
@@ -129,8 +129,8 @@ Figlio di Paolo, Antonino (n. 30 gennaio 1831) rappresenta l'apogeo titolare del
 
 == Araldica ==
 [[File:Corona da principe italiano.svg|thumb|right|150px|Dettaglio della corona principesca, attributo del rango raggiunto dalla casata nel XVIII secolo.]]
-[[File:Stemma_Giardina_fam_ITA.svg|thumb|right|150px|Stemma della famiglia Giardina.]]
-'''Blasone''': ''d'oro (o d'argento), all'albero sradicato di verde, affiancato da due leoni controrampanti di rosso''. Corona di Principe.<ref name="Palizzolo-Giardina-Desc" />
+[[File:Stemma_Giardina_argento_albero_sradicato.svg|thumb|right|150px|Stemma della famiglia Giardina (Variante d'argento, senza leoni).]]
+'''Blasone''': ''d'argento, all'albero sradicato di verde''. Corona di Principe.<ref name="Palizzolo-Giardina-Desc" />
 
 == Cariche e magistrature ==
 {| class="wikitable"
