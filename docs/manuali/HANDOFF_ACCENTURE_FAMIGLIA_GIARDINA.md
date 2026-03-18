@@ -135,6 +135,185 @@ Se necessario, il ramo puo' rimanere menzionato come pista di ricerca separata, 
 7. Rimuovere o declassare ogni raccordo moderno non ancora dimostrato con fonti solide.
 8. Uniformare il linguaggio: evitare formule come `anello di congiunzione`, `continuita' storica sancita`, `ha mantenuto il proprio prestigio` se non direttamente supportate.
 
+## Riscritture dei capitoli
+
+Le sezioni sotto sono gia' formulate in modo da poter essere adattate direttamente nel file `wiki/Famiglia_Giardina.wiki`. Il team deve privilegiare la tenuta storica e la sobrieta' del testo rispetto alla completezza genealogica.
+
+### 1. Incipit
+
+Testo proposto:
+
+```wikitext
+'''I Giardina''' sono una famiglia della [[Nobiltà siciliana|nobilta' siciliana]] attestata nei repertori storici e feudali tra [[Palermo]], [[Santa Ninfa]] e [[Ficarazzi]] tra la fine del [[XVI secolo]] e il [[XIX secolo]]. Dalla linea marchionale di Santa Ninfa derivarono il ramo dei Giardina Bellacera e, per successione collaterale maturata all'inizio del Settecento, la linea dei principi di Ficarazzi.<ref>A. Mango di Casalgerardo, ''Nobiliario di Sicilia'', vol. I, pp. 433-434; F. San Martino De Spucches, ''La storia dei feudi e dei titoli nobiliari di Sicilia'', vol. VII, pp. 310-318; F. Ferrara, P. Ferrara, ''Riveli, platee e documenti feudali del Marchesato di Santa Ninfa'', Palermo, 1990.</ref>
+```
+
+Nota operativa:
+
+- Ridurre nell'incipit le forme onomastiche lunghe se non strettamente necessarie.
+- Non anticipare in apertura il raccordo con i rami moderni.
+- La menzione all'`Elenco Ufficiale Nobiliare Italiano` puo' restare, ma non deve sostituire la ricostruzione storica seicentesca e settecentesca.
+
+### 2. Origini attestate nei repertori
+
+Testo proposto:
+
+```wikitext
+== Origini attestate nei repertori (XVI-XVII secolo) ==
+La fase iniziale della storia familiare e' ricostruibile soprattutto attraverso repertori nobiliari e feudali, che attestano la presenza dei Giardina a [[Palermo]] tra tardo Cinquecento e primo Seicento e ne seguono l'ascesa nell'amministrazione del [[Regno di Sicilia]].<ref>A. Mango di Casalgerardo, ''Nobiliario di Sicilia'', vol. I, pp. 433-434; F. San Martino De Spucches, ''La storia dei feudi e dei titoli nobiliari di Sicilia'', vol. VII, pp. 310-312.</ref>
+
+Il primo esponente per il quale le fonti consentono una successione continua e' '''Luigi Arias Giardina''' (c. 1555-1630), al quale i repertori riconducono l'acquisto del feudo di Rampinzeri nel 1605 e l'elevazione di [[Santa Ninfa]] a marchesato nel 1621. Gli studi dedicati al marchesato richiamano inoltre il suo testamento del 1627 come snodo utile per documentare il consolidamento patrimoniale del casato.<ref>F. Ferrara, P. Ferrara, ''Riveli, platee e documenti feudali del Marchesato di Santa Ninfa'', Palermo, 1990, p. 12; F. San Martino De Spucches, ''La storia dei feudi e dei titoli nobiliari di Sicilia'', vol. VII, p. 310.</ref>
+```
+
+Nota operativa:
+
+- Tenere il focus su Palermo, Rampinzeri e Santa Ninfa.
+- Non riaprire origini medievali, normanne o Val Demone.
+
+### 3. La linea di Bellacera e la lite del 1703
+
+Testo proposto:
+
+```wikitext
+== La linea di Bellacera (XVII-XVIII secolo) ==
+Il ramo primogenito dei marchesi di Santa Ninfa si intreccio' con la famiglia Bellacera, dalla quale derivo' la linea dei '''Giardina Bellacera'''.<ref>V. Palizzolo Gravina, ''Il blasone in Sicilia'', pp. 195-196; F. San Martino De Spucches, ''La storia dei feudi e dei titoli nobiliari di Sicilia'', vol. VII, pp. 314-318.</ref>
+
+'''Simone Giardina''', figlio di Luigi Arias, sposo' '''Anna Bellacera'''. Dal loro ramo discesero '''Giuseppe Giardina Bellacera''' e quindi '''Simone II Giardina Bellacera''', il quale fu Capitano Giustiziere di Palermo nel 1670 e Principe di Monteleone nel 1671.<ref>V. Palizzolo Gravina, ''Il blasone in Sicilia'', pp. 195-196; F. San Martino De Spucches, ''La storia dei feudi e dei titoli nobiliari di Sicilia'', vol. V, voce "Monteleone", p. 245.</ref>
+
+Alla morte di Simone II la linea non prosegui' in forma lineare verso il ramo di Ficarazzi. La successione passo' infatti a '''Pietro Giardina Bellacera''', investito nel 1685, e successivamente a '''Giuseppe Giardina Bellacera''', morto senza eredi maschi. La figlia di quest'ultimo, '''Eleonora Bellacera''', sposo' '''Federico Di Napoli e La Grua''', aprendo una complessa lite ereditaria sullo Stato di Santa Ninfa e sui diritti della casata. Il contenzioso si concluse nel 1703 con il riconoscimento dei diritti del ramo collaterale rappresentato da '''Luigi Gerardo Giardina e Lucchese'''.<ref>F. San Martino De Spucches, ''La storia dei feudi e dei titoli nobiliari di Sicilia'', vol. VII, p. 318; Archivio di Stato di Palermo, inventario ''Archivio Spadafora'', sezioni sulla successione di Giuseppe Giardina Bellacera e su Eleonora Di Napoli e Bellacera; ''Rassegna Siciliana di Storia e Cultura'', n. 0.</ref>
+```
+
+Nota operativa:
+
+- Qui il team deve esplicitare il carattere collaterale e litigioso della successione.
+- Non va ripristinata nessuna catena `Simone II -> Diego -> Luigi Gerardo`.
+
+### 4. Il Principato di Ficarazzi
+
+Testo proposto:
+
+```wikitext
+== Il Principato di Ficarazzi (XVIII secolo) ==
+All'inizio del Settecento il baricentro feudale della famiglia si sposto' verso la costa palermitana con la linea di '''Luigi Gerardo Giardina e Lucchese''', subentrata nel patrimonio del casato dopo la lite successoria del 1703.<ref>F. San Martino De Spucches, ''La storia dei feudi e dei titoli nobiliari di Sicilia'', vol. III, pp. 308-310 e vol. VII, p. 318.</ref>
+
+Il 9 novembre 1733 l'imperatore [[Carlo VI d'Asburgo]] investi' Luigi Gerardo del titolo di '''I Principe di Ficarazzi'''. La tradizione storica locale e gli studi sul marchesato di Santa Ninfa collegano a questa fase opere di sistemazione territoriale, la trasformazione del castello di Ficarazzi in residenza principesca e la committenza legata alla [[Chiesa di Sant'Atanasio (Ficarazzi)|Chiesa di Sant'Atanasio]].<ref>F. San Martino De Spucches, ''La storia dei feudi e dei titoli nobiliari di Sicilia'', vol. III, p. 310; F. Ferrara, P. Ferrara, ''Riveli, platee e documenti feudali del Marchesato di Santa Ninfa'', Palermo, 1990, p. 45.</ref>
+```
+
+Nota operativa:
+
+- Mantenere il verbo `collegano` o equivalenti, evitando toni troppo assertivi.
+- Se la pagina resta priva di immagine corretta della Chiesa di Sant'Atanasio di Ficarazzi, non sostituire con la chiesa romana omonima.
+
+### 5. Discendenza nel XVIII-XIX secolo
+
+Testo proposto:
+
+```wikitext
+== Discendenza nel XVIII-XIX secolo ==
+La linea principesca di Ficarazzi prosegui' con '''Diego Giardina Massa''', investito nel 1739, e con suo figlio '''Giulio Antonio Giardina Grimaldi''', che mantenne la continuita' del ramo nel secondo Settecento.<ref>F. San Martino De Spucches, ''La storia dei feudi e dei titoli nobiliari di Sicilia'', vol. III, pp. 312-315.</ref>
+
+Dal matrimonio di Diego con '''Emilia Grimaldi Del Castrone''' derivo' inoltre, per ''iure uxoris'', il collegamento con il Principato di Santa Caterina. Nel primo Ottocento la linea comprende ancora '''Diego Giardina Naselli''', investito nel 1812, e il ramo di '''Paolo Giardina Naselli''', marito di '''Maria Antonia Teresa Maddalena Iaci'''.<ref>A. Mango di Casalgerardo, ''Nobiliario di Sicilia'', vol. I, pp. 438-440; F. San Martino De Spucches, ''La storia dei feudi e dei titoli nobiliari di Sicilia'', vol. III, p. 315 e vol. IX, pp. 140-145.</ref>
+
+Allo stato attuale delle fonti utilizzate nel progetto, la prosecuzione oltre '''Antonino Giardina-Iaci''' deve essere tenuta distinta dalle linee moderne ancora in corso di verifica e non va presentata come continuita' genealogica certa del ramo principesco.
+```
+
+Nota operativa:
+
+- Fermare il racconto genealogico al livello oggi davvero sostenibile.
+- Il ramo moderno puo' al massimo essere richiamato in nota metodologica, non come prosecuzione lineare.
+
+### 6. Nuova sezione sul patrimonio storico-architettonico
+
+Testo proposto:
+
+```wikitext
+== Patrimonio storico-architettonico ==
+Alla memoria storica del casato sono collegati alcuni beni che documentano il suo radicamento tra Palermo, Santa Ninfa e Ficarazzi. Tra questi figurano il '''Palazzo Castrone-Santa Ninfa''' a Palermo, associato alla presenza cittadina del ramo marchionale, e il '''Castello Giardina di Ficarazzi''', trasformato in residenza principesca nel corso del XVIII secolo.<ref>F. Ferrara, P. Ferrara, ''Riveli, platee e documenti feudali del Marchesato di Santa Ninfa'', Palermo, 1990; F. San Martino De Spucches, ''La storia dei feudi e dei titoli nobiliari di Sicilia'', vol. III, pp. 308-310.</ref>
+
+La committenza attribuita a Luigi Gerardo Giardina e al ramo principesco di Ficarazzi e' inoltre richiamata, nella storiografia locale, in relazione alla [[Chiesa di Sant'Atanasio (Ficarazzi)|Chiesa di Sant'Atanasio]], che costituisce uno dei riferimenti materiali piu' significativi associati alla presenza storica della famiglia nel territorio.<ref>F. Ferrara, P. Ferrara, ''Riveli, platee e documenti feudali del Marchesato di Santa Ninfa'', Palermo, 1990, p. 45.</ref>
+```
+
+Nota operativa:
+
+- Questa sezione serve a rafforzare la rilevanza storica della voce senza aprire nuovi rami genealogici.
+- Restare su committenza, radicamento territoriale e sopravvivenza dei beni.
+
+### 7. Linea patrilineare in forma pronta
+
+Testo proposto:
+
+```wikitext
+== Linea patrilineare ==
+La genealogia documentata consente di distinguere il ramo primogenito dei marchesi di Santa Ninfa, estinto in linea maschile all'inizio del XVIII secolo, e il ramo collaterale di Gibellini e Lucchesi, dal quale derivo' la linea dei principi di Ficarazzi.<ref>V. Palizzolo Gravina, ''Il blasone in Sicilia'', pp. 195-196; F. San Martino De Spucches, ''La storia dei feudi e dei titoli nobiliari di Sicilia'', vol. III, pp. 308-315 e vol. VII, pp. 310-318.</ref>
+
+'''Ramo primogenito (Santa Ninfa e Bellacera)'''
+* '''Luigi Arias Giardina''' (c. 1555-1630), I Marchese di Santa Ninfa.
+** '''Simone Giardina''', II Marchese di Santa Ninfa, sposo' Anna Bellacera.
+*** '''Giuseppe Giardina Bellacera''', Marchese di Santa Ninfa.
+**** '''Simone II Giardina Bellacera''' (c. 1640-1703), Principe di Monteleone e Capitano Giustiziere di Palermo; morto senza prole maschile.
+**** '''Pietro Giardina Bellacera''', investito nel 1685.
+***** '''Giuseppe Giardina Bellacera''', morto senza eredi maschi.
+****** '''Eleonora Bellacera''', moglie di Federico Di Napoli e La Grua; i relativi diritti furono oggetto di lite successoria.
+
+'''Ramo collaterale (Gibellini, Lucchesi e Ficarazzi)'''
+* '''Diego Giardina''', barone di Gibellini.
+** '''Luigi Gerardo Giardina e Lucchese''' (c. 1680-1738), subentrato nel 1703 per esito di lite successoria; I Principe di Ficarazzi dal 1733.
+*** '''Diego Giardina Massa''' (c. 1720-1786), II Principe di Ficarazzi.
+**** '''Giulio Antonio Giardina Grimaldi''' (c. 1750-1811).
+***** '''Diego Giardina Naselli''', investito nel 1812.
+***** '''Paolo Giardina Naselli''' (1791-1837), sposo' Maria Antonia Teresa Maddalena Iaci.
+****** '''Antonino Giardina-Iaci''' (nato nel 1831 a Palermo).
+```
+
+Nota operativa:
+
+- Questa forma sostituisce integralmente la vecchia sequenza lineare.
+- Non aggiungere sotto `Antonino Giardina-Iaci` il ramo `Lipari` se non intervengono nuove fonti dedicate.
+
+## Bibliografia da integrare
+
+Il team puo' gia' predisporre la struttura della bibliografia storica rafforzata. Dove l'edizione esatta va confermata sul volume effettivamente usato, lasciare il dato editoriale finale solo dopo verifica materiale.
+
+- `Ferrara, Ferruccio; Ferrara, Paolo. Riveli, platee e documenti feudali del Marchesato di Santa Ninfa. Palermo, 1990.`
+- `Amico, Vito Maria. Dizionario topografico della Sicilia. 2 voll., Palermo, 1855-1859.`
+- `Mugnos, Filadelfo. Teatro genealogico delle famiglie nobili, titolate, feudatarie ed antiche nobili del Regno di Sicilia. Ristampa anastatica, 3 voll., Forni.`
+- `Villabianca, Francesco Maria Emanuele e Gaetani. Della Sicilia nobile. Ristampa anastatica, 5 voll., Forni.`
+
+Regola:
+
+- `Mugnos` e `Villabianca` servono come repertori complementari.
+- Non usarli da soli per chiudere passaggi genealogici controversi.
+
+## Media e Wikimedia Commons
+
+Il team deve trattare gli asset media come parte dell'impianto storiografico della voce. Sotto e' riportata una selezione gia' verificata o controllata per categoria.
+
+| Sezione | Asset Commons | Stato | Uso consigliato | Note operative |
+| --- | --- | --- | --- | --- |
+| Apertura / contesto | `File:Regno_di_Sicilia_-_Gio._Antonio_Magini_-_btv1b53011566x.jpg` | gia' in voce | mantenere come immagine di cornice storica | verificare in sandbox che il nome file sia identico a quello locale |
+| Investitura del 1733 | `https://commons.wikimedia.org/wiki/File:Johann_Gottfried_Auerbach_004.jpg` | verificato | mantenere accanto al paragrafo su Carlo VI | immagine pertinente e stabile per contestualizzare l'investitura |
+| Patrimonio di Ficarazzi | `https://commons.wikimedia.org/wiki/Category:Castello_Giardina_(Ficarazzi)` | verificato | usare come categoria di riferimento per scegliere la migliore immagine del castello | nella categoria risultano almeno `Castello di Ficarazzi - panoramio.jpg` e `Castellodificarazzi.jpg` |
+| Castello di Ficarazzi | `https://commons.wikimedia.org/wiki/File:Castello_di_Ficarazzi_-_panoramio.jpg` | verificato | fallback se non si usa il file ad alta risoluzione della categoria | qualita' bassa; preferire il file migliore disponibile nella categoria |
+| Contesto urbano di Ficarazzi | `https://commons.wikimedia.org/wiki/Category:Ficarazzi` | verificato | utile per eventuali immagini panoramiche o di localizzazione | contiene anche `Ficarazzi panorama.jpg` e la mappa del comune |
+| Patrimonio di Palermo | `https://commons.wikimedia.org/wiki/File:Palazzo_Castrone_Santa_Ninfa.jpg` | verificato | inseribile nella nuova sezione sul patrimonio storico-architettonico | la categoria collegata contiene piu' viste del palazzo |
+| Palazzo Castrone-Santa Ninfa | `https://commons.wikimedia.org/wiki/Category:Palazzo_Castrone_di_Santa_Ninfa_(Palermo)` | verificato | riferimento principale per scegliere facciata o cortile | usare una sola immagine, non una galleria |
+| Contesto di Santa Ninfa | `https://commons.wikimedia.org/wiki/Category:Santa_Ninfa` | verificato | utile per una immagine di luogo se si vuole rafforzare la parte territoriale | la categoria e' povera, ma `Santa Ninfa.jpg` e' utilizzabile |
+| Santa Ninfa | `https://commons.wikimedia.org/wiki/File:Santa_Ninfa.jpg` | verificato | opzionale nella parte sulle origini territoriali | da usare solo se non appesantisce l'apertura |
+| Araldica | `https://commons.wikimedia.org/wiki/File:Stemma_Giardina_fam_ITA.svg` | verificato | puo' restare nel template o nella sezione araldica | il file e' recente e auto-pubblicato; mantenerlo solo se il disegno e' coerente con la blasonatura usata in voce |
+
+### Asset da non usare
+
+- `https://commons.wikimedia.org/wiki/File:Chiesa_di_Sant%27Atanasio.jpg`
+  - Non pertinente: raffigura la chiesa romana di Sant'Atanasio in via del Babuino, non la chiesa di Ficarazzi.
+- Asset generici su `Sant'Atanasio` non geolocalizzati a Ficarazzi.
+- Gallerie troppo ampie o immagini prive di relazione diretta con i luoghi del casato.
+
+### Regole media
+
+- Una immagine per sezione e' sufficiente.
+- Privilegiare beni o luoghi direttamente collegati alla storia del casato.
+- Evitare immagini puramente decorative se non rafforzano un passaggio preciso del testo.
+- Se un asset Commons e' auto-pubblicato o recente, segnalarlo nel changelog editoriale e valutarne la coerenza con la letteratura araldica o con il bene rappresentato.
+
 ## Regole editoriali
 
 - Non rappresentare come certa una successione solo perche' genealogicamente plausibile.
