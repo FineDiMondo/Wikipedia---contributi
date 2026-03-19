@@ -1,4 +1,3 @@
-{{Avvisounicode}}
 {{Bio
 |Nome = Giuseppe
 |Cognome = Giardina

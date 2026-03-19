@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "variant": "v05_giardina_albero_dominante_argento_senza_leopardi_newsystem_v2",
+    "description": "Variante del v05 nuovo sistema con campo argento, senza leopardi, con albero e corona.",
+    "created": "2026-03-18",
+    "sources": [
+      "normalized/scudo_base.normalized.svg",
+      "extracted/albero_sradicato.svg",
+      "normalized/corona_principesca.normalized.svg"
+    ]
+  },
+  "canvas": {
+    "width": 412,
+    "height": 800,
+    "viewBox": "-6 -208.8 412 800",
+    "background_color": "transparent"
+  },
+  "layers": [
+    {
+      "id": "shield_base",
+      "asset": "normalized/scudo_base.normalized.svg",
+      "z_order": 1,
+      "transform": {
+        "translate": [
+          -89.62604435,
+          -67.87504435
+        ],
+        "scale": [
+          0.5793447,
+          0.5793447
+        ],
+        "rotate": 0
+      },
+      "mutations": {
+        "fill_shield_field": "#F5F5F5",
+        "stroke_shield_outline": "#1A1A1A",
+        "stroke_width_outline": 0.5
+      },
+      "notes": "Adattato allo spazio reale degli asset; non copia alla lettera le coordinate esemplificative del prompt."
+    },
+    {
+      "id": "albero_sradicato",
+      "asset": "extracted/albero_sradicato.svg",
+      "z_order": 3,
+      "transform": {
+        "translate": [
+          -60.0,
+          -53.0
+        ],
+        "scale": [
+          0.52,
+          0.52
+        ],
+        "rotate": 0
+      },
+      "mutations": {
+        "fill_color": "#228B22",
+        "stroke_color": "#1B5E20",
+        "stroke_width": 0.5,
+        "opacity": 1.0
+      }
+    },
+    {
+      "id": "corona_principesca",
+      "asset": "normalized/corona_principesca.normalized.svg",
+      "z_order": 4,
+      "transform": {
+        "translate": [
+          -33.653,
+          -344.0
+        ],
+        "scale": [
+          0.468,
+          0.468
+        ],
+        "rotate": 0
+      },
+      "mutations": {
+        "fill_color": "#D4AF37",
+        "gemma_centrale_color": "#FF0000",
+        "stroke_width": 0.5
+      }
+    }
+  ],
+  "output": {
+    "path": "varianti/v05_giardina_albero_dominante_argento_senza_leopardi_newsystem_v2.svg",
+    "format": "svg",
+    "embed_metadata": true,
+    "simplify_transforms": true
+  },
+  "validation": {
+    "target_metrics": {
+      "canvas_viewBox": "-6 -208.8 412 800",
+      "color_shield_field_hex": "#F5F5F5",
+      "shield_outline_stroke_width": 0.5,
+      "transform_style": "translate/scale"
+    },
+    "baseline_comparison": "varianti/v05_giardina_albero_dominante.svg"
+  }
+}

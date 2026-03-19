@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "variant": "stemma_giardina_argento_albero_sradicato",
+    "description": "Stemma Giardina d'argento all'albero sradicato con corona principesca normale, ricostruito per il wiki.",
+    "created": "2026-03-18",
+    "sources": [
+      "normalized/scudo_base.normalized.svg",
+      "extracted/albero_sradicato.svg",
+      "normalized/corona_principesca.normalized.svg"
+    ]
+  },
+  "canvas": {
+    "width": 412,
+    "height": 800,
+    "viewBox": "-6 -208.8 412 800",
+    "background_color": "transparent"
+  },
+  "layers": [
+    {
+      "id": "shield_base",
+      "asset": "normalized/scudo_base.normalized.svg",
+      "z_order": 1,
+      "transform": {
+        "translate": [
+          -89.62604435,
+          -67.87504435
+        ],
+        "scale": [
+          0.5793447,
+          0.5793447
+        ],
+        "rotate": 0
+      },
+      "mutations": {
+        "fill_shield_field": "#F5F5F5",
+        "stroke_shield_outline": "#1A1A1A",
+        "stroke_width_outline": 0.5
+      }
+    },
+    {
+      "id": "albero_sradicato",
+      "asset": "extracted/albero_sradicato.svg",
+      "z_order": 3,
+      "transform": {
+        "translate": [
+          -60.0,
+          -53.0
+        ],
+        "scale": [
+          0.52,
+          0.52
+        ],
+        "rotate": 0
+      },
+      "mutations": {
+        "fill_color": "#228B22",
+        "stroke_color": "#1B5E20",
+        "stroke_width": 0.5,
+        "opacity": 1.0
+      }
+    },
+    {
+      "id": "corona_principesca",
+      "asset": "normalized/corona_principesca.normalized.svg",
+      "z_order": 4,
+      "transform": {
+        "translate": [
+          -33.653,
+          -344.0
+        ],
+        "scale": [
+          0.468,
+          0.468
+        ],
+        "rotate": 0
+      },
+      "mutations": {
+        "fill_color": "#D4AF37",
+        "gemma_centrale_color": "#FF0000",
+        "stroke_width": 0.5
+      }
+    }
+  ],
+  "output": {
+    "path": "Stemma_Giardina_argento_albero_sradicato.svg",
+    "format": "svg",
+    "embed_metadata": true,
+    "simplify_transforms": true
+  }
+}

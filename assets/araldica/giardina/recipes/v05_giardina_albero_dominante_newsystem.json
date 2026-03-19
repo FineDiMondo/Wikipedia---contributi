@@ -1,0 +1,47 @@
+{
+  "name": "v05_giardina_albero_dominante_newsystem",
+  "output": "assets/araldica/giardina/varianti/v05_giardina_albero_dominante_newsystem.svg",
+  "canvas": {
+    "viewBox": "0 0 1000 1000",
+    "width": 1000,
+    "height": 1000,
+    "background": "transparent"
+  },
+  "layers": [
+    {
+      "id": "v05-shield-layer",
+      "source": "assets/araldica/giardina/normalized/scudo_base.normalized.svg",
+      "mutations": [
+        {
+          "selector": {
+            "tag": "path",
+            "id": "shield-field"
+          },
+          "attributes": {
+            "fill": "#D4A017"
+          }
+        }
+      ]
+    },
+    {
+      "id": "v05-tree",
+      "source": "assets/araldica/giardina/extracted/albero_sradicato.svg",
+      "transform": "matrix(0.69 0 0 0.69 159.54 180)"
+    },
+    {
+      "id": "v05-lion-left",
+      "source": "assets/araldica/giardina/normalized/lion_rampant_element.normalized.svg",
+      "transform": "matrix(-0.32 0 0 0.32 370.65 360)"
+    },
+    {
+      "id": "v05-lion-right",
+      "source": "assets/araldica/giardina/normalized/lion_rampant_element.normalized.svg",
+      "transform": "matrix(0.32 0 0 0.32 629.35 360)"
+    },
+    {
+      "id": "v05-crown",
+      "source": "assets/araldica/giardina/normalized/corona_principesca.normalized.svg",
+      "transform": "matrix(0.60 0 0 0.60 200.36 -50)"
+    }
+  ]
+}
