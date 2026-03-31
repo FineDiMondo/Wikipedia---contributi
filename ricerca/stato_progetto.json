@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "progetto": "Wikipedia - Contributi Giardina",
-  "ultimo_aggiornamento": "2026-03-18",
+  "ultimo_aggiornamento": "2026-03-31",
   "configurazione": {
     "repository": "D:/Progetti GITHUB/Wikipedia - contributi",
     "utente_wiki": "Daniel Giardina",
@@ -12,8 +12,8 @@
   "sintesi": {
     "segnaposti_repo_ammessi": true,
     "segnaposti_mainspace_ammessi": false,
-    "soggetti_totali": 4,
-    "publishing_track": 2,
+    "soggetti_totali": 5,
+    "publishing_track": 3,
     "knowledge_graph": 2
   },
   "stato_per_track": {
@@ -41,6 +41,17 @@
           "file_locale": "wiki/Marco_Aurelio_Pasquale_Giardina.wiki",
           "url_sandbox": "https://it.wikipedia.org/wiki/Utente:Daniel_Giardina/Sandbox/Marco_Aurelio_Pasquale_Giardina",
           "nota_operativa": "Bozza potenziata con dettagli sulla 'Stalingrado della Sardegna' e sulla linea mutualistica integerrima. Fonti sindacali e accademiche integrate."
+        },
+        {
+          "id": "sorgiva_fontanin",
+          "titolo": "Sorgiva Fontanin",
+          "stato": "sandboxed",
+          "gate": "sandbox_only",
+          "priorita": "high",
+          "forza_evidenze": "strong",
+          "file_locale": "wiki/Sorgiva_Fontanin.wiki",
+          "url_sandbox": "https://it.wikipedia.org/wiki/Utente:Daniel_Giardina/Sandbox/Sorgiva_Fontanin",
+          "nota_operativa": "Bozza caricata correttamente in sandbox il 31/03/2026. Include Coordinate e Infobox Fiume."
         }
       ]
     },
@@ -80,6 +91,10 @@
       {
         "id": "marco_aurelio_pasquale_giardina",
         "obiettivo": "validazione bozza potenziata e caricamento in sandbox"
+      },
+      {
+        "id": "sorgiva_fontanin",
+        "obiettivo": "caricamento in sandbox dopo inserimento template tecnici"
       }
     ]
   },

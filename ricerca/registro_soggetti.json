@@ -143,6 +143,25 @@
         "valutare se il soggetto ha davvero rilevanza enciclopedica autonoma",
         "se non emerge copertura indipendente, mantenerlo come solo nodo interno"
       ]
+    },
+    {
+      "id": "sorgiva_fontanin",
+      "title": "Sorgiva Fontanin",
+      "type": "geografico",
+      "track": "publishing_track",
+      "status": "publishable",
+      "publishability": "sandbox_only",
+      "priority": "high",
+      "coi": "none",
+      "evidence_strength": "strong",
+      "paths": {
+        "wiki_draft": "wiki/Sorgiva_Fontanin.wiki"
+      },
+      "why_exists": "Sito geografico e storico di rilievo nella fascia delle risorgive venete, con documentazione dal XII secolo.",
+      "next_actions": [
+        "inserire template {{Coord}} e Infobox {{Fiume}}",
+        "caricare il wikitesto nella sandbox Wikipedia"
+      ]
     }
   ]
 }

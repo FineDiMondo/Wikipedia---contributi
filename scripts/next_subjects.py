@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Show next prioritized subjects from CONSOLIDATED MariaDB (SDCP 2026)."""
+"""Show next prioritized subjects from CONSOLIDATED MariaDB (SDCP 2026) with Agent Logging."""
 
 from __future__ import annotations
 
@@ -12,7 +12,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 sys.path.append(str(REPO_ROOT))
 
 try:
-    from scripts.db_utils import get_db_connection
+    from scripts.db_utils import get_db_connection, log_agent_action
 except ImportError:
     print("Error: Could not import db_utils.")
     sys.exit(1)
@@ -53,7 +53,6 @@ def main() -> int:
             query += " AND priority = %s"
             params.append(args.priority)
         
-        # Sort based on Priority and Title
         query += """ ORDER BY 
             FIELD(priority, 'high', 'medium', 'low'),
             title ASC
@@ -62,6 +61,16 @@ def main() -> int:
 
         cursor.execute(query, params)
         results = cursor.fetchall()
+
+        # Audit Log: Registra l'azione dell'agente nel DB
+        log_agent_action(
+            project_id="proj_1", # Wikipedia
+            action="query_next_subjects",
+            details={
+                "priority_filter": args.priority,
+                "results_count": len(results)
+            }
+        )
 
         print(f"Database: db_wikipedia_mgmt")
         print(f"Filter  : priority={args.priority}, limit={args.limit}")
@@ -74,12 +83,11 @@ def main() -> int:
         for index, row in enumerate(results, start=1):
             print(f"{index}. {row['title']} [{row['subject_id']}]")
             print(f"   track={row['track']} status={row['status']} gate={row['gate']} priority={row['priority']}")
-            if row['notes']:
-                print(f"   note: {row['notes'][:100]}...")
             print()
 
     except Exception as exc:
         print(f"Database error: {exc}", file=sys.stderr)
+        log_agent_action("proj_1", "query_next_subjects", status="failure", details={"error": str(exc)})
         return 1
     finally:
         conn.close()

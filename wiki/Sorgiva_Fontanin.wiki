@@ -23,17 +23,6 @@
 
 La '''Sorgiva Fontanin''' (o '''Risorgiva Fontanin''') è un'affioramento di acque sotterranee situato a Sant'Andrea, al confine tra i comuni di [[Villafranca di Verona]] e [[Povegliano Veronese]], nella provincia di [[Verona]]. Rappresenta uno dei fontanili più importanti della fascia delle risorgive venete ed è stato per secoli un fulcro ecologico, idraulico, religioso e sociale della Bassa Veronese. L'acqua emerge a una temperatura pressoché costante di 14 °C, alimentata dalla [[falda freatica]] dell'alta pianura e da un pozzo artesiano. Oggi il sito è oggetto del progetto "Fontanili di Povegliano: Biodiversità Bene Comune" (2025-2026), finanziato dalla [[Fondazione Cariverona]] per la creazione di un Parco Diffuso delle Risorgive.
 
-{{Area protetta
-|Nome = Fontanili di Povegliano (SIC-ZPS IT3210008)
-|Tipo = Zona Speciale di Conservazione (Natura 2000)
-|IUCN = N/A
-|Istituita = 2016 (DM 2016)
-|Localizzazione = [[Villafranca di Verona]], [[Povegliano Veronese]], [[Vigasio]], [[Mozzecane]], [[Valeggio sul Mincio]]
-|Superficie = 118 ettari
-|Uso del suolo = Terreni agricoli (70%), corpi d'acqua (20%), aree edificate (10%)
-|Status di protezione = In transizione verso Parco Diffuso delle Risorgive (progetto 2025-2026)
-}}
-
 == Localizzazione e geografia ==
 
 [[File:Villafranca_Verona_location_map.svg|thumb|right|250px|La posizione di Villafranca di Verona e di Sant'Andrea-Fontanin entro la fascia delle risorgive venete (in rosso), tra Valeggio e San Giovanni Lupatoto. La linea di confine geologico tra alta e bassa pianura determina l'emergenza naturale delle acque sotterranee.]]
@@ -45,7 +34,7 @@ Il Fontanin si situa in località Sant'Andrea, a un'altimetria di 45 metri sul l
 [[File:Sorgiva_Fontanin_dettaglio_acqua.jpg|thumb|left|250px|Dettaglio dell'acqua cristallina della sorgente. La temperatura costante di 14 °C permette la sopravvivenza di specie endemiche.]]
 
 Il Fontanin appartiene alla categoria dei fontanili,
- ossia [[risorgiva|risorgive]] di origine antropica in cui l'emergenza naturale dell'acqua è stata facilitata da escavazioni. La sua alimentazione proviene da tre fonti distinte:
+ossia [[risorgiva|risorgive]] di origine antropica in cui l'emergenza naturale dell'acqua è stata facilitata da escavazioni. La sua alimentazione proviene da tre fonti distinte:
 
 * La '''falda freatica''' della media pianura, costituita da depositi alluvionali sabbi-ghiaiosi che convogliano le acque verso sud fino a incontrare le lenti argillose impermeabili della bassa pianura
 * Infiltrazioni laterali dal '''[[fiume Tione]] dei Monti'''
@@ -59,15 +48,13 @@ Il Fontanin fa parte della '''fascia delle risorgive veronese''', un sistema eco
 
 === Condizioni attuali ===
 
-[[File:Rana_latastei_habitat_risorgiva.jpg|thumb|left|200px|La '''rana di Lataste''' (''Rana latastei''), specie endemica della pianura padana classificata come vulnerabile. La sua presenza al Fontanin indica una qualità biologica complessivamente ancora apprezzabile nonostante i degradamenti.]]
-
 La vegetazione ripariale del Fontanin è stata gravemente impoverita dai cicli di manutenzione idraulica invasiva attuati dal dopoguerra. La fresatura meccanica sistematica degli argini ha eliminato la maggior parte della barriera arborea e arbustiva nativa. Oggi sopravvivono solo cespugli isolati di sambuco e piccole [[Robinia pseudoacacia|robinie]] infestanti. Nonostante ciò, l'area conserva specie autoctone quali [[edera]], [[sanguinella]], [[luppolo]], [[vitalba]] e rovi.
 
 [[File:Austropotamobius_pallipes_fontanile.jpg|thumb|right|200px|Il '''gambero di fiume''' (''Austropotamobius pallipes''), specie minacciata classificata EN (In Pericolo) dall'IUCN. La sua presenza al Fontanin è un indicatore cruciale di qualità biologica e chimico-fisica delle acque.]]
 
 La fauna acquatica è più resiliente grazie alla temperatura costante dell'acqua. Sono documentati pesci come il '''triotto''' (''Leuciscus aula''), il [[cavedano]], l'[[anguilla]] e la [[lampreda padana]] (''Lethenteron zanandreai''), vertebrato agnato endemico minacciato. Tra gli [[anfibi]] figurano la [[rana verde]], la '''rana di Lataste''' (''Rana latastei''), specie endemica e vulnerabile della pianura padana, e il [[rospo smeraldino]].
 
-[[File:Rana latastei 01.jpg|thumb|right|250px|Esemplare di [[Rana latastei]], specie endemica della Pianura Padana presente nel sito.]]
+[[File:Rlatastei.jpg|thumb|right|250px|Esemplare di [[Rana latastei]], specie endemica della Pianura Padana presente nel sito.]]
 
 Particolarmente significativa è la presenza del '''[[gambero di fiume]]''' (''Austropotamobius pallipes''), classificato come In Pericolo (EN dalla [[IUCN]]), la cui presenza indica buona qualità dell'acqua.
 
@@ -75,7 +62,8 @@ Particolarmente significativa è la presenza del '''[[gambero di fiume]]''' (''A
 
 === Minacce e stato di conservazione ===
 
-L'ecosistema del Fontanin è sottoposto a pressioni crescenti. L''''abbassamento della falda freatica''' rimane il problema strutturale di fondo. Altre minacce includono l'inquinamento puntuale (incluso un episodio nel 2024 di scarico illegale di vernice nel Canale Raccoglitore adiacente), le '''specie invasive''' quali gambero della Louisiana, [[nutria]] e testuggine palustre americana, e i pesticidi provenienti dai campi circostanti. La pressione antropica dei visitatori, in aumento dalla riapertura della ciclovia delle risorgive nel 2017, raggiunge picchi di oltre 100 persone nei weekend estivi.
+L'ecosistema del Fontanin è sottoposto a pressioni crescenti. L'abbassamento della falda freatica rimane il problema strutturale di fondo.
+Altre minacce includono l'inquinamento puntuale (incluso un episodio nel 2024 di scarico illegale di vernice nel Canale Raccoglitore adiacente), le '''specie invasive''' quali gambero della Louisiana, [[nutria]] e testuggine palustre americana, e i pesticidi provenienti dai campi circostanti. La pressione antropica dei visitatori, in aumento dalla riapertura della ciclovia delle risorgive nel 2017, raggiunge picchi di oltre 100 persone nei weekend estivi.
 
 Il sito non è incluso direttamente nel SIC-ZPS '''IT3210008 "Fontanili di Povegliano"''' (118 ettari, designato come Zona Speciale di Conservazione con DM 2016), sebbene si trovi a soli 200 metri dal perimetro e sia funzionalmente collegato al medesimo sistema ecologico. Questa esclusione rappresenta una lacuna di protezione normativa.
 
@@ -85,14 +73,10 @@ L'indagine sulla Risorgiva Fontanin risulterebbe incompleta se limitata ai soli 
 
 === Il castrum longobardo e la pieve medievale (VIII-XVI secolo) ===
 
-[[File:Palude_pianura_padana_ricostruzione_medievale.jpg|thumb|left|280px|Ricostruzione paesaggistica della Bassa Veronese nel Medioevo prima della bonifica: vaste paludi con foreste fluviali di ontani, pioppi e salici. Il Fontanin rappresentava un'oasi di abitabilità in questo ambiente inospitale.]]
-
 Prima che i sistemi artificiali di scolo e le idrovore moderne ridisegnassero il paesaggio della Bassa Veronese, l'area a sud del Tione dei Monti era dominata da vaste paludi inospitali, coperte da foreste fluviali e acquitrini malarici. In questo contesto ambientale sfavorevole, le emergenze naturali di acqua limpida e corrente come il Fontanin rappresentavano oasi abitabili e punti nevralgici di insediamento umano.
 
-[[File:Bolla_Eugenio_III_1145_Verona_churches.jpg|thumb|right|250px|Documento: Bolla pontificia ''Piae postulatio voluntatis'' di Papa Eugenio III (17 maggio 1145), conservata in archivi vaticani. Il documento cita la "cappella di Santo Andrea, al Fontanile" tra le chiese veronesi. Data cruciale per l'attestazione del sito.]]
-
-La presenza di un luogo sacro presso il Fontanin è attestata dalla '''Bolla pontificia "Piae postulatio voluntatis" di [[Papa Eugenio III|Eugenio III]]''' del 17 maggio 1145 (identificata come JL 8712 nel sistema Jaffé-Löwenfeld), che cita la "cappella di Santo Andrea, al Fontanile" alla periferia dell'allora non ancora fondato borgo di Villafranca.<ref>Bolla pontificia "Piae postulatio voluntatis", Eugenio III, 17 maggio 1145 (Archivio di Stato di Verona, Fondo Diplomatico).</ref> Questo documento, emanato da Viterbo, rappresenta un privilegio di protezione per i beni della [[Diocesi di Verona]] ed elenca le pievi e i castelli sotto la giurisdizione del vescovo Tebaldo II.
- Questo documento precede di quarant'anni la fondazione ufficiale di Villafranca (1185), indicando che il luogo di culto era preesistente e già strutturato al momento della fondazione del borgo. Secondo lo storico locale L. Bonizzato, la chiesa fu edificata all'inizio dell'[[VIII secolo]] e rimase attiva almeno fino al XVI secolo.<ref>Bonizzato, L. (2004). ''Povegliano processo a una storia''.</ref>
+La presenza di un luogo sacro presso il Fontanin è attestata dalla '''Bolla pontificia "Piae postulatio voluntatis" di [[Papa Eugenio III|Eugenio III]]''' del 17 maggio 1145 (identificata come JL 8712 nel sistema Jaffé-Löwenfeld), che cita la "cappella di Santo Andrea, al Fontanile" alla periferia dell'allora non ancora fondato borgo di Villafranca.<ref>Bolla pontificia ''Piae postulatio voluntatis'', Eugenio III, 17 maggio 1145 (Archivio di Stato di Verona, Fondo Diplomatico).</ref> Questo documento, emanato da Viterbo, rappresenta un privilegio di protezione per i beni della [[Diocesi di Verona]] ed elenca le pievi e i castelli sotto la giurisdizione del vescovo Tebaldo II.
+Questo documento precede di quarant'anni la fondazione ufficiale di Villafranca (1185), indicando che il luogo di culto era preesistente e già strutturato al momento della fondazione del borgo. Secondo lo storico locale L. Bonizzato, la chiesa fu edificata all'inizio dell'[[VIII secolo]] e rimase attiva almeno fino al XVI secolo.<ref>Bonizzato, L. (2004). ''Povegliano processo a una storia''.</ref>
 
 L'edificio non era una semplice cappella campestre, ma una '''pieve''' — cioè un'istituzioneecclesiastica di rango superiore — che godeva di notevole devozione e rappresentava uno dei nuclei più antichi dell'assetto religioso villafranchese. Le evidenze archaeologiche risultano critiche per la datazione: l'analisi epigrafica e stilistica dei frammenti lapidei superstiti (in particolare il ciborio decorato) permette di circoscrivere l'origine dell'insediamento all'epoca [[Longobardi|longobarda]]. Nelle iscrizioni sono citati esplicitamente due personaggi di rilievo europeo: [[Liutprando]], re dei Longobardi (712-744 d.C.), e [[Domenico (vescovo di Verona)|Domenico]], potente vescovo della diocesi veronese (698-712 d.C.).<ref>Giostra, C. (2021). ''Il territorio di Povegliano Veronese fra tarda antichità e alto medioevo''.</ref> L'intersezione di questi due riferimenti cronologici (ultimi anni del vescovado di Domenico e primi del regno di Liutprando) consente di circoscrivere il disegno originario dell'insediamento fortificato (castrum) e della pieve ai primi decenni dell'VIII secolo. Dalle origini altomedievali e per tutta l'epoca carolingia fino almeno al X secolo, il presidio territoriale del Fontanin risultava direttamente dipendente dall'autorità regia — dipendenza che conferma l'immensa valenza strategica del controllo delle risorse idriche in un territorio dominato dalle paludi.
 
@@ -108,9 +92,8 @@ La risorgiva vera e propria denominata '''Fontanin''' fu scavata nel '''[[1682]]
 
 === Memoria topografica e patrimonio intangibile ===
 
-[[File:Statua_Sant_Andrea_Fontanin_Villafranca_memoria_topografica.jpg|thumb|left|250px|La '''statua di Sant'Andrea''' presso il Fontanin: monumento in pietra danneggiato da vandalismo. Rimane uno dei pochi artefatti fisici del sito che testimonia nove secoli di frequentazione umana continua. Attualmente richiede restauro conservativo urgente.]]
-
-Della sacralità originaria della pieve di Sant'Andrea al Fontanile rimane oggi solo una memoria topografica e una testimonianza statuaria. Accanto al cratere della risorgiva, circondata dagli alberi, si ergeva una '''statua in pietra dell'apostolo Sant'Andrea''', eretta come memoriale per segnalare ai posteri il sito esatto ove insisteva la chiesa. Tuttavia, come documentato da cronache locali e dai resoconti dei naturalisti Paola Tosi ed Ernesto Cavallini, questo simulacro devozionale è stato sottoposto in tempi recenti a incuria e danneggiamenti vandalici — un fenomeno sintomatico della progressiva recisione del legame tra memoria del luogo e generazioni contemporanee. La statua rimane oggi un artefatto a rischio, testimone muto di nove secoli di storia locale.
+Della sacralità originaria della pieve di Sant'Andrea al Fontanile rimane oggi solo una memoria topografica e una testimonianza statuaria.
+ Accanto al cratere della risorgiva, circondata dagli alberi, si ergeva una '''statua in pietra dell'apostolo Sant'Andrea''', eretta come memoriale per segnalare ai posteri il sito esatto ove insisteva la chiesa. Tuttavia, come documentato da cronache locali e dai resoconti dei naturalisti Paola Tosi ed Ernesto Cavallini, questo simulacro devozionale è stato sottoposto in tempi recenti a incuria e danneggiamenti vandalici — un fenomeno sintomatico della progressiva recisione del legame tra memoria del luogo e generazioni contemporanee. La statua rimane oggi un artefatto a rischio, testimone muto di nove secoli di storia locale.
 
 L'area presenta potenziale stratigrafico significativo: il comune limitrofo di [[Povegliano Veronese]] è un sito archeologico di rilievo con reperti che vanno dall'[[Eneolitico]] all'[[epoca longobarda]], inclusa una celebre necropoli longobarda (scavata in locality Ortaia, 1986) con sepolture rituali recanti cavalli e levrieri. I reperti sono conservati e esposti al [[Museo Archeologico Comprensoriale]] di Villa Balladoro, a pochi chilometri dal Fontanin. Nonostante il potenziale archeologico, il sito di Sant'Andrea-Fontanin non è stato sottoposto a scavi sistematici — una lacuna che lasciarebbe ancora scoperta la stratigrafia di un luogo frequentato umano per almeno 1.200 anni.
 
@@ -155,12 +138,12 @@ Nel maggio 1995 il prof. '''Ernesto Cavallini''' (naturalista e volontario [[WWF
 Il 12 dicembre 2025, a Villa Balladoro (Povegliano Veronese), è stato presentato il progetto '''Fontanili di Povegliano: Biodiversità Bene Comune''', vincitore del Bando Capitale Naturale 2025 della [[Fondazione Cariverona]].<ref>Fondazione Cariverona. Bando Capitale Naturale 2025. https://www.fondazionecariverona.org/</ref> Il progetto, con capofila il Comune di [[Povegliano Veronese]] e partner strategico il Comune di [[Villafranca di Verona]], ha un budget totale di '''319.000 €''' (di cui 255.000 € da Cariverona) e interessa 14 ettari complessivi.
 
 Gli obiettivi includono:
-* Creazione di 7,5 ettari di nuove superfici boscate con essenze autoctone
-* Ripristino delle zone umide degradate
-* Riqualificazione dell'ex Base Militare Hawk (18 ettari acquisiti gratuitamente dal Comune nel 2015)
-* Formazione di "Forest Keeper" — figure professionali volontarie di giovani delle scuole partner
-* "Cantieri Naturali Aperti" per la partecipazione civica
-* Biomonitoraggio innovativo tramite apiari
+* creazione di 7,5 ettari di nuove superfici boscate con essenze autoctone;
+* ripristino delle zone umide degradate;
+* riqualificazione dell'ex Base Militare Hawk (18 ettari acquisiti gratuitamente dal Comune nel 2015);
+* formazione di "Forest Keeper" — figure professionali volontarie di giovani delle scuole partner;
+* "Cantieri Naturali Aperti" per la partecipazione civica;
+* biomonitoraggio innovativo tramite apiari.
 
 Il progetto ambisce a fondare il '''Parco Diffuso delle Risorgive''', finalmente superando la logica dei confini comunali che aveva frenato ogni intervento per trent'anni.
 

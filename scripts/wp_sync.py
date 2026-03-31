@@ -35,6 +35,11 @@ PAGES = [
         "Sincronizzazione biografia",
     ),
     (
+        "wiki/Sorgiva_Fontanin.wiki",
+        "Utente:Daniel Giardina/Sandbox/Sorgiva Fontanin",
+        "Caricamento bozza: Sorgiva Fontanin (fontanile veronese)",
+    ),
+    (
         "wiki/index.wiki",
         "Utente:Daniel Giardina/Sandbox",
         "Aggiornamento indice sandbox",
