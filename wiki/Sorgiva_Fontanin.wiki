@@ -23,6 +23,17 @@
 
 La '''Sorgiva Fontanin''' (o '''Risorgiva Fontanin''') è un'affioramento di acque sotterranee situato a Sant'Andrea, al confine tra i comuni di [[Villafranca di Verona]] e [[Povegliano Veronese]], nella provincia di [[Verona]]. Rappresenta uno dei fontanili più importanti della fascia delle risorgive venete ed è stato per secoli un fulcro ecologico, idraulico, religioso e sociale della Bassa Veronese. L'acqua emerge a una temperatura pressoché costante di 14 °C, alimentata dalla [[falda freatica]] dell'alta pianura e da un pozzo artesiano. Oggi il sito è oggetto del progetto "Fontanili di Povegliano: Biodiversità Bene Comune" (2025-2026), finanziato dalla [[Fondazione Cariverona]] per la creazione di un Parco Diffuso delle Risorgive.
 
+{{Area protetta
+|Nome = Fontanili di Povegliano (SIC-ZPS IT3210008)
+|Tipo = Zona Speciale di Conservazione (Natura 2000)
+|IUCN = N/A
+|Istituita = 2016 (DM 2016)
+|Localizzazione = [[Villafranca di Verona]], [[Povegliano Veronese]], [[Vigasio]], [[Mozzecane]], [[Valeggio sul Mincio]]
+|Superficie = 118 ettari
+|Uso del suolo = Terreni agricoli (70%), corpi d'acqua (20%), aree edificate (10%)
+|Status di protezione = In transizione verso Parco Diffuso delle Risorgive (progetto 2025-2026)
+}}
+
 == Localizzazione e geografia ==
 
 [[File:Villafranca_Verona_location_map.svg|thumb|right|250px|La posizione di Villafranca di Verona e di Sant'Andrea-Fontanin entro la fascia delle risorgive venete (in rosso), tra Valeggio e San Giovanni Lupatoto. La linea di confine geologico tra alta e bassa pianura determina l'emergenza naturale delle acque sotterranee.]]
@@ -54,11 +65,11 @@ La vegetazione ripariale del Fontanin è stata gravemente impoverita dai cicli d
 
 [[File:Austropotamobius_pallipes_fontanile.jpg|thumb|right|200px|Il '''gambero di fiume''' (''Austropotamobius pallipes''), specie minacciata classificata EN (In Pericolo) dall'IUCN. La sua presenza al Fontanin è un indicatore cruciale di qualità biologica e chimico-fisica delle acque.]]
 
-La fauna acquatica è più resiliente grazie alla temperatura costante dell'acqua. Sono documentati pesci come il '''triotto''' (''Leuciscus aula''), il [[cavedano]], l'[[anguilla]] e la [[lampreda padana]] (''Lethenteron zanandreai''), specie "primitiva" minacciata. Tra gli [[anfibi]] figurano la [[rana verde]], la '''rana di Lataste''' (''Rana latastei''), specie endemica e vulnerabile della pianura padana, e il [[rospo smeraldino]].
+La fauna acquatica è più resiliente grazie alla temperatura costante dell'acqua. Sono documentati pesci come il '''triotto''' (''Leuciscus aula''), il [[cavedano]], l'[[anguilla]] e la [[lampreda padana]] (''Lethenteron zanandreai''), vertebrato agnato endemico minacciato. Tra gli [[anfibi]] figurano la [[rana verde]], la '''rana di Lataste''' (''Rana latastei''), specie endemica e vulnerabile della pianura padana, e il [[rospo smeraldino]].
 
 [[File:Rana latastei 01.jpg|thumb|right|250px|Esemplare di [[Rana latastei]], specie endemica della Pianura Padana presente nel sito.]]
 
-Particolarmente significativa è la presenza del '''[[gambero di fiume]]''' (''Austropotamobius pallipes''), classificato come vulnerabile (EN dalla [[IUCN]]), la cui presenza indica buona qualità dell'acqua.
+Particolarmente significativa è la presenza del '''[[gambero di fiume]]''' (''Austropotamobius pallipes''), classificato come In Pericolo (EN dalla [[IUCN]]), la cui presenza indica buona qualità dell'acqua.
 
 [[File:Austropotamobius pallipes 01 by-dpc.jpg|thumb|left|250px|[[Austropotamobius pallipes]] (Gambero di fiume europeo), indicatore biologico della qualità delle acque del Fontanin.]]
 
@@ -167,10 +178,16 @@ Il progetto ambisce a fondare il '''Parco Diffuso delle Risorgive''', finalmente
 
 == Bibliografia ==
 
-* {{Cita libro|autore=Ernesto Cavallini|titolo=Relazione: Parco del Fontanin|editore=WWF Veronese|anno=1995}}
-* {{Cita libro|autore=L. Bonizzato|titolo=Povegliano processo a una storia|anno=2004}}
-* {{Cita libro|autore=Caterina Giostra|titolo=Il territorio di Povegliano Veronese fra tarda antichità e alto medioevo|anno=2021}}
-* {{Cita pubblicazione|autore=Carla Dal Prà|coautori=et al.|titolo=Idrogeologia dell'area collinare e di pianura del Comune di Verona|rivista=ResearchGate|anno=2021}}
+* {{Cita libro|autore=Carla Dal Prà|coautori=et al.|titolo=Idrogeologia dell'area collinare e di pianura del Comune di Verona|curatore=Roberto Zorzin|opera=Storia naturale della città di Verona|editore=Museo Civico di Storia Naturale di Verona|anno=2021|pagine=49-54}}
+* {{Cita libro|autore=Caterina Giostra|titolo=Il territorio di Povegliano Veronese fra tarda antichità e alto medioevo|editore=SAP Società Archeologica srl|anno=2021|isbn=9788899547127}}
+* {{Cita libro|autore=Luciano Bonizzato|titolo=Povegliano processo a una storia|editore=Comitato di San Rocco Villafranca|anno=2004}}
+* {{Cita libro|autore=Ernesto Cavallini|titolo=Relazione: Parco del Fontanin|editore=WWF Veronese|anno=1995|nota=letteratura grigia; osservazioni empiriche degli anni novanta}}
+
+=== Fonti giornalistiche recenti ===
+
+* {{Cita web|url=|titolo=Presentato ufficialmente il progetto 'Fontanili di Povegliano'|sito=Verona Network (Daily Verona)|data=dicembre 2025}}
+* {{Cita web|url=|titolo=Fontanili di Povegliano: Biodiversità Bene Comune|sito=La Cronaca di Verona|data=dicembre 2025}}
+* {{Cita web|url=|titolo=Rigenerazione ambientale e nuovi boschi nella Bassa Veronese|sito=Montorio Veronese|data=dicembre 2025}}
 
 == Collegamenti esterni ==
 
