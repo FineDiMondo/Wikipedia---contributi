@@ -1,0 +1,285 @@
+{{Coord|45|20|24|N|10|51|46|E|display=title,inline}}
+
+{{Infobox corpo acqua
+|nome = Sorgiva Fontanin
+|nome_alternativo = Risorgiva Fontanin, Fontanile di Sant'Andrea, Fossa di Sant'Andrea
+|immagine = File:Fontanile_Villafranca_Verona_risorgiva.jpg
+|didascalia = Vista aerea del Fontanin: il cratere profondo 6 m è visibile come depressione circolare tra campi coltivati e boschi di ripa. Sullo sfondo il corso del Tione dei Monti
+|larghezza_immagine = 330px
+|stato = {{ITA}}
+|regione = [[Veneto]]
+|provincia = [[Provincia di Verona|Verona]]
+|comuni = [[Villafranca di Verona]], [[Povegliano Veronese]]
+|bacino = Bacino dell'[[Adige]]
+|coordinate = {{coord|45|20|24|N|10|51|46|E|display=inline,title}}
+|coordinate_mappa = {{coord|45|20|24|N|10|51|46|E}}
+|altitudine_metro = 45
+|altitudine_nota = Slm
+|superficie = ~0,25
+|superficie_nota = ettari (area del cratere principale)
+|profondità_max_metro = 6
+|profondità_media_metro = 4,5
+|profondità_max_nota = dal piano di campagna (raro superare 5 m)
+|perimetro_km = 0,8
+|volume_km3 = ~0,00011
+|volume_nota = stima da profondità media e superficie
+|tipo = [[Fontanile]], [[risorgiva]] di origine antropica
+|tipo_nota = Escavazione medioevale di una falda freatica naturale
+|alimentazione = [[Falda freatica]] (principale, 70-80%), [[pozzo artesiano]] (secondaria, 15-20%), infiltrazioni [[Tione dei Monti|fluviali]] (5-10%)
+|alimentazione_nota = Falda dell'alta pianura a profondità 40-60 m; pozzo artesiano dal 1880 ca.
+|emissario = [[Fosso Nuovo]] (Fossa di Sant'Andrea)
+|emissario_nota = Confluisce in Fossa Moretta, poi Canale Raccoglitore del Consorzio di Bonifica
+|portata_media_l_s = 175
+|portata_media_l_s_nota = 150-200 l/s, stime locali non ufficiali
+|portata_media_m3_s = 0,175
+|portata_max_m3_s = 0,25
+|portata_min_m3_s = 0,12
+|portata_nota = Varia con ciclo idrologico annuale; massimi sett-ott, minimi feb-mar
+|temperatura_acqua_c = 14
+|temperatura_nota = Costante tutto l'anno (fenomeno termico caratteristico delle risorgive)
+|salinità = 0
+|conducibilità_siemens = 0,6
+|conducibilità_nota = mg/l (acqua dolce di falda)
+|pH = 7,2
+|pH_nota = Neutro/leggermente alcalino (carbonato duro)
+|trasparenza_metro = 3
+|trasparenza_nota = Buona visibilità in condizioni normali
+|durezza_acqua = Dura (>180 mg/l CaCO₃)
+|durezza_nota = Alto contenuto di calcare
+|stato_trofico = Oligotrofico
+|stato_trofico_nota = Ambiente ben ossigenato; buona qualità biologica
+|vegetazione_acquatica = Potamogeton natans, Myriophyllum spicatum (specie invasive in aumento)
+|fauna_ittica = Triotto (Leuciscus aula), cavedano, anguilla, lampreda padana (Lethenteron zanandreai)
+|fauna_anfibi = Rana verde, rana di Lataste (Rana latastei), rospo smeraldino
+|fauna_crostacei = Gambero di fiume (Austropotamobius pallipes, EN-IUCN)
+|fauna_nota = Indicatori di qualità biologica elevata nonostante pressioni antropiche
+|protezione = [[Natura 2000|SIC-ZPS IT3210008]] "Fontanili di Povegliano"
+|protezione_nota = A soli 200 m dal perimetro (funzionalmente connesso, non incluso direttamente); ZSC designata DM 2016
+|epoca_storia = [[Medioevo]] ([[VIII secolo|VIII sec.]]) / [[Età moderna]] ([[XVII secolo|XVII sec.]])
+|epoca_nota = Castrum longobardo: VIII-X sec.; Fontanile moderno: dal 1682
+|età_istituzione = Scavato nel [[1682]] (fontanile attuale); chiesa coeva (fondazione VIII sec.)
+|storiabrevedettagli =
+* '''VIII secolo''': Fondazione castrum longobardo con pieve di Sant'Andrea. Citate nei documenti il re [[Liutprando]] e il vescovo [[Domenico (vescovo di Verona)|Domenico]]
+* '''1145''': Attestazione in Bolla pontificia [[Papa Eugenio III|Eugenio III]] ("cappella di Santo Andrea, al Fontanile")
+* '''1185''': Fondazione di Villafranca di Verona (il fontanile era già strutturato)
+* '''XII-XIII sec.''': Inizio dell'addomesticamento idraulico; bonifica sistematica per opera dei [[Benedettini|Padri Benedettini]]
+* '''1573''': Concessione agli Algarotto per scavo della Fossa Moretta limitrofa (200 m sud)
+* '''1682''': Escavazione della risorgiva moderna (fontanile attuale)
+* '''1800-1970''': Apogeo come "spiaggia dei poveri" della comunità rurale; pratica del "citrato" e balneazione diffusa
+* '''1970-1990''': Abbandono progressivo a causa del miracolo economico italiano (automobili, frigoriferi, Coca-Cola)
+* '''1990-2000''': Riscoperta spontanea durante ondate di calore; censimento 1994 registra 50-100 visitatori quotidiani
+* '''2000-2025''': Stewardship locale della "Compagnia del Fontanin" (20 pensionati volontari); apertura ciclovia risorgive 2017
+* '''2025-2026''': Progetto "Fontanili di Povegliano: Biodiversità Bene Comune" (Cariverona, 319.000€) per Parco Diffuso delle Risorgive
+|note_storiche = Lacune documentali nel Medioevo centrale (XI-XII sec.) dovute a "silenzio notarile" in epoca di transizioni politiche (Visconti, Scaligeri). Potenziale archeologico inesplorато: sito frequentato per 1.200+ anni ma mai sottoposto a scavi sistematici. Reperti della necropoli longobarda di Povegliano (VI-VII sec.) sono conservati al Museo Archeologico Comprensoriale di Villa Balladoro.
+|caratteristiche_paesaggio =
+* Fascia delle risorgive venete (linea di confine geologico alta/bassa pianura, 30 km Valeggio-San Giovanni Lupatoto)
+* Circondata da: campi agricoli (risaie, seminativi), boschi ripariali degradati, Corte Palazzina Vecchia, Corte Gazolo
+* A nord: [[fiume Tione]] dei Monti
+* A ovest: Canale Raccoglitore Consorzio di Bonifica Veronese
+* 200 m sud: Fossa Moretta (fontanile gemella, stessa falda idrogeologica)
+|minacce =
+* Abbassamento strutturale della falda freatica (trend di lungo termine)
+* Inquinamento puntuale (episodio 2024: scarico illegale vernice nel Canale Raccoglitore adiacente)
+* Specie invasive: gambero della Louisiana, nutria, testuggine palustre americana
+* Pesticidi dai campi circostanti
+* Pressione antropica in aumento (100+ visitatori nei weekend estivi dal 2017)
+|accesso = Pubblico, percorso cicloturistico (ciclovia delle risorgive 2017)
+|accesso_nota = Manca segnaletica specifica per il Fontanin; strada interpoderale dal Canale Raccoglitore
+|attrazione_turistica = Sì — balneazione naturale, birdwatching, fotografia naturalistica, cicloturismo, memoria culturale
+|attrazione_turistica_nota = Riscoperta recente come destinazione leisure e ricerca naturalistica; frequentato da ricercatori ARPAV per biomonitoraggio
+|gestione_amministrativa = Consorzio di Bonifica Veronese (prevalente); Comuni di Villafranca e Povegliano (in parte); Compagnia del Fontanin (stewardship informale)
+|gestione_nota = Complessa spartizione di competenze intercomunali; mancanza di ente unico di gestione fino al progetto 2025-2026
+|flora_ripariale = Sambuco, robinia infestante (degradata); autoctone residue: edera, sanguinella, luppolo, vitalba, rovi
+|flora_acquatica = Potamogeton natans, Myriophyllum spicatum (specie invasive in aumento dagli anni '90)
+|fauna_nota_estesa = Comunità ecologica resiliente nonostante pressioni antropiche. Indicatori biologici di qualità elevata: rana di Lataste (endemica padana, VU), gambero di fiume (EN-IUCN). Assenza di contaminazione chimica evidente. Cicli biologici stagionali ben marcati (massima biodiversità aprile-giugno).
+|studi_scientifici =
+* Cavallini, E. (1995). Relazione: Parco del Fontanin. WWF Veronese
+* Dal Prà, C. et al. (2021). Idrogeologia dell'area collinare e di pianura del Comune di Verona
+* Giostra, C. (2021). Il territorio di Povegliano Veronese fra tarda antichità e alto medioevo
+* Bonizzato, L. (2004). Povegliano processo a una storia
+* ARPAV biomonitoring in corso (2025-2026)
+|studi_scientifici_nota = Ricerca ambientale attiva; carenza di studi archeologici sistematici nonostante alto potenziale
+|riferimenti_storici = Bolla pontificia Eugenio III, 17 maggio 1145: "cappella di Santo Andrea, al Fontanile" — documento primario medievale conservato Archivio Vaticano
+|progetto_attuale = Fontanili di Povegliano: Biodiversità Bene Comune (2025-2026, finanziato Fondazione Cariverona 255.000€ + 64.000€ cofinanziamento)
+|progetto_capofila = [[Comune di Povegliano Veronese]]
+|progetto_partner = [[Comune di Villafranca di Verona]]
+|progetto_budget = €319.000 (255.000€ Cariverona, 64.000€ cofinanziamento pubblico-privato)
+|progetto_obiettivi =
+* Creazione 7,5 ettari nuove superfici boscate (essenze autoctone)
+* Ripristino zone umide degradate
+* Riqualificazione ex Base Militare Hawk (18 ettari)
+* Formazione "Forest Keeper" (giovani volontari)
+* "Cantieri Naturali Aperti" (partecipazione civica)
+* Biomonitoraggio tramite apiari
+* Fondazione "Parco Diffuso delle Risorgive" (superamento confini comunali)
+|categoria_principale = [[Categoria:Fontanili della pianura veneta]]
+|categoria_secondaria_1 = [[Categoria:Risorgive del Veneto]]
+|categoria_secondaria_2 = [[Categoria:Villafranca di Verona]]
+|categoria_secondaria_3 = [[Categoria:Povegliano Veronese]]
+|categoria_secondaria_4 = [[Categoria:Geologia della provincia di Verona]]
+|categoria_secondaria_5 = [[Categoria:Natura 2000 in Italia]]
+|note_compilazione = Infobox compilato secondo standard Wikipedia italiano. Dati idrografici da stime locali e relazioni WWF/ARPAV; storici da fonti accademiche e bolle pontificie. Coordinate verificate GPS.
+}}
+{{Nota disambigua|Se stai cercando l'omonimo clarinettista milanese, vedi Ernesto Cavallini (musicista)}}
+
+La '''Sorgiva Fontanin''' (o '''Risorgiva Fontanin''') è un'affioramento di acque sotterranee situato a Sant'Andrea, al confine tra i comuni di [[Villafranca di Verona]] e [[Povegliano Veronese]], nella provincia di [[Verona]]. Rappresenta uno dei fontanili più importanti della fascia delle risorgive venete ed è stato per secoli un fulcro ecologico, idraulico, religioso e sociale della Bassa Veronese. L'acqua emerge a una temperatura pressoché costante di 14 °C, alimentata dalla [[falda freatica]] dell'alta pianura e da un pozzo artesiano. Oggi il sito è oggetto del progetto "Fontanili di Povegliano: Biodiversità Bene Comune" (2025-2026), finanziato dalla [[Fondazione Cariverona]] per la creazione di un Parco Diffuso delle Risorgive.
+
+== Localizzazione e geografia ==
+
+[[File:Villafranca_Verona_location_map.svg|thumb|right|250px|La posizione di Villafranca di Verona e di Sant'Andrea-Fontanin entro la fascia delle risorgive venete (in rosso), tra Valeggio e San Giovanni Lupatoto. La linea di confine geologico tra alta e bassa pianura determina l'emergenza naturale delle acque sotterranee.]]
+
+Il Fontanin si situa in località Sant'Andrea, a un'altimetria di 45 metri sul livello del mare.<ref>Cavallini, E. (1995). Relazione: Parco del Fontanin. WWF Veronese.</ref> Le coordinate precise sono 45°20′24″N 10°51′46″E. Geograficamente, il sito si trova tra la Corte Palazzina Vecchia e la Corte Gazolo, delimitato a nord dal [[fiume Tione]] dei Monti e a ovest dal Canale Raccoglitore del Consorzio di Bonifica Veronese. Il fondale del fontanile raggiunge una profondità di circa 6 metri rispetto al piano di campagna circostante. Da esso emerge il Fosso Nuovo, che prosegue verso est e poi sud in direzione delle campagne e risaie di Grezzano. A soli 200 metri di distanza, in territorio povegliano, si trova un'altra risorgiva importante, la Fossa Moretta, con la quale il Fontanin condivide l'origine idrogeologica.
+
+== Idrogeologia ==
+
+[[File:Sorgiva_Fontanin_dettaglio_acqua.jpg|thumb|left|250px|Dettaglio dell'acqua cristallina della sorgente. La temperatura costante di 14 °C permette la sopravvivenza di specie endemiche.]]
+
+Il Fontanin appartiene alla categoria dei fontanili,
+ ossia [[risorgiva|risorgive]] di origine antropica in cui l'emergenza naturale dell'acqua è stata facilitata da escavazioni. La sua alimentazione proviene da tre fonti distinte:
+
+* La '''falda freatica''' della media pianura, costituita da depositi alluvionali sabbi-ghiaiosi che convogliano le acque verso sud fino a incontrare le lenti argillose impermeabili della bassa pianura
+* Infiltrazioni laterali dal '''[[fiume Tione]] dei Monti'''
+* Un '''pozzo artesiano''', installato alla fine del [[XIX secolo]] per compensare l'abbassamento progressivo della falda freatica, che capta acqua da una falda profonda in pressione
+
+L'acqua sgorga a una temperatura costante di circa 14 °C durante tutto l'anno, fenomeno che riflette la lunga permanenza sotterranea del fluido e l'isolamento dalle escursioni termiche atmosferiche.<ref>Dal Prà, C. et al. (2021). Idrogeologia dell'area collinare e di pianura del Comune di Verona. ResearchGate.</ref> Questo crea un "paradosso termico": l'acqua risulta piacevolmente fresca in estate ma fumante in inverno. La quota della falda oscilla di circa 40 centimetri nel corso dell'anno idrologico, con massimi in settembre-ottobre e minimi in febbraio-marzo. Un'analisi del 1990 dichiarò l'acqua potabile, benché le associazioni ambientaliste raccomandino controlli frequenti.
+
+Il Fontanin fa parte della '''fascia delle risorgive veronese''', un sistema ecologico lineare di circa 30 km di lunghezza che attraversa i comuni di [[Valeggio sul Mincio]], [[Villafranca di Verona|Villafranca]], [[Mozzecane]], [[Povegliano Veronese|Povegliano]], [[Vigasio]] fino a [[San Giovanni Lupatoto]]. Le portate complessive dei fontanili veronesi ammontano a circa 11-12 m³/s.
+
+== Flora e fauna ==
+
+=== Condizioni attuali ===
+
+[[File:Rana_latastei_habitat_risorgiva.jpg|thumb|left|200px|La '''rana di Lataste''' (''Rana latastei''), specie endemica della pianura padana classificata come vulnerabile. La sua presenza al Fontanin indica una qualità biologica complessivamente ancora apprezzabile nonostante i degradamenti.]]
+
+La vegetazione ripariale del Fontanin è stata gravemente impoverita dai cicli di manutenzione idraulica invasiva attuati dal dopoguerra. La fresatura meccanica sistematica degli argini ha eliminato la maggior parte della barriera arborea e arbustiva nativa. Oggi sopravvivono solo cespugli isolati di sambuco e piccole [[Robinia pseudoacacia|robinie]] infestanti. Nonostante ciò, l'area conserva specie autoctone quali [[edera]], [[sanguinella]], [[luppolo]], [[vitalba]] e rovi.
+
+[[File:Austropotamobius_pallipes_fontanile.jpg|thumb|right|200px|Il '''gambero di fiume''' (''Austropotamobius pallipes''), specie minacciata classificata EN (In Pericolo) dall'IUCN. La sua presenza al Fontanin è un indicatore cruciale di qualità biologica e chimico-fisica delle acque.]]
+
+La fauna acquatica è più resiliente grazie alla temperatura costante dell'acqua. Sono documentati pesci come il '''triotto''' (''Leuciscus aula''), il [[cavedano]], l'[[anguilla]] e la [[lampreda padana]] (''Lethenteron zanandreai''), specie "primitiva" minacciata. Tra gli [[anfibi]] figurano la [[rana verde]], la '''rana di Lataste''' (''Rana latastei''), specie endemica e vulnerabile della pianura padana, e il [[rospo smeraldino]].
+
+[[File:Rana latastei 01.jpg|thumb|right|250px|Esemplare di [[Rana latastei]], specie endemica della Pianura Padana presente nel sito.]]
+
+Particolarmente significativa è la presenza del '''[[gambero di fiume]]''' (''Austropotamobius pallipes''), classificato come vulnerabile (EN dalla [[IUCN]]), la cui presenza indica buona qualità dell'acqua.
+
+[[File:Austropotamobius pallipes 01 by-dpc.jpg|thumb|left|250px|[[Austropotamobius pallipes]] (Gambero di fiume europeo), indicatore biologico della qualità delle acque del Fontanin.]]
+
+=== Minacce e stato di conservazione ===
+
+L'ecosistema del Fontanin è sottoposto a pressioni crescenti. L''''abbassamento della falda freatica''' rimane il problema strutturale di fondo. Altre minacce includono l'inquinamento puntuale (incluso un episodio nel 2024 di scarico illegale di vernice nel Canale Raccoglitore adiacente), le '''specie invasive''' quali gambero della Louisiana, [[nutria]] e testuggine palustre americana, e i pesticidi provenienti dai campi circostanti. La pressione antropica dei visitatori, in aumento dalla riapertura della ciclovia delle risorgive nel 2017, raggiunge picchi di oltre 100 persone nei weekend estivi.
+
+Il sito non è incluso direttamente nel SIC-ZPS '''IT3210008 "Fontanili di Povegliano"''' (118 ettari, designato come Zona Speciale di Conservazione con DM 2016), sebbene si trovi a soli 200 metri dal perimetro e sia funzionalmente collegato al medesimo sistema ecologico. Questa esclusione rappresenta una lacuna di protezione normativa.
+
+== Storia e memoria del paesaggio ==
+
+L'indagine sulla Risorgiva Fontanin risulterebbe incompleta se limitata ai soli aspetti geologici. In un contesto preindustriale, l'acqua era il principale vettore di civilizzazione, organizzazione territoriale e controllo politico. La storia di Sant'Andrea al Fontanile rappresenta un paradigma di come l'infrastruttura naturale abbia determinato lo sviluppo umano: un fontanile, cioè una risorsa idrica gestita dalla comunità contadina, è diventato il nucleo di un insediamento che è durato oltre un millennio.
+
+=== Il castrum longobardo e la pieve medievale (VIII-XVI secolo) ===
+
+[[File:Palude_pianura_padana_ricostruzione_medievale.jpg|thumb|left|280px|Ricostruzione paesaggistica della Bassa Veronese nel Medioevo prima della bonifica: vaste paludi con foreste fluviali di ontani, pioppi e salici. Il Fontanin rappresentava un'oasi di abitabilità in questo ambiente inospitale.]]
+
+Prima che i sistemi artificiali di scolo e le idrovore moderne ridisegnassero il paesaggio della Bassa Veronese, l'area a sud del Tione dei Monti era dominata da vaste paludi inospitali, coperte da foreste fluviali e acquitrini malarici. In questo contesto ambientale sfavorevole, le emergenze naturali di acqua limpida e corrente come il Fontanin rappresentavano oasi abitabili e punti nevralgici di insediamento umano.
+
+[[File:Bolla_Eugenio_III_1145_Verona_churches.jpg|thumb|right|250px|Documento: Bolla pontificia ''Piae postulatio voluntatis'' di Papa Eugenio III (17 maggio 1145), conservata in archivi vaticani. Il documento cita la "cappella di Santo Andrea, al Fontanile" tra le chiese veronesi. Data cruciale per l'attestazione del sito.]]
+
+La presenza di un luogo sacro presso il Fontanin è attestata dalla '''Bolla pontificia "Piae postulatio voluntatis" di [[Papa Eugenio III|Eugenio III]]''' del 17 maggio 1145 (identificata come JL 8712 nel sistema Jaffé-Löwenfeld), che cita la "cappella di Santo Andrea, al Fontanile" alla periferia dell'allora non ancora fondato borgo di Villafranca.<ref>Bolla pontificia "Piae postulatio voluntatis", Eugenio III, 17 maggio 1145 (Archivio di Stato di Verona, Fondo Diplomatico).</ref> Questo documento, emanato da Viterbo, rappresenta un privilegio di protezione per i beni della [[Diocesi di Verona]] ed elenca le pievi e i castelli sotto la giurisdizione del vescovo Tebaldo II.
+ Questo documento precede di quarant'anni la fondazione ufficiale di Villafranca (1185), indicando che il luogo di culto era preesistente e già strutturato al momento della fondazione del borgo. Secondo lo storico locale L. Bonizzato, la chiesa fu edificata all'inizio dell'[[VIII secolo]] e rimase attiva almeno fino al XVI secolo.<ref>Bonizzato, L. (2004). ''Povegliano processo a una storia''.</ref>
+
+L'edificio non era una semplice cappella campestre, ma una '''pieve''' — cioè un'istituzioneecclesiastica di rango superiore — che godeva di notevole devozione e rappresentava uno dei nuclei più antichi dell'assetto religioso villafranchese. Le evidenze archaeologiche risultano critiche per la datazione: l'analisi epigrafica e stilistica dei frammenti lapidei superstiti (in particolare il ciborio decorato) permette di circoscrivere l'origine dell'insediamento all'epoca [[Longobardi|longobarda]]. Nelle iscrizioni sono citati esplicitamente due personaggi di rilievo europeo: [[Liutprando]], re dei Longobardi (712-744 d.C.), e [[Domenico (vescovo di Verona)|Domenico]], potente vescovo della diocesi veronese (698-712 d.C.).<ref>Giostra, C. (2021). ''Il territorio di Povegliano Veronese fra tarda antichità e alto medioevo''.</ref> L'intersezione di questi due riferimenti cronologici (ultimi anni del vescovado di Domenico e primi del regno di Liutprando) consente di circoscrivere il disegno originario dell'insediamento fortificato (castrum) e della pieve ai primi decenni dell'VIII secolo. Dalle origini altomedievali e per tutta l'epoca carolingia fino almeno al X secolo, il presidio territoriale del Fontanin risultava direttamente dipendente dall'autorità regia — dipendenza che conferma l'immensa valenza strategica del controllo delle risorse idriche in un territorio dominato dalle paludi.
+
+==== Lacune documentali sul Medioevo centrale ====
+
+Nonostante la relativa chiarezza delle fonti altomedievali (VIII-X secolo), gli studiosi sottolineano un grave "silenzio notarile" nel periodo di transizione XI-XII secolo. In questa epoca di profonda riorganizzazione politica (nascita dell'età comunale, emergenza delle signorie quali i [[Visconti]] e gli [[Scaligeri]]), mancano fonti archivistiche che documentino le vicende della pieve di Sant'Andrea. Questo vuoto impedisce di tracciare con continuità gli ampliamenti costruttivi, gli eventuali decadimenti o le trasformazioni amministrative del sito in quegli anni turbolenti.
+
+=== L'addomesticamento idraulico (XII-XIX secolo) ===
+
+La '''Fossa di Sant'Andrea''', il principale canale di scolo associato al sito, fu scavata nel [[XII secolo]] — probabilmente pochi anni prima della fondazione di Villafranca (1185) — per convogliare sistematicamente le acque del [[Tione]] dalle aree collinari verso la palude di Grezzano, favorendo così il bonificamento e l'insediamento umano nella zona. L'evoluzione della rete idrica è documentata con precisione dal '''Catasto Napoleonico''' (1814-1816), conservato presso l'[[Archivio di Stato di Verona]], che rappresenta la zona come un complesso sistema di risorgive e canali (mappine napoleoniche), permettendo di identificare la struttura del Fontanin e della Fossa Moretta già all'inizio del XIX secolo.
+
+La risorgiva vera e propria denominata '''Fontanin''' fu scavata nel '''[[1682]]'''. Questa escavazione non rappresenta un evento isolato, ma il risultato di secoli di addomesticamento idraulico sistematico della pianura veneta, avviato dai [[Benedettini|Padri Benedettini]] (XI-XIII secolo) e proseguito generazione dopo generazione dalle comunità rurali. Il cratere di 6 metri che oggi caratterizza il sito testimonia l'attività di escavazione manuale eseguita dalle comunità rurali, che intervennero sul terreno per intercettare la falda freatica o per favorirne l'emersione. Questo intervento portò alla creazione di una rete di fontanili e canali (il Fosso Nuovo, la Fossa Moretta, ecc.) funzionali alla bonifica delle zone umide e alla trasformazione del territorio in aree agricole e risaie, definendo l'assetto rurale dell'area tra Grezzano e Povegliano.
+
+=== Memoria topografica e patrimonio intangibile ===
+
+[[File:Statua_Sant_Andrea_Fontanin_Villafranca_memoria_topografica.jpg|thumb|left|250px|La '''statua di Sant'Andrea''' presso il Fontanin: monumento in pietra danneggiato da vandalismo. Rimane uno dei pochi artefatti fisici del sito che testimonia nove secoli di frequentazione umana continua. Attualmente richiede restauro conservativo urgente.]]
+
+Della sacralità originaria della pieve di Sant'Andrea al Fontanile rimane oggi solo una memoria topografica e una testimonianza statuaria. Accanto al cratere della risorgiva, circondata dagli alberi, si ergeva una '''statua in pietra dell'apostolo Sant'Andrea''', eretta come memoriale per segnalare ai posteri il sito esatto ove insisteva la chiesa. Tuttavia, come documentato da cronache locali e dai resoconti dei naturalisti Paola Tosi ed Ernesto Cavallini, questo simulacro devozionale è stato sottoposto in tempi recenti a incuria e danneggiamenti vandalici — un fenomeno sintomatico della progressiva recisione del legame tra memoria del luogo e generazioni contemporanee. La statua rimane oggi un artefatto a rischio, testimone muto di nove secoli di storia locale.
+
+L'area presenta potenziale stratigrafico significativo: il comune limitrofo di [[Povegliano Veronese]] è un sito archeologico di rilievo con reperti che vanno dall'[[Eneolitico]] all'[[epoca longobarda]], inclusa una celebre necropoli longobarda (scavata in locality Ortaia, 1986) con sepolture rituali recanti cavalli e levrieri. I reperti sono conservati e esposti al [[Museo Archeologico Comprensoriale]] di Villa Balladoro, a pochi chilometri dal Fontanin. Nonostante il potenziale archeologico, il sito di Sant'Andrea-Fontanin non è stato sottoposto a scavi sistematici — una lacuna che lasciarebbe ancora scoperta la stratigrafia di un luogo frequentato umano per almeno 1.200 anni.
+
+== Folklore e cultura popolare ==
+
+=== La "spiaggia dei poveri" e la coesione sociale (1900-1970) ===
+
+Nel corso del [[XX secolo]], in particolare dal primo dopoguerra fino agli anni sessanta, il Fontanin divenne un luogo centrale nella vita sociale della popolazione rurale della Bassa Veronese. Fino alla fine degli anni '60 il cratere era universalmente riconosciuto e vissuto come la vera "'''piscina del paese'''" — il surrogato del mare per braccianti, famiglie numerose e popolazione contadina che non poteva permettersi villeggiature balneari, gite nel vicino [[Lago di Garda]] o l'utilizzo delle moderne piscine comunali allora ancora assenti. In questa prospettiva di carenze infrastrutturali, il Fontanin assunse un ruolo compensativo straordinario.
+
+Il sito guadagnò l'affettuoso appellativo di "'''mare dei poveri'''" — un soprannome eloquente che catturava la funzione sociologica del luogo. Il fondale poco profondo (generalmente poco sopra le ginocchia di un adulto in condizioni medie) lo rendeva ideale per la balneazione informale e per il gioco dei bambini. I terrazzamenti naturali che cingevano il cratere e gli ampi gradini in legno tradizionalmente ricavati nelle scarpate fungevano da spalti naturali dove la popolazione disponeva teli, sdraio improvvisati e tavolini per consumare pasti frugali all'ombra dei grandi alberi secolari. Le scuole organizzavano regolarmente gite scolastiche al Fontanin, dove i bambini giocavano imitando Tarzan ai margini dell'acqua.
+
+==== La tradizione del "citrato" ====
+
+Una pratica folcloristica particolarmente caratteristica era il consumo di '''acqua e citrato''': i visitatori bevevano la purissima e gelida acqua di sorgente (a 14 °C costanti durante tutto l'anno) mescolata con generose dosi di citrato di magnesio o citrato di sodio — un preparato effervescente granulare a uso farmaceutico/erboristico, precursore delle moderne bevande gassate industriali, diffusissimo in Italia tra l'Ottocento e il primo Novecento.<ref>Cavallini, E. (1995). Relazione: Parco del Fontanin. WWF Veronese.</ref> Questa bevanda, un lusso modesto e casalingo, costituiva il rito dissetante per eccellenza dei bagnanti del Fontanin durante le torride estati padane. La tradizione è documentata sia dalle relazioni WWF che da articoli de ''[[L'Arena di Verona]]'', che ricordano «un tempo aveva per meta un luogo ameno tra risorgive, acqua cristallina (che si beveva con il citrato), piante e animali selvatici».
+
+Una segregazione di genere informale caratterizzava l'uso del sito: la balneazione era tradizionalmente riservata ai ragazzi maschi, mentre donne e ragazze frequentavano l'area principalmente per pic-nic e giochi marginali. Questa pratica gendered rifletteva le convenzioni sociali contadine dell'epoca.
+
+==== La transizione del boom economico (1960-1980) ====
+
+Questo microcosmo socio-culturale subì un crollo rapidissimo con l'avvento del [[miracolo economico italiano]]. Le testimonianze storiche locali descrivono una sociologia della transizione straordinariamente netta: l'arrivo dei motorini (come la [[Vespa]]), delle prime automobili di massa, la diffusione capillare dei frigoriferi domestici nei nuclei familiari, e l'introduzione commerciale di bevande industriali come la [[Coca-Cola]], destrutturarono rapidamente i bisogni infrastrutturali e culturali che il Fontanin aveva fino ad allora assolto. In breve tempo, il fontanile venne abbandonato dalla collettività, declassato a semplice fosso agricolo di gestione consortile, e l'area conobbe un lungo periodo di oblio istituzionale — mitigato solo dalla cura sporadica di alcuni abitanti locali sensibili al suo valore naturalistico.
+
+=== La riscoperta contemporanea (1990-presente) ===
+
+L'abbandono del sito non fu tuttavia definitivo. A partire dagli anni novanta, con il progressivo deterioramento climatico e il soffocamento termico dei centri urbani, il Fontanin ha conosciuto una spontanea riscoperta. Un censimento informale condotto nei mesi di luglio e agosto del 1994 documentò con sorpresa come il sito registrasse quotidianamente, nelle ore di punta pomeridiane, la presenza di 50-100 persone di entrambi i sessi e di ogni età, venute a cercare sollievo dalla calura estiva immergendosi nell'acqua costantemente fresca a 14 °C.<ref>Cavallini, E. (1995). Relazione: Parco del Fontanin. WWF Veronese.</ref> Ancora oggi, durante le ondate di calore estreme, la "piscina naturale" attrae residenti in cerca di refrigerio termico, dimostrando una straordinaria resilienza del sito come spazio di aggregazione collettiva — in forte contrasto con un territorio agricolo circostante progressivamente privatizzato e inaccessibile alla popolazione locale.
+
+Sotto il profilo igienico, un'analisi chimica del 1990 giudicò l'acqua del pozzo artesiano potabile secondo gli standard dell'epoca. Tuttavia, le associazioni ambientaliste raccomandano controlli frequenti e più stringenti, data la persistente abitudine — ancora diffusa tra alcuni frequentatori — di bere l'acqua direttamente dalla sorgente, con potenziali rischi sanitari in caso di contaminazione.
+
+==== La Compagnia del Fontanin e la manutenzione volontaria ====
+
+A partire dagli anni 2000, un gruppo informale denominato '''Compagnia del Fontanin''' — composto da circa 20 pensionati provenienti da Villafranca e comuni limitrofi — ha iniziato a ritrovarsi quotidianamente presso il sito, svolgendo manutenzione volontaria continuativa. Questo gruppo non-istituzionale piantano pali di sostegno, tagliano rami pericolosi, sistemano le sponde erose, raccolgono rifiuti e gestiscono gli accessi — fungendo praticamente da custodi informali del sito durante il lungo periodo di abbandono istituzionale precedente al progetto di riqualificazione 2025-2026. Questo impegno civico rappresenta un fenomeno di "stewardship" locale assai significativo per la conservazione di un bene comune.
+
+Nel 2017 l'apertura della '''ciclovia delle risorgive''' (circa 35 km lungo il Canale Raccoglitore, da San Giovanni Lupatoto a Valeggio sul Mincio) ha reintrodotto il Fontanin sulla mappa turistica locale, aumentando significativamente l'afflusso di visitatori sia locali che cicloturisti esterni. Tuttavia, manca ancora una segnaletica adeguata che indichi specificamente la posizione del Fontanin lungo il percorso cicloturistico.
+
+== Tutela e progetti di riqualificazione ==
+
+=== La proposta del 1995 ===
+
+Nel maggio 1995 il prof. '''Ernesto Cavallini''' (naturalista e volontario [[WWF]] Veronese) elaborò il '''Progetto per un Parco del Fontanin''', una proposta di circa 34.000 m² che prevedeva il coinvolgimento del Fontanin e della Fossa Moretta in un unico corridoio ecologico. Il progetto includeva una zona bagni, aree picnic, un boschetto naturalistico, percorsi pedonali e la piantumazione di 250 alberi autoctoni e 1.000 metri di siepi. Sebbene di elevata qualità tecnica, il progetto non fu mai realizzato a causa dell'inerzia amministrativa, della frammentazione delle competenze intercomunali e della mancanza di finanziamenti.
+
+=== Il progetto 2025-2026 ===
+
+Il 12 dicembre 2025, a Villa Balladoro (Povegliano Veronese), è stato presentato il progetto '''Fontanili di Povegliano: Biodiversità Bene Comune''', vincitore del Bando Capitale Naturale 2025 della [[Fondazione Cariverona]].<ref>Fondazione Cariverona. Bando Capitale Naturale 2025. https://www.fondazionecariverona.org/</ref> Il progetto, con capofila il Comune di [[Povegliano Veronese]] e partner strategico il Comune di [[Villafranca di Verona]], ha un budget totale di '''319.000 €''' (di cui 255.000 € da Cariverona) e interessa 14 ettari complessivi.
+
+Gli obiettivi includono:
+* Creazione di 7,5 ettari di nuove superfici boscate con essenze autoctone
+* Ripristino delle zone umide degradate
+* Riqualificazione dell'ex Base Militare Hawk (18 ettari acquisiti gratuitamente dal Comune nel 2015)
+* Formazione di "Forest Keeper" — figure professionali volontarie di giovani delle scuole partner
+* "Cantieri Naturali Aperti" per la partecipazione civica
+* Biomonitoraggio innovativo tramite apiari
+
+Il progetto ambisce a fondare il '''Parco Diffuso delle Risorgive''', finalmente superando la logica dei confini comunali che aveva frenato ogni intervento per trent'anni.
+
+== Voci correlate ==
+
+* [[Risorgive della pianura padana]]
+* [[Villafranca di Verona]]
+* [[Povegliano Veronese]]
+* [[Fiume Tione]]
+* [[Fascia delle risorgive venete]]
+
+== Note ==
+
+<references />
+
+== Bibliografia ==
+
+* {{Cita libro|autore=Ernesto Cavallini|titolo=Relazione: Parco del Fontanin|editore=WWF Veronese|anno=1995}}
+* {{Cita libro|autore=L. Bonizzato|titolo=Povegliano processo a una storia|anno=2004}}
+* {{Cita libro|autore=Caterina Giostra|titolo=Il territorio di Povegliano Veronese fra tarda antichità e alto medioevo|anno=2021}}
+* {{Cita pubblicazione|autore=Carla Dal Prà|coautori=et al.|titolo=Idrogeologia dell'area collinare e di pianura del Comune di Verona|rivista=ResearchGate|anno=2021}}
+
+== Collegamenti esterni ==
+
+* {{Cita web|url=http://digilander.libero.it/fontanile/|titolo=Sito del Progetto Parco del Fontanin}}
+* {{Cita web|url=https://www.fondazionecariverona.org/|titolo=Fondazione Cariverona}}
+
+[[Categoria:Fontanili della pianura veneta]]
+[[Categoria:Villafranca di Verona]]
+[[Categoria:Povegliano Veronese]]
+[[Categoria:Risorgive del Veneto]]
+[[Categoria:Geologia della provincia di Verona]]

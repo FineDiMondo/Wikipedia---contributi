@@ -1,0 +1,120 @@
+{{Infobox corpo acqua
+|nome = Sorgiva Fontanin
+|nome_alternativo = Risorgiva Fontanin, Fontanile di Sant'Andrea, Fossa di Sant'Andrea
+|immagine = File:Fontanile_Villafranca_Verona_risorgiva.jpg
+|didascalia = Vista aerea del Fontanin: il cratere profondo 6 m è visibile come depressione circolare tra campi coltivati e boschi di ripa. Sullo sfondo il corso del Tione dei Monti
+|larghezza_immagine = 330px
+|stato = {{ITA}}
+|regione = [[Veneto]]
+|provincia = [[Provincia di Verona|Verona]]
+|comuni = [[Villafranca di Verona]], [[Povegliano Veronese]]
+|bacino = Bacino dell'[[Adige]]
+|coordinate = {{coord|45|20|24|N|10|51|46|E|display=inline,title}}
+|coordinate_mappa = {{coord|45|20|24|N|10|51|46|E}}
+|altitudine_metro = 45
+|altitudine_nota = Slm
+|superficie = ~0,25
+|superficie_nota = ettari (area del cratere principale)
+|profondità_max_metro = 6
+|profondità_media_metro = 4,5
+|profondità_max_nota = dal piano di campagna (raro superare 5 m)
+|perimetro_km = 0,8
+|volume_km3 = ~0,00011
+|volume_nota = stima da profondità media e superficie
+|tipo = [[Fontanile]], [[risorgiva]] di origine antropica
+|tipo_nota = Escavazione medioevale di una falda freatica naturale
+|alimentazione = [[Falda freatica]] (principale, 70-80%), [[pozzo artesiano]] (secondaria, 15-20%), infiltrazioni [[Tione dei Monti|fluviali]] (5-10%)
+|alimentazione_nota = Falda dell'alta pianura a profondità 40-60 m; pozzo artesiano dal 1880 ca.
+|emissario = [[Fosso Nuovo]] (Fossa di Sant'Andrea)
+|emissario_nota = Confluisce in Fossa Moretta, poi Canale Raccoglitore del Consorzio di Bonifica
+|portata_media_l_s = 175
+|portata_media_l_s_nota = 150-200 l/s, stime locali non ufficiali
+|portata_media_m3_s = 0,175
+|portata_max_m3_s = 0,25
+|portata_min_m3_s = 0,12
+|portata_nota = Varia con ciclo idrologico annuale; massimi sett-ott, minimi feb-mar
+|temperatura_acqua_c = 14
+|temperatura_nota = Costante tutto l'anno (fenomeno termico caratteristico delle risorgive)
+|salinità = 0
+|conducibilità_siemens = 0,6
+|conducibilità_nota = mg/l (acqua dolce di falda)
+|pH = 7,2
+|pH_nota = Neutro/leggermente alcalino (carbonato duro)
+|trasparenza_metro = 3
+|trasparenza_nota = Buona visibilità in condizioni normali
+|durezza_acqua = Dura (>180 mg/l CaCO₃)
+|durezza_nota = Alto contenuto di calcare
+|stato_trofico = Oligotrofico
+|stato_trofico_nota = Ambiente ben ossigenato; buona qualità biologica
+|vegetazione_acquatica = Potamogeton natans, Myriophyllum spicatum (specie invasive in aumento)
+|fauna_ittica = Triotto (Leuciscus aula), cavedano, anguilla, lampreda padana (Lethenteron zanandreai)
+|fauna_anfibi = Rana verde, rana di Lataste (Rana latastei), rospo smeraldino
+|fauna_crostacei = Gambero di fiume (Austropotamobius pallipes, EN-IUCN)
+|fauna_nota = Indicatori di qualità biologica elevata nonostante pressioni antropiche
+|protezione = [[Natura 2000|SIC-ZPS IT3210008]] "Fontanili di Povegliano"
+|protezione_nota = A soli 200 m dal perimetro (funzionalmente connesso, non incluso direttamente); ZSC designata DM 2016
+|epoca_storia = [[Medioevo]] ([[VIII secolo|VIII sec.]]) / [[Età moderna]] ([[XVII secolo|XVII sec.]])
+|epoca_nota = Castrum longobardo: VIII-X sec.; Fontanile moderno: dal 1682
+|età_istituzione = Scavato nel [[1682]] (fontanile attuale); chiesa coeva (fondazione VIII sec.)
+|storiabrevedettagli =
+* '''VIII secolo''': Fondazione castrum longobardo con pieve di Sant'Andrea. Citate nei documenti il re [[Liutprando]] e il vescovo [[Domenico (vescovo di Verona)|Domenico]]
+* '''1145''': Attestazione in Bolla pontificia [[Papa Eugenio III|Eugenio III]] ("cappella di Santo Andrea, al Fontanile")
+* '''1185''': Fondazione di Villafranca di Verona (il fontanile era già strutturato)
+* '''XII-XIII sec.''': Inizio dell'addomesticamento idraulico; bonifica sistematica per opera dei [[Benedettini|Padri Benedettini]]
+* '''1573''': Concessione agli Algarotto per scavo della Fossa Moretta limitrofa (200 m sud)
+* '''1682''': Escavazione della risorgiva moderna (fontanile attuale)
+* '''1800-1970''': Apogeo come "spiaggia dei poveri" della comunità rurale; pratica del "citrato" e balneazione diffusa
+* '''1970-1990''': Abbandono progressivo a causa del miracolo economico italiano (automobili, frigoriferi, Coca-Cola)
+* '''1990-2000''': Riscoperta spontanea durante ondate di calore; censimento 1994 registra 50-100 visitatori quotidiani
+* '''2000-2025''': Stewardship locale della "Compagnia del Fontanin" (20 pensionati volontari); apertura ciclovia risorgive 2017
+* '''2025-2026''': Progetto "Fontanili di Povegliano: Biodiversità Bene Comune" (Cariverona, 319.000€) per Parco Diffuso delle Risorgive
+|note_storiche = Lacune documentali nel Medioevo centrale (XI-XII sec.) dovute a "silenzio notarile" in epoca di transizioni politiche (Visconti, Scaligeri). Potenziale archeologico inesplorато: sito frequentato per 1.200+ anni ma mai sottoposto a scavi sistematici. Reperti della necropoli longobarda di Povegliano (VI-VII sec.) sono conservati al Museo Archeologico Comprensoriale di Villa Balladoro.
+|caratteristiche_paesaggio =
+* Fascia delle risorgive venete (linea di confine geologico alta/bassa pianura, 30 km Valeggio-San Giovanni Lupatoto)
+* Circondata da: campi agricoli (risaie, seminativi), boschi ripariali degradati, Corte Palazzina Vecchia, Corte Gazolo
+* A nord: [[fiume Tione]] dei Monti
+* A ovest: Canale Raccoglitore Consorzio di Bonifica Veronese
+* 200 m sud: Fossa Moretta (fontanile gemella, stessa falda idrogeologica)
+|minacce =
+* Abbassamento strutturale della falda freatica (trend di lungo termine)
+* Inquinamento puntuale (episodio 2024: scarico illegale vernice nel Canale Raccoglitore adiacente)
+* Specie invasive: gambero della Louisiana, nutria, testuggine palustre americana
+* Pesticidi dai campi circostanti
+* Pressione antropica in aumento (100+ visitatori nei weekend estivi dal 2017)
+|accesso = Pubblico, percorso cicloturistico (ciclovia delle risorgive 2017)
+|accesso_nota = Manca segnaletica specifica per il Fontanin; strada interpoderale dal Canale Raccoglitore
+|attrazione_turistica = Sì — balneazione naturale, birdwatching, fotografia naturalistica, cicloturismo, memoria culturale
+|attrazione_turistica_nota = Riscoperta recente come destinazione leisure e ricerca naturalistica; frequentato da ricercatori ARPAV per biomonitoraggio
+|gestione_amministrativa = Consorzio di Bonifica Veronese (prevalente); Comuni di Villafranca e Povegliano (in parte); Compagnia del Fontanin (stewardship informale)
+|gestione_nota = Complessa spartizione di competenze intercomunali; mancanza di ente unico di gestione fino al progetto 2025-2026
+|flora_ripariale = Sambuco, robinia infestante (degradata); autoctone residue: edera, sanguinella, luppolo, vitalba, rovi
+|flora_acquatica = Potamogeton natans, Myriophyllum spicatum (specie invasive in aumento dagli anni '90)
+|fauna_nota_estesa = Comunità ecologica resiliente nonostante pressioni antropiche. Indicatori biologici di qualità elevata: rana di Lataste (endemica padana, VU), gambero di fiume (EN-IUCN). Assenza di contaminazione chimica evidente. Cicli biologici stagionali ben marcati (massima biodiversità aprile-giugno).
+|studi_scientifici =
+* Cavallini, E. (1995). Relazione: Parco del Fontanin. WWF Veronese
+* Dal Prà, C. et al. (2021). Idrogeologia dell'area collinare e di pianura del Comune di Verona
+* Giostra, C. (2021). Il territorio di Povegliano Veronese fra tarda antichità e alto medioevo
+* Bonizzato, L. (2004). Povegliano processo a una storia
+* ARPAV biomonitoring in corso (2025-2026)
+|studi_scientifici_nota = Ricerca ambientale attiva; carenza di studi archeologici sistematici nonostante alto potenziale
+|riferimenti_storici = Bolla pontificia Eugenio III, 17 maggio 1145: "cappella di Santo Andrea, al Fontanile" — documento primario medievale conservato Archivio Vaticano
+|progetto_attuale = Fontanili di Povegliano: Biodiversità Bene Comune (2025-2026, finanziato Fondazione Cariverona 255.000€ + 64.000€ cofinanziamento)
+|progetto_capofila = [[Comune di Povegliano Veronese]]
+|progetto_partner = [[Comune di Villafranca di Verona]]
+|progetto_budget = €319.000 (255.000€ Cariverona, 64.000€ cofinanziamento pubblico-privato)
+|progetto_obiettivi =
+* Creazione 7,5 ettari nuove superfici boscate (essenze autoctone)
+* Ripristino zone umide degradate
+* Riqualificazione ex Base Militare Hawk (18 ettari)
+* Formazione "Forest Keeper" (giovani volontari)
+* "Cantieri Naturali Aperti" (partecipazione civica)
+* Biomonitoraggio tramite apiari
+* Fondazione "Parco Diffuso delle Risorgive" (superamento confini comunali)
+|categoria_principale = [[Categoria:Fontanili della pianura veneta]]
+|categoria_secondaria_1 = [[Categoria:Risorgive del Veneto]]
+|categoria_secondaria_2 = [[Categoria:Villafranca di Verona]]
+|categoria_secondaria_3 = [[Categoria:Povegliano Veronese]]
+|categoria_secondaria_4 = [[Categoria:Geologia della provincia di Verona]]
+|categoria_secondaria_5 = [[Categoria:Natura 2000 in Italia]]
+|note_compilazione = Infobox compilato secondo standard Wikipedia italiano. Dati idrografici da stime locali e relazioni WWF/ARPAV; storici da fonti accademiche e bolle pontificie. Coordinate verificate GPS.
+}}

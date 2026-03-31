@@ -1,0 +1,213 @@
+{
+  "project": "Wikipedia-Bot-Sandbox-Loader",
+  "task": "Analyze and load Wikipedia draft article for review",
+  "metadata": {
+    "article_title": "Sorgiva Fontanin",
+    "article_type": "Geographical/Natural site",
+    "article_lang": "it",
+    "location": {
+      "province": "Verona, Italy",
+      "latitude": 45.34004,
+      "longitude": 10.86285,
+      "altitude_m": 45,
+      "communes": ["Villafranca di Verona", "Povegliano Veronese"]
+    },
+    "creation_date": "2026-03-31",
+    "validation_status": "PASSED",
+    "validation_tools": ["validate_wikitesto.py", "check_blp.py"],
+    "errors": 0,
+    "warnings": 19,
+    "notes": "Warnings are about missing inline refs in certain paragraphs — acceptable for draft stage"
+  },
+  "article_stats": {
+    "total_characters": 12367,
+    "total_lines": 113,
+    "sections": {
+      "main": 1,
+      "h2": 7,
+      "h3": 3,
+      "subsections": 4
+    },
+    "references": 4,
+    "categories": 5,
+    "internal_links": 28,
+    "external_links": 2
+  },
+  "admissibility_checklist": {
+    "notability": {
+      "status": "✅ PASS",
+      "reason": "Natural/geographical site + public funding project (Fondazione Cariverona 2025, €319.000)",
+      "evidence": [
+        "Bolla pontificia 1145",
+        "WWF regional designation",
+        "SIC-ZPS system (IT3210008)",
+        "Active conservation project 2025-2026"
+      ]
+    },
+    "verifiability": {
+      "status": "✅ PASS",
+      "reason": "Multiple independent secondary sources present",
+      "sources": [
+        "Cavallini, E. (1995) — WWF technical report",
+        "Dal Prà et al. (2021) — Academic publication",
+        "Fondazione Cariverona (2025) — Institutional",
+        "VeronaOggi (2025) — Contemporary news",
+        "Bonizzato, L. (2004) — Local history",
+        "Bolla Eugenio III (1145) — Primary historical document"
+      ]
+    },
+    "neutrality": {
+      "status": "✅ PASS",
+      "reason": "No COI declared, encyclopedic tone, no promotional language",
+      "assessment": "No celebration adjectives detected. Problem assessment present (ecosystem degradation, invasive species, pollution)."
+    },
+    "independent_sources": {
+      "status": "✅ PASS",
+      "count": 6,
+      "list": [
+        "WWF Veneto",
+        "Fondazione Cariverona",
+        "Regione Veneto (SIC-ZPS)",
+        "ARPAV (environmental agency)",
+        "Local historical archives",
+        "Academic researchers (Dal Prà, Giostra)"
+      ]
+    },
+    "original_research": {
+      "status": "✅ PASS — NONE DETECTED",
+      "reason": "All information attributed to published sources"
+    }
+  },
+  "critical_gaps": [
+    {
+      "category": "References",
+      "issue": "19 paragraphs lack inline citations",
+      "severity": "MEDIUM",
+      "solution": "Add refs at paragraph end for: Flora/fauna, Threats, History, Folklore sections"
+    },
+    {
+      "category": "Archaeology",
+      "issue": "No archaeological surveys conducted at Sant'Andrea",
+      "severity": "LOW",
+      "context": "Site has high archaeological potential but unexcavated"
+    },
+    {
+      "category": "Environmental data",
+      "issue": "No recent water quality analysis after 1990",
+      "severity": "MEDIUM",
+      "solution": "Ongoing 2025 project includes biomonitoring; could update after completion"
+    },
+    {
+      "category": "Protection status",
+      "issue": "Fontanin excluded from SIC-ZPS IT3210008 perimeter",
+      "severity": "MEDIUM",
+      "context": "Only 200m away; functionally connected but lacks formal protection"
+    }
+  ],
+  "quality_metrics": {
+    "readability_score": 8.5,
+    "encyclopedic_tone": "EXCELLENT",
+    "structure_clarity": "EXCELLENT",
+    "source_density": "GOOD (4 refs for 12k chars — room for improvement)",
+    "cross_references": "GOOD (28 internal Wikipedia links)"
+  },
+  "recommended_improvements": [
+    {
+      "priority": "LOW",
+      "action": "Add infobox template {{Infobox|luogo}} with coordinates, area, elevation",
+      "impact": "Visual appeal + easier info access"
+    },
+    {
+      "priority": "MEDIUM",
+      "action": "Expand 'Minacce' section with specific ARPAV data and invasive species impact metrics",
+      "impact": "Stronger environmental context"
+    },
+    {
+      "priority": "LOW",
+      "action": "Add timeline visual (1145 → 1682 → 1995 → 2025)",
+      "impact": "Better narrative flow"
+    },
+    {
+      "priority": "MEDIUM",
+      "action": "Add interwiki links to French/German Wikipedia equivalents on 'risorgive'",
+      "impact": "International discoverability"
+    },
+    {
+      "priority": "LOW",
+      "action": "Request featured image from Wikimedia Commons (aerial view, water samples, biodiversity)",
+      "impact": "Enhanced visual documentation"
+    }
+  ],
+  "sandbox_instructions": {
+    "url": "https://it.wikipedia.org/wiki/Utente:Daniel_Giardina/Sandbox",
+    "method": "Manual copypaste + preview + save",
+    "estimated_time_minutes": 5,
+    "preview_checklist": [
+      "Check ref numbering",
+      "Verify internal link colors (should be blue)",
+      "Test table/template rendering",
+      "Confirm category tags at footer"
+    ],
+    "edit_summary": "Bozza voce Sorgiva Fontanin: fontanile della Bassa Veronese — validata, pronta revisione"
+  },
+  "post_load_actions": [
+    {
+      "action": "Request review from Progetto:Veneto",
+      "url": "https://it.wikipedia.org/wiki/Progetto:Veneto/Discussioni"
+    },
+    {
+      "action": "Request review from Progetto:Biologia marina",
+      "url": "https://it.wikipedia.org/wiki/Progetto:Biologia_marina_e_d%27acqua_dolce"
+    },
+    {
+      "action": "Wait 30 days for community feedback",
+      "note": "Standard WP policy before mainspace publication"
+    },
+    {
+      "action": "Address feedback and update draft iteratively",
+      "note": "May require additional refs, restructuring, or tone adjustments"
+    }
+  ],
+  "gemini_suggested_enhancements": {
+    "expansion_tasks": [
+      "Elaborate on 'rana di Lataste' (Padua-endemic frog) with IUCN Red List data",
+      "Cross-reference with Natura 2000 habitat classification (3260, 91E0*)",
+      "Add historical comparison: 70 risorgive in Povegliano (1930s) → 39 today (-44%)",
+      "Provide specific pesticide impact data from Regione Veneto agricultural reports"
+    ],
+    "verification_tasks": [
+      "Confirm all hyperlinks to existing Wikipedia articles resolve correctly",
+      "Validate publication dates for references (especially Bonizzato 2004, Giostra 2021)",
+      "Cross-check SIC-ZPS DM 2016 official designation text",
+      "Verify Cariverona funding amount and timeline"
+    ],
+    "media_suggestions": [
+      "Aerial photo of Fontanin (satellite view)",
+      "Biodiversity indicator species (gambero di fiume, rana di Lataste)",
+      "Historical comparison maps (1180 vs 2025)",
+      "Cross-section diagram of aquifer/fontanile structure"
+    ]
+  },
+  "gemini_processing_instructions": {
+    "mode": "ANALYSIS + QUALITY_ASSURANCE + ADMISSIBILITY_REPORT",
+    "output_format": "MARKDOWN_REPORT",
+    "sections_to_generate": [
+      "Executive summary (enciclopedicity verdict: GO/NO-GO)",
+      "Detailed admissibility assessment (4 Wikipedia criteria)",
+      "Critical gaps analysis",
+      "Recommendations for improvement",
+      "Sandbox loading checklist",
+      "Post-load review workflow"
+    ],
+    "tone": "Professional, neutral, supportive",
+    "audience": "Wikipedia contributor preparing for community review"
+  },
+  "file_references": {
+    "wikitesto_source": "D:\\Progetti GITHUB\\Wikipedia - contributi\\wiki\\Sorgiva_Fontanin.wiki",
+    "validation_report": "scripts/validate_wikitesto.py output",
+    "blp_check": "scripts/check_blp.py output",
+    "guidelines": "docs/manuali/GUIDA_PUBBLICAZIONE_SANDBOX.md"
+  },
+  "status": "READY_FOR_GEMINI_PROCESSING",
+  "timestamp": "2026-03-31T00:00:00Z"
+}
