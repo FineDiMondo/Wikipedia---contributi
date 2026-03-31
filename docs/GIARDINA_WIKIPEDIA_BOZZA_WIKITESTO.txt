@@ -1,0 +1,13 @@
+FILE SUPERATO
+
+Questo file non va più usato come base di pubblicazione.
+
+La bozza corrente da considerare è:
+
+- `wiki/Famiglia_Giardina.wiki`
+
+Motivi:
+
+- il file precedente reintroduceva origini medievali / Val Demone e ipotesi normanne;
+- manteneva riferimenti FamilySearch nel corpo o nelle note;
+- non era allineato ai tagli strutturali già applicati al wikitesto pubblicabile.

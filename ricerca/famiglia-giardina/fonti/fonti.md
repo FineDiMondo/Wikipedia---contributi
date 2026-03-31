@@ -46,9 +46,12 @@
 3. Investitura del principato di Ficarazzi (1733) — ASPa Real Cancelleria / Conservatoria
 4. Testamento Luigi Arias Giardina (1627) — ASPa Notai Defunti
 5. Fondazione Chiesa Sant'Atanasio (1732–1734) — Archivio Diocesano Palermo
+<<<<<<< HEAD:ricerca/famiglia-giardina/fonti/fonti.md
 
 ## Regola di uso nel wikitesto
 
 - Le date chiave 1621, 1703 e 1733 possono restare nel testo solo se attribuite ai repertori o alla storiografia già identificata.
 - Le segnature archivistiche ASPa e Archivio Diocesano vanno inserite nel corpo della voce solo dopo riscontro diretto.
 - Il raccordo genealogico verso i rami ottocenteschi e novecenteschi va tenuto nei dossier di ricerca, non nella voce principale, finché non esista copertura storica autonoma.
+=======
+>>>>>>> f8ff2d45a6e355d3d17e3fbad5d3a2c4ea8ea51d:dossier/famiglia-giardina/fonti.md

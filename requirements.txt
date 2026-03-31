@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 requests>=2.31,<3
 mysql-connector-python>=8.0
+=======
+anthropic-sdk
+python-dotenv
+requests
+>>>>>>> f8ff2d45a6e355d3d17e3fbad5d3a2c4ea8ea51d
